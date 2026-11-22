@@ -84,6 +84,10 @@
   }
   async function loadVersion(id) {
     if (state.cache[id]) return state.cache[id];
+    if (window.QUIZ_DATA && window.QUIZ_DATA.versions && window.QUIZ_DATA.versions[id]) {
+      state.cache[id] = window.QUIZ_DATA.versions[id];
+      return state.cache[id];
+    }
     const meta = state.manifest.versions.find((v) => v.id === id);
     const data = await fetchJSON(`data/${meta.file}`);
     state.cache[id] = data;
@@ -481,14 +485,19 @@
 
   // ---------- başlat ----------
   loadSettings();
-  fetchJSON("data/manifest.json")
-    .then((m) => { state.manifest = m; renderHome(); })
-    .catch((err) => {
-      const box = $("loadError");
-      box.classList.remove("hidden");
-      box.innerHTML = "";
-      box.appendChild(el("div", null, "Soru verileri yüklenemedi: " + err.message));
-      box.appendChild(el("div", "small",
-        "Dosyayı doğrudan açmak yerine bir yerel sunucu üzerinden aç: python3 -m http.server 8000 --directory quiz"));
-    });
+  if (window.QUIZ_DATA && window.QUIZ_DATA.manifest) {
+    state.manifest = window.QUIZ_DATA.manifest;
+    renderHome();
+  } else {
+    fetchJSON("data/manifest.json")
+      .then((m) => { state.manifest = m; renderHome(); })
+      .catch((err) => {
+        const box = $("loadError");
+        box.classList.remove("hidden");
+        box.innerHTML = "";
+        box.appendChild(el("div", null, "Soru verileri yüklenemedi: " + err.message));
+        box.appendChild(el("div", "small",
+          "Dosyayı doğrudan açmak yerine bir yerel sunucu üzerinden aç: python3 -m http.server 8000 --directory quiz"));
+      });
+  }
 })();

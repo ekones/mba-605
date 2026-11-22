@@ -59,5 +59,7 @@ Her "soruları üret" isteğinde **önceki setlerde olmayan 25 yeni soru** içer
 7. **Doğrula** – `python3 tools/validate_questions.py` çalıştır; HATA YOK ve dengeli dağılım görene kadar düzelt.
    Benzerlik uyarısı (⚠) çıkarsa ilgili soruyu yeniden yaz.
 
-8. Kullanıcıya kısaca hangi sürümün eklendiğini, bölüm dağılımını ve platformun nasıl açılacağını bildir:
-   `python3 -m http.server 8000 --directory quiz` → http://localhost:8000
+8. **JS Paketini Güncelle** – `python3 tools/build_js_bundle.py` çalıştır; böylece yeni eklenen set `quiz/questions-data.js` içine gömülür ve çift tıklayarak (file://) doğrudan çalışmaya devam eder.
+
+9. Kullanıcıya kısaca hangi sürümün eklendiğini, bölüm dağılımını ve platformun nasıl açılacağını bildir:
+   `quiz/index.html` dosyasını doğrudan tarayıcıda açabilir veya `python3 -m http.server 8000 --directory quiz` ile çalıştırabilir.

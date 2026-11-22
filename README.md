@@ -16,13 +16,16 @@
 
 ## Çalıştırma
 
-```bash
-python3 -m http.server 8000 --directory quiz
-# tarayıcıda: http://localhost:8000
-```
+Platformu **2 farklı şekilde** kullanabilirsiniz:
 
-> `index.html` dosyasını doğrudan (file://) açmak JSON yüklemesini engeller; bir yerel sunucu kullanın.
-> `quiz/` klasörü olduğu gibi GitHub Pages / Netlify gibi herhangi bir statik sunucuya da konabilir.
+1. **Doğrudan Çift Tıklayarak (Sunucusuz):**
+   `quiz/index.html` dosyasını tarayıcınızda çift tıklayarak doğrudan açabilirsiniz. Sorular `quiz/questions-data.js` içerisine gömülü olduğu için herhangi bir yerel HTTP sunucusuna ihtiyaç duymaz.
+
+2. **Yerel HTTP Sunucusu ile:**
+   ```bash
+   python3 -m http.server 8000 --directory quiz
+   # tarayıcıda: http://localhost:8000
+   ```
 
 ## Yeni soru seti
 
