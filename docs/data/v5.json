@@ -9,427 +9,427 @@
     {
       "id": "v5-q01",
       "chapter": 1,
-      "topic": "İş Devamsızlığı ve Devir Oranı tanımları",
-      "difficulty": "kolay",
-      "question": "Bir çalışanın herhangi bir nedenle işe gelmemesi durumuna 'İş Devamsızlığı' (Absenteeism) denirken; bir çalışanın kuruluştan gönüllü veya gönülsüz olarak kalıcı biçimde ayrılmasına ne ad verilir?",
+      "topic": "ÖD'ye Katkı Sağlayan Disiplinler: Sosyal Psikoloji",
+      "difficulty": "zor",
+      "question": "Örgütsel Davranış alanına katkı sağlayan disiplinler arasında; bireysel psikoloji ile makro sosyolojiyi harmanlayarak özellikle çalışanların tutum değişim süreçlerini, grup içi iletişim örüntülerini, güven inşasını ve ortak karar alma dinamiklerini inceleyen bilim dalı hangisidir?",
       "options": [
-        "Personel Devir Oranı (Turnover)",
-        "Olağandışı İş Yeri Davranışı",
-        "İş Tatminsizliği",
-        "Duygusal Geri Çekilme",
-        "Rol Çatışması"
+        "Antropoloji",
+        "Siyaset bilimi",
+        "Sosyoloji",
+        "Fizyoloji",
+        "Sosyal psikoloji"
       ],
-      "answer": 0,
-      "explanation": "Devir oranı (Turnover), personelin kuruluştan kalıcı olarak (gönüllü istifa veya çıkarılma) ayrılması durumunu tanımlar.",
-      "source": "OB_hafta01 – İş Devamsızlığı ve Devir Oranı"
+      "answer": 4,
+      "explanation": "Sosyal psikoloji; psikoloji ve sosyoloji kavramlarını harmanlayarak insanların birbirleri üzerindeki etkilerini, tutum değişimini, iletişim kalıplarını ve grup süreçlerini inceler.",
+      "source": "OB_hafta01 – ÖD Disiplinleri: Sosyal Psikoloji"
     },
     {
       "id": "v5-q02",
       "chapter": 1,
-      "topic": "İşgücü Çeşitliliğini Yönetme felsefesi",
+      "topic": "ÖD'de Koşulsallık ve Durumsallık Yaklaşımı",
       "difficulty": "orta",
-      "question": "Günümüzün çağdaş yönetim anlayışında 'İş Yeri Çeşitliliği Yönetimi' konusunda yöneticilerin benimsemesi gereken temel felsefe nedir?",
+      "question": "Örgütsel Davranışta doğa bilimlerindeki gibi basit, değişmez ve evrensel doğa yasalarının üretilememesinin ve yönetsel ilkelerin daima 'x faktörü, y sonucuna ancak z koşulu altında yol açar' şeklinde ifade edilmesinin temel nedeni nedir?",
       "options": [
-        "Farklılıkları yok sayıp herkese tamamen tek tip davranmaya çalışmak",
-        "Sadece aynı demografik kökenden gelen çalışanları istihdam etmek",
-        "Herkese yüzeysel olarak eşit davranma yaklaşımından ziyade, bu farklılıkları koruyarak kuruma zenginlik ve rekabetçi fayda sağlama anlayışına geçmek",
-        "Azınlık gruplarını yönetim pozisyonlarından uzak tutmak",
-        "Kültürel farklılıkları yalnızca yasal bir zorunluluk ve maliyet olarak görmek"
+        "İnsanların karmaşık yapısı gereği aynı çevresel uyarana farklı durumlarda farklı tepkiler vermesi ve durumsal değişkenlerin devreye girmesi",
+        "Psikoloji deneylerinin güvenilirliğinin tamamen sıfır olması",
+        "İşletmelerin hiçbir ortak yönünün ve benzer hedefinin bulunmaması",
+        "Örgüt yöneticilerinin bilimsel araştırmaları takip etmeyi reddetmesi",
+        "Yönetsel süreçlerin tamamen şansa ve kadere bağlı işlemesi"
       ],
-      "answer": 2,
-      "explanation": "Yöneticiler herkese tamamen eşit davranma yaklaşımından kayarak, iş gücü çeşitliliğini koruyarak kurumun performansına nasıl fayda getireceklerine odaklanmalıdır.",
-      "source": "OB_hafta01 – Çeşitlilik Uygulamaları"
+      "answer": 0,
+      "explanation": "İnsanlar karmaşık ve farklı varlıklardır; bu nedenle evrensel ilkeler yerine koşulsallık / durumsallık değişkenleri (contingency variables) esastır.",
+      "source": "OB_hafta01 – ÖD'de Çok Az Mutlak Kural Vardır: Koşulsallık"
     },
     {
       "id": "v5-q03",
       "chapter": 1,
-      "topic": "Sistematik Çalışma vs. Sezgi",
+      "topic": "Yönetim Fonksiyonları: Örgütleme",
       "difficulty": "orta",
-      "question": "Örgütsel Davranış biliminde 'Sistematik Çalışma' ile 'Sezgi' arasındaki ilişkiye dair aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "question": "Yeni kurulan bir teknoloji girişiminde genel müdürün; hangi görevlerin kimler tarafından yapılacağını belirlemesi, görevleri iş birimlerine ayırması, kimin kime rapor vereceğini ve karar yetkisinin hiyerarşik dağılımını tasarlaması hangi yönetim fonksiyonunun gereğidir?",
       "options": [
-        "Sezgiler yöneticiler için tamamen faydasızdır ve asla kullanılmamalıdır.",
-        "Sistematik çalışma insan davranışının rassal olduğunu varsayar.",
-        "Sistematik inceleme sadece muhasebe ve finans alanında kullanılır, insan davranışında uygulanamaz.",
-        "Sezgisel kararlar her zaman bilimsel kanıtlardan daha doğru sonuç verir.",
-        "Sezgi ve sistematik çalışma birbirini dışlamaz; aksine sistematik inceleme ve kanıta dayalı yönetim sezgiyi tamamlayarak davranış tahminlerinin kesinliğini artırır."
+        "Planlama",
+        "Liderlik",
+        "Örgütleme",
+        "Denetleme",
+        "Bütçeleme"
       ],
-      "answer": 4,
-      "explanation": "ÖD sezgiyi tamamen reddetmez; ancak sistematik çalışma sebep-sonuç ilişkilerini ve bilimsel delilleri kullanarak sezgiyi tamamlar ve öngörü gücünü artırır.",
-      "source": "OB_hafta01 – Sistematik İnceleme Sezgiden Farklıdır"
+      "answer": 2,
+      "explanation": "Örgütleme; neyin yapılması gerektiğini, nasıl yapılacağını ve kimin kime rapor edeceğini belirleme ve kurumsal yapıyı tasarlama fonksiyonudur.",
+      "source": "OB_hafta01 – Yönetim Fonksiyonları: Örgütleme"
     },
     {
       "id": "v5-q04",
-      "chapter": 2,
-      "topic": "Ayrımcılık ve Kalıp Yargı (Stereotip)",
-      "difficulty": "orta",
-      "question": "Bir insan kaynakları yöneticisinin, 55 yaşındaki bir adayın özgeçmişini incelerken 'Yaşlı insanlar teknolojiye asla uyum sağlayamaz' ön yargısıyla hareket ederek adayı mülakata dahi çağırmaması hangi kavrama örnektir?",
+      "chapter": 1,
+      "topic": "Şebeke Örgütler ve Sanal Çalışma Dinamikleri",
+      "difficulty": "zor",
+      "question": "Çalışanların farklı coğrafyalara dağıldığı, fiziksel olarak bir araya gelmeksizin yazılımlar ve dijital platformlar üzerinden ortak projeler yürüttüğü modern şebeke örgütlerde; yöneticilerin çalışanları motive etme ve koordine etme tarzında yaşanan en köklü dönüşüm nedir?",
       "options": [
-        "Rasyonel Eleme Modeli",
-        "Derin Çeşitlilik Yönetimi",
-        "Genel Düşünsel Değerlendirme",
-        "Adil Olmayan Ayrımcılık ve Kalıp Yargı (Stereotipleme)",
-        "İş-Yaşam Dengesi"
+        "Yöneticilik fonksiyonunun tamamen gereksiz hale gelerek son bulması",
+        "Biçimsel sözleşmelerin tamamen ortadan kalkarak her şeyin sözlü vaatlere dayanması",
+        "Kıdem ve uzmanlığın yerini sadece yaş faktörünün alması",
+        "Fiziksel gözetim ve mekanik denetimin yerini dijital iletişim, güven inşası ve sonuç odaklı yönetsel becerilere bırakması",
+        "Çalışanların tamamen bağımsızlaşarak örgütsel hedeflerden kopması"
       ],
       "answer": 3,
-      "explanation": "İnsanlar hakkında bağlı oldukları demografik gruba (yaş, ırk vb.) dayanarak kalıp yargılar üretip buna göre haksız karara varmak 'adil olmayan ayrımcılık'tır.",
-      "source": "2. Bölüm – Ayrımcılık"
+      "explanation": "Şebeke örgütlerde yöneticiler çalışanları fiziksel olarak görmeden yönetmek zorundadır; bu durum fiziksel varlığın yerini iletişim, hedef takibi ve güvene dayalı yeni becerilere bırakmasını gerektirir.",
+      "source": "OB_hafta01 – Şebeke Örgütlerle Başa Çıkma"
     },
     {
       "id": "v5-q05",
-      "chapter": 2,
-      "topic": "Irk ve Etnik Köken araştırmaları",
-      "difficulty": "orta",
-      "question": "Ders notlarında yer alan ırk ve etnik köken araştırmalarına göre, işe alımlarda ve terfilerde görülen genel eğilim aşağıdakilerden hangisidir?",
+      "chapter": 1,
+      "topic": "Örgütsel Vatandaşlık Davranışı: Vicdanlılık Boyutu",
+      "difficulty": "zor",
+      "question": "Bir imalat şirketinde çalışan bir kalite teknisyeninin; çalışma saatlerine harfiyen uyması, mola sürelerini asla aşmaması, şirket prosedürlerini ve güvenlik talimatlarını hiçbir dış denetim olmadan en ufak ayrıntısına kadar titizlikle uygulaması Örgütsel Vatandaşlık Davranışının hangi boyutuna örnektir?",
       "options": [
-        "Kültürel çeşitlilik arttıkça ırk faktörü ilk günden itibaren tamamen önemsizleşir.",
-        "Farklı ırklar arasında fırsat eşitliği konusunda hiçbir görüş ayrılığı yoktur.",
-        "Afrika kökenli Amerikalılar işle ilgili değerlendirmelerde her zaman beyazlardan daha yüksek puan almaktadır.",
-        "İnsanlar işe alım ve terfilerde kendi ırklarından olanları hafif bir eğilimle de olsa tercih etme eğilimindedirler.",
-        "İşe alımlarda demografik benzerliğin terfi şansına hiçbir etkisi olmadığı kanıtlanmıştır."
+        "Sportmenlik",
+        "Vicdanlılık",
+        "Özgecilik",
+        "Sivil erdem",
+        "Nezaket"
       ],
-      "answer": 3,
-      "explanation": "Notlara göre: 1) İnsanlar kendi ırklarından olanları hafif bir tercihle önceler, 2) Fırsat eşitliğine karşı tutum ırklar arasında farklılaşır, 3) Afrikalı Amerikalılar genelde daha düşük değerlendirilir.",
-      "source": "2. Bölüm – Irk ve Etnik Köken"
+      "answer": 1,
+      "explanation": "Vicdanlılık boyutu; bireyin örgütün asgari rol gerekliliklerinin çok üzerinde bir özen, dakiklik ve kural titizliği sergilemesini ifade eder.",
+      "source": "OB_hafta01 – Örgütsel Vatandaşlık Davranışı Boyutları"
     },
     {
       "id": "v5-q06",
       "chapter": 2,
-      "topic": "Etkin Çeşitlilik Programları: Nissan örneği",
-      "difficulty": "kolay",
-      "question": "Ders notlarında yer alan Nissan Motor Company örneğinde, kadın çalışanların kariyerlerini geliştirmek ve yeteneklerini artırmak amacıyla kurulan yapı aşağıdakilerden hangisidir?",
+      "topic": "Biyografik Özellikler: Cinsiyet ve Yetenek Eşitliği",
+      "difficulty": "orta",
+      "question": "Örgütsel Davranış literatüründe kadın ve erkek çalışanlar arasındaki olası bilişsel ve performans farklarını inceleyen kapsamlı ampirik araştırmaların ortaya koyduğu nesnel bulgu aşağıdakilerden hangisidir?",
       "options": [
-        "Geleneksel Sendika Temsilciliği",
-        "Otokratik Denetim Kurulu",
-        "Çeşitliliği Geliştirme Ofisi",
-        "Makyavelist Danışmanlık Grubu",
-        "Dışsal Ödül Komitesi"
+        "Kadınların iş tatmini ve örgütsel bağlılığı her meslek dalında erkeklerden sürekli daha düşüktür",
+        "Erkek çalışanların devamsızlık ve işten ayrılma oranları ailevi yükümlülükler nedeniyle kadınlardan iki kat fazladır",
+        "Problem çözme, analitik muhakeme, rekabet dürtüsü ve öğrenme kapasitesi açısından kadınlar ile erkekler arasında istatistiksel olarak anlamlı hiçbir fark bulunmamaktadır",
+        "Kadın çalışanlar teknik ve matematiksel görevleri öğrenmede biyolojik olarak sınırlıdır",
+        "Erkeklerin analitik düşünme ve problem çözme kapasitesi kadınlardan belirgin derecede üstündür"
       ],
       "answer": 2,
-      "explanation": "Nissan Motor Company'nin Japonya'daki 'Çeşitliliği Geliştirme Ofisi', montaj hattındaki kadın işçilere birebir danışmanlık ve eğitim sunmaktadır.",
-      "source": "2. Bölüm – Etkin Çeşitlilik Programları (Nissan)"
+      "explanation": "Geniş çaplı ampirik araştırmalar; kadın ve erkek çalışanlar arasında problem çözme becerisi, analitik yetenek, öğrenme kapasitesi ve motivasyon açısından hiçbir tutarlı fark olmadığını doğrulamıştır.",
+      "source": "OB_hafta02 – Biyografik Özellikler: Cinsiyet"
     },
     {
       "id": "v5-q07",
-      "chapter": 3,
-      "topic": "Tutumun Duygusal Unsuru",
-      "difficulty": "kolay",
-      "question": "'Yeni ofis açık planlı olduğu için odaklanamıyorum ve bu ortam beni aşırı derecede gergin ve mutsuz hissettiriyor' diyen bir çalışanın bu ifadesi tutumun hangi ana unsurunu yansıtır?",
+      "chapter": 2,
+      "topic": "Genel Düşünsel Yetenek ve İş Karmaşıklığı",
+      "difficulty": "zor",
+      "question": "Genel Düşünsel Yetenek ile iş performansı arasındaki ilişkiyi farklı meslek kategorileri açısından inceleyen araştırmalara göre; düşünsel yeteneklerin performansı yordama gücü hakkında aşağıdakilerden hangisi doğrudur?",
       "options": [
-        "Bilişsel Unsur",
-        "Normatif Unsur",
-        "Davranışsal Unsur",
-        "Duygusal Unsur",
-        "Özgecilik Unsuru"
+        "Fiziksel güç gerektiren işlerde düşünsel yetenek negatif performans üretir",
+        "İşin bilişsel karmaşıklığı, bilgi işleme yoğunluğu ve belirsizlik düzeyi arttıkça düşünsel yeteneğin iş başarısını öngörme gücü daha da yükselmektedir",
+        "Düşünsel yeteneklerin yordama gücü çalışan işe girdikten sonraki ilk haftada tamamen sıfırlanır",
+        "Karmaşık yöneticilik ve strateji pozisyonlarında zihinsel yeteneklerin performansa hiçbir etkisi yoktur",
+        "Düşünsel yetenek yalnızca rutin ve tekrara dayalı fiziksel işlerde performansı öngörür"
       ],
-      "answer": 3,
-      "explanation": "Duygusal unsur, bir tutumun duygusal hislerle ilgili ('gergin ve mutsuz hissettiriyor') olan parçasıdır.",
-      "source": "3. Bölüm – Tutumların Ana Unsurları"
+      "answer": 1,
+      "explanation": "Genel Düşünsel Yetenek tüm işlerde performansı öngören en güçlü faktördür; ancak iş ne kadar karmaşık ve bilgi yoğun hale gelirse (örneğin yöneticilik, tıp, mühendislik), yeteneğin performansı yordama gücü o kadar artar.",
+      "source": "OB_hafta02 – Genel Düşünsel Yetenek ve Meslekler"
     },
     {
       "id": "v5-q08",
-      "chapter": 3,
-      "topic": "Tatminsizlik Tepkisi: Sadakat (Loyalty)",
+      "chapter": 2,
+      "topic": "Ayrımcılık Türleri: Nezaketsizlik",
       "difficulty": "orta",
-      "question": "Çalıştığı firmada yönetim krizleri yaşanmasına rağmen hiçbir eleştiride bulunmayan, istifa etmeyi de aklından geçirmeyen ve 'Zamanla her şey yoluna girer, yöneticilerimiz en iyisini bilir' diyerek pasifçe bekleyen bir çalışanın tepkisi nedir?",
+      "question": "Bir departman yöneticisinin haftalık değerlendirme toplantılarında bir çalışanın konuşmasını sürekli bölmesi, fikirlerini alaycı yüz ifadeleriyle küçümsemesi ve doğrudan hakaret etmese de kaba ve saygısız bir iletişim dili benimsemesi hangi ayrımcılık türüne örnektir?",
       "options": [
-        "Sadakat (Loyalty)",
-        "Söz Hakkı (Voice)",
-        "Çıkış (Exit)",
-        "İhmal (Neglect)",
-        "Örgütsel Sapkınlık"
+        "Cinsel taciz",
+        "Dışlama",
+        "Açık tehdit ve yıldırma",
+        "Kurumsal ayrımcı politika",
+        "Nezaketsizlik"
       ],
-      "answer": 0,
-      "explanation": "Sadakat (Loyalty), koşulların kendiliğinden düzelmesini pasif ve iyimser bir şekilde bekleme yoluyla tatminsizliği ifade etmektir.",
-      "source": "3. Bölüm – How Employees Can Express Dissatisfaction"
+      "answer": 4,
+      "explanation": "Nezaketsizlik; doğrudan fiziksel veya yasal şiddet içermeyen ancak saygısız, kırıcı ve alaycı tutumları içeren yıkıcı mikro-davranışlardır.",
+      "source": "OB_hafta02 – Ayrımcılık Türleri: Nezaketsizlik"
     },
     {
       "id": "v5-q09",
-      "chapter": 3,
-      "topic": "İş Tatmini ve Şirket Finansal Performansı",
+      "chapter": 2,
+      "topic": "Biyografik Özellikler: Kıdem ve Örgütsel Çıktılar",
       "difficulty": "orta",
-      "question": "Ders notlarında yer alan yönetim danışmanlığı araştırmasına göre, çalışanlarının genel iş memnuniyeti yüksek olan (%70'in üzerinde) büyük kuruluşlar ile memnuniyeti düşük olanlar karşılaştırıldığında hisse senedi performansında nasıl bir fark saptanmıştır?",
+      "question": "Bir çalışanın mevcut kurumunda geçirdiği hizmet süresini ifade eden 'kıdem' faktörünün iş performansı, iş tatmini ve devamsızlık üzerindeki etkilerini inceleyen araştırmaların ortak sonucu nedir?",
       "options": [
-        "Yüksek moralli şirketlerin hisse senetleri (%19.4 artış), düşük morallilere (%10 artış) kıyasla neredeyse iki kat daha fazla değer kazanmıştır.",
-        "İş tatmininin şirketlerin borsa değerine hiçbir olumlu etkisi olmadığı görülmüştür.",
-        "Tatminsiz çalışanların olduğu şirketler daha çok kâr etmiştir.",
-        "Yüksek moralli şirketler daha fazla iflas etmiştir.",
-        "Hisse senetleri her iki grupta da tamamen aynı oranda artmıştır."
+        "Kıdem arttıkça iş tecrübesine bağlı olarak iş performansı artmakta, kaçınılabilir devamsızlık ve işten ayrılma oranları belirgin biçimde düşmektedir",
+        "Kıdem arttıkça çalışanların işten ayrılma niyetleri katlanarak yükselmektedir",
+        "Kıdem ile çalışan performansı arasında sürekli negatif bir korelasyon bulunmaktadır",
+        "Kıdem yalnızca mavi yakalı çalışanların iş tatminini düşüren olumsuz bir unsurdur",
+        "Kıdemin örgütsel çıktılar üzerinde hiçbir ampirik etkisi bulunmamaktadır"
       ],
       "answer": 0,
-      "explanation": "Notlardaki araştırmaya göre yüksek moralli şirketlerin hisse senetleri %19.4 artış gösterirken, orta ve düşük moralli şirketlerde artış %10 civarında kalmıştır.",
-      "source": "3. Bölüm – Yöneticiler Çoğu Zaman Anlamazlar"
+      "explanation": "Kıdem (işyerinde geçirilen süre) arttıkça deneyim ve kurumsal hafıza performansı ve iş tatminini artırır; devir oranını ve devamsızlığı ise azaltır.",
+      "source": "OB_hafta02 – Biyografik Özellikler: Kıdem"
     },
     {
       "id": "v5-q10",
-      "chapter": 3,
-      "topic": "ÖVD Boyutu: Sportmenlik (Sportsmanship)",
-      "difficulty": "orta",
-      "question": "Örgütsel Vatandaşlık Davranışının alt boyutlarından biri olan ve 'iş yerindeki küçük aksaklıkları, kaçınılmaz sıkıntıları ve rahatsızlıkları sürekli şikayet etmeden ve büyütmeden olgunlukla göğüsleyebilme' tutumuna ne ad verilir?",
+      "chapter": 2,
+      "topic": "Zihinsel Yetenek Boyutları: Tümevarımsal Akıl Yürütme",
+      "difficulty": "zor",
+      "question": "Bir telekomünikasyon şirketinin müşteri hizmetleri direktörü; birbirinden bağımsız gözüken binlerce müşteri şikayetini, çağrı merkezi ses kayıtlarını ve iptal başvurularını inceleyerek ortak bir örüntü keşfetmiş ve şirketin faturalama sisteminde gizli kalmış yapısal bir problemi gün yüzüne çıkarmıştır. Bu yöneticinin tekil olaylardan genel bir kurala ulaşırken kullandığı düşünsel yetenek hangisidir?",
       "options": [
-        "Özgecilik (Altruism)",
-        "Sportmenlik (Sportsmanship)",
-        "Vicdanlılık (Conscientiousness)",
-        "Nezaket (Courtesy)",
-        "Sivil Erdem (Civic Virtue)"
+        "Algısal hız",
+        "Mekânsal görselleştirme",
+        "Sayısal kavrayış",
+        "Tümevarımsal akıl yürütme",
+        "Tümdengelimsel akıl yürütme"
       ],
-      "answer": 1,
-      "explanation": "Sportmenlik (Sportsmanship), iş ortamındaki kaçınılmaz zorluk ve aksilikleri sızlanmadan, şikâyet üretmeden olumlu bir havayla kabul edebilme olgunluğudur.",
-      "source": "3. Bölüm – Örgütsel Vatandaşlık Davranışı Boyutları"
+      "answer": 3,
+      "explanation": "Tümevarımsal akıl yürütme; spesifik gözlemlerden ve tekil verilerden yola çıkarak genel bir mantıksal sonuca veya örüntüye ulaşma kapasitesidir.",
+      "source": "OB_hafta02 – Zihinsel Yetenek Boyutları: Tümevarım"
     },
     {
       "id": "v5-q11",
-      "chapter": 4,
-      "topic": "Duyguların yoğunluğu ve kişilik",
-      "difficulty": "orta",
-      "question": "Aynı olay karşısında bazı insanların çok sakin kalırken, bazılarının hem sevinci hem de hüznü son derece derin ve çarpıcı şekilde yaşaması hangi bireysel özellikle açıklanır?",
+      "chapter": 3,
+      "topic": "Tutumun Üç Bileşeni: ABC Modeli",
+      "difficulty": "zor",
+      "question": "Bir kurumsal satış yöneticisinin 'Şirketimin uyguladığı komisyon sisteminin çalışan emeğini sömürdüğüne inanıyorum' değerlendirmesi, bu durum karşısında 'Bu adaletsizliği gördükçe çalıştığım her gün öfke ve çaresizlik hissediyorum' ifadesi ve ardından 'Önümüzdeki ay rakip firmanın iş teklifini kabul edeceğim' kararı sırasıyla tutumun hangi bileşenlerini oluşturur?",
       "options": [
-        "Makyavelist Mesafe",
-        "Duygulanım Yoğunluğu (Affect intensity)",
-        "Duygusal Uyumsuzluk",
-        "Olumluluk Dengesi",
-        "Bilişsel Uyum"
+        "Bilişsel – Duygusal – Davranışsal",
+        "Duygusal – Davranışsal – Bilişsel",
+        "Bilişsel – Davranışsal – Duygusal",
+        "Davranışsal – Duygusal – Bilişsel",
+        "Duygusal – Bilişsel – Davranışsal"
       ],
-      "answer": 1,
-      "explanation": "Duygulanım yoğunluğu yüksek olan bireyler, aynı duygusal uyaranlar karşısında hem olumlu hem de olumsuz hisleri diğer insanlara göre çok daha yoğun ve güçlü yaşarlar.",
-      "source": "4. Bölüm – Duyguların ve Duygu Durumların Kaynakları: Kişilik"
+      "answer": 0,
+      "explanation": "İnanç ve değerlendirme boyutu bilişsel bileşeni; hissedilen öfke duygusal bileşeni; istifa edip rakibe geçme eylem niyeti ise davranışsal bileşeni ifade eder.",
+      "source": "OB_hafta03 – Tutumun Üç Bileşeni"
     },
     {
       "id": "v5-q12",
-      "chapter": 4,
-      "topic": "Cinsiyet ve Duyguların İfade Edilmesi",
+      "chapter": 3,
+      "topic": "Örgütsel Bağlılık Boyutları: Normatif Bağlılık",
       "difficulty": "orta",
-      "question": "Araştırmalara göre kadınlar ile erkekler arasında duyguların deneyimlenmesi ve dışavurumu açısından tespit edilen temel farklardan biri aşağıdakilerden hangisidir?",
+      "question": "Kariyerinin başında ailesinde ağır bir sağlık krizi yaşayan genç bir analiste, şirketinin karşılıksız finansal yardım sağladığını ve yüksek lisans eğitimini finanse ettiğini bilen bu çalışan; sektörden iki kat yüksek maaşlı teklifler almasına rağmen 'Şirketimin bana yaptığı fedakarlıkları unutamam, onlara vefa borcum var, ayrılmam ahlaken doğru olmaz' düşüncesiyle kalmaktadır. Bu çalışanın sergilediği bağlılık türü hangisidir?",
       "options": [
-        "Kadınlar duyguları erkeklerden çok daha yüzeysel ve zayıf yaşarlar.",
-        "Erkekler üzüntü ve korkuyu kadınlardan çok daha fazla yüz mimikleriyle dışa vururlar.",
-        "Erkeklerin empati yeteneği kadınlardan biyolojik olarak üstündür.",
-        "Kadınlar öfke hariç diğer duyguları göstermek adına erkeklerden daha fazla mimik kullanır ve duyguları daha uzun süre tutarlar.",
-        "Cinsiyetler arasında duygusal tepkilerde hiçbir bilimsel fark bulunmamıştır."
+        "Duygusal bağlılık",
+        "Bilişsel bağlılık",
+        "Devam bağlılığı",
+        "Normatif bağlılık",
+        "İhmal bağlılığı"
       ],
       "answer": 3,
-      "explanation": "Kanıtlar kadınların öfke hariç duygularını açığa vurmada daha başarılı olduğunu, daha fazla mimik kullandığını ve duyguları daha uzun süre muhafaza ettiğini göstermektedir.",
-      "source": "4. Bölüm – Duyguların Kaynakları: Cinsiyet"
+      "explanation": "Normatif bağlılık; bireyin etik, ahlaki gerekçelerle ve kuruma karşı duyduğu vefa borcu nedeniyle kendini kalmak zorunda hissetmesidir.",
+      "source": "OB_hafta03 – Örgütsel Bağlılık: Normatif Bağlılık"
     },
     {
       "id": "v5-q13",
-      "chapter": 4,
-      "topic": "Duygusal Zekânın Biyolojik Temeli",
+      "chapter": 3,
+      "topic": "Algılanan Örgütsel Destek Kavramı",
       "difficulty": "orta",
-      "question": "Duygusal zekânın (DZ) standart IQ zekâsından bağımsız, nörolojik ve biyolojik temelli olduğunu savunan araştırmacıların dayandığı en güçlü kanıt nedir?",
+      "question": "Çalışanların; örgütün onların sunduğu katkılara samimiyetle değer verdiğine, kişisel refahlarını ve mutluluklarını önemsediğine ve zor zamanlarında arkalarında duracağına yönelik besledikleri genel algı Örgütsel Davranış literatüründe nasıl adlandırılır?",
       "options": [
-        "Sadece matematik eğitimi alanlarda DZ'nin yüksek çıkması",
-        "DZ puanlarının her yıl düzenli olarak %10 artması",
-        "Kaza sonucu beynin duygusal işlem merkezi hasar gören insanların standart zekâ testlerinde normallerle aynı puanı almasına rağmen karar mekanizmalarının çökmesi",
-        "DZ'nin yalnızca anketlerle ölçülebilir olması",
-        "Duygusal zekânın hiçbir genetik faktör taşımaması"
+        "Psikolojik sözleşme ihlali",
+        "Algılanan örgütsel destek",
+        "Bilişsel yeniden çerçeveleme",
+        "Duygusal çelişki",
+        "Normatif adanmışlık"
       ],
-      "answer": 2,
-      "explanation": "Beyin hasarı çalışmalarında, duygusal işlem merkezi hasar görenlerin standart IQ testlerinde normallerle aynı skoru alması DZ'nin farklı nörolojik mekanizmalara dayandığını kanıtlar.",
-      "source": "4. Bölüm – Duygusal Zekâ Biyolojik Kaynaklıdır"
+      "answer": 1,
+      "explanation": "Algılanan Örgütsel Destek; çalışanların örgütün kendi katkılarına değer verdiğine ve esenliklerini önemsediğine olan inanç düzeyidir.",
+      "source": "OB_hafta03 – Algılanan Örgütsel Destek"
     },
     {
       "id": "v5-q14",
-      "chapter": 4,
-      "topic": "Duygusal Bulaşma ve Liderlik",
-      "difficulty": "kolay",
-      "question": "Bir proje yöneticisinin toplantıya yüksek enerji, güler yüz ve moral ile girmesi sonrasında ekibin de kısa sürede neşelenmesi ve motivasyonunun yükselmesi hangi kavramla açıklanır?",
+      "chapter": 3,
+      "topic": "Tatminsizliğe Yanıtlar: İhmal Tepkisi",
+      "difficulty": "orta",
+      "question": "Çalıştığı ajansta terfi ettirilmeyen ve amiriyle çatışma yaşayan bir reklam metin yazarının; istifa etmek ya da sorunu amiriyle tartışmak yerine mesaiye sürekli geç kalması, toplantılarda pasif oturması, teslim tarihlerini kaçırması ve iş hatalarını düzeltmeyerek verimini en aza indirmesi EVLN modeline göre hangi tepkidir?",
       "options": [
-        "İhmal Davranışı",
-        "Bilişsel Uyumsuzluk",
-        "Duygusal Bulaşma (Emotional contagion)",
-        "Yüzeysel Rol",
-        "Çıpalama Etkisi"
+        "Geri çekilme",
+        "Sadakat",
+        "İhmal",
+        "Çıkış",
+        "Söz hakkı"
       ],
       "answer": 2,
-      "explanation": "Duygusal bulaşma, başkalarının duygularını kapma olgusudur; liderin pozitif duyguları doğrudan ekibine bulaşır.",
-      "source": "4. Bölüm – Müşteri Hizmetleri & Liderlikte Duygusal Bulaşma"
+      "explanation": "İhmal; iş tatminsizliğine verilen pasif ve yıkıcı bir tepkidir. İşi savsaklama, sürekli devamsızlık ve hata oranında artışla kendini gösterir.",
+      "source": "OB_hafta03 – EVLN Modeli: İhmal"
     },
     {
       "id": "v5-q15",
-      "chapter": 5,
-      "topic": "Myers-Briggs Tipi Gösterge (MBTI)",
-      "difficulty": "kolay",
-      "question": "Myers-Briggs Tipi Gösterge (MBTG) envanterinde bireyleri sınıflandırmak için kullanılan 4 temel boyut çifti aşağıdakilerin hangisinde doğru verilmiştir?",
+      "chapter": 3,
+      "topic": "Temel Öz-Değerlendirme ve İş Tatmini",
+      "difficulty": "orta",
+      "question": "Örgütsel araştırmalarda kendilerini yetkin, değerli, etkili ve yaşamları üzerinde söz sahibi olarak gören yüksek temel öz-değerlendirmeye sahip bireylerin iş tatminleri hakkında hangi ampirik sonuca ulaşılmıştır?",
       "options": [
-        "A Tipi / B Tipi, Narsist / Makyavelist, İyimser / Kötümser, Zeki / Duygusal",
-        "Eril / Dişil, Bireyci / Toplumcu, Güçlü / Zayıf, Cesur / Korkak",
-        "Girdi / Çıktı, Süreç / Sonuç, Verimli / Etkin, Lider / Yönetici",
-        "Nevrotik / Sakin, Uyulur / Geçimsiz, Sorumlu / Tembel, Açık / Kapalı",
-        "Dışadönük/İçedönük, Algısal/Sezgisel, Düşünen/Hisseden, Yargılayan/Kabul eden"
+        "Temel öz-değerlendirmenin çalışan tatmini üzerinde hiçbir ampirik etkisi tespit edilememiştir",
+        "Kibirli oldukları için hiçbir çalışma ortamından tatmin olamazlar",
+        "İş tatminleri düşük temel öz-değerlendirmeye sahip bireylerden sürekli daha düşüktür",
+        "Sadece rutin ve denetimli işlerde yüksek tatmin elde ederler",
+        "Daha zorlayıcı hedefler seçtikleri ve işlerine daha çok içsel anlam yükledikleri için işlerinden belirgin biçimde daha yüksek tatmin duyarlar"
       ],
       "answer": 4,
-      "explanation": "MBTI 4 temel boyutta sınıflandırır: D-İ (Dışa/İçedönük), A-S (Algısal/Sezgisel), D-H (Düşünen/Hisseden), Y-K (Yargılayan/Kabul eden).",
-      "source": "5. Bölüm – Myers-Briggs Tipi Gösterge"
+      "explanation": "Pozitif temel öz-değerlendirmeye sahip bireyler kendilerine inanırlar, zorlayıcı işlere yönelirler ve işlerinden belirgin biçimde daha yüksek tatmin duyarlar.",
+      "source": "OB_hafta03 – İş Tatmini: Temel Öz-Değerlendirme"
     },
     {
       "id": "v5-q16",
-      "chapter": 5,
-      "topic": "Makyavelizm özellikleri",
-      "difficulty": "orta",
-      "question": "'Amaca ulaşmak için her yol mubahtır' felsefesine inanan, insanlarla duygusal mesafe koyan ve pragmatik olan bir Makyavelist çalışanın iş hayatındaki özellikleri hakkında hangisi DOĞRUDUR?",
+      "chapter": 4,
+      "topic": "Duygular ve Duygu Durumları Kavramsal Farkı",
+      "difficulty": "zor",
+      "question": "Bir hastane acil servisinde çalışan doktorun; bir hasta yakınının ani fiziksel saldırısı karşısında hissettiği, saniyeler süren, hedefi belli ve yoğun yüz ifadesiyle dışa yansıyan reaksiyonu (Duygu) ile; o gün genel olarak içini kaplayan, belirli bir tekil olaya bağlanamayan, daha az yoğun ama saatlerce süren iç huzursuzluğu (Duygu Durumu) arasındaki temel ayrım hangi seçenekte doğru özetlenmiştir?",
       "options": [
-        "Örgüte karşı duygusal bağlılıkları her zaman en üst seviyededir.",
-        "Her zaman kurallara en sıkı uyan ve prosedür dışına asla çıkmayan çalışanlardır.",
-        "İkna kabiliyetleri çok düşüktür ve başkaları tarafından kolayca yönlendirilirler.",
-        "Asla pazarlık gerektiren ortamlarda bulunmak istemezler.",
-        "Genellikle işlerini diğer insanlardan daha az severler, iş stresi daha yüksektir ve daha fazla olağandışı iş davranışı sergileyebilirler."
+        "Duyguların saatlerce sürmesi, duygu durumlarının ise birkaç saniyede kaybolması",
+        "Duyguların bilişsel zekayı güçlendirmesi, duygu durumlarının ise hafızayı tamamen silmesi",
+        "İki kavram arasında kuramsal ve pratik hiçbir fark bulunmaması",
+        "Duyguların belirli bir nesne veya olaya yönelik, kısa süreli ve yoğun olması; duygu durumlarının ise genellikle nedensiz, daha uzun süreli ve düşük yoğunluklu olması",
+        "Duyguların yalnızca bilinçaltında kalması, duygu durumlarının ise sadece fiziksel eyleme dönüşmesi"
       ],
-      "answer": 4,
-      "explanation": "Makyavelist çalışanlar pragmatiktir, kolay ikna olmaz ama ikna ederler; ancak işlerini daha az severler, iş stresi yüksektir ve daha çok olağandışı davranış gösterirler.",
-      "source": "5. Bölüm – Makyavelizm (Makyavelist Birey)"
+      "answer": 3,
+      "explanation": "Duygular belirli bir nedene veya kişiye yönelik, kısa ömürlü ve yoğundur; duygu durumları ise belirgin bir nedeni olmayan, daha uzun süren ve bilişsel düzeyde etkili olan hallerdir.",
+      "source": "OB_hafta04 – Duygular ve Duygu Durumları Ayrımı"
     },
     {
       "id": "v5-q17",
-      "chapter": 5,
-      "topic": "Hofstede: Güç Mesafesi",
+      "chapter": 4,
+      "topic": "Duygu Durumları ve Çevre: İllüzorik Korelasyon",
       "difficulty": "orta",
-      "question": "Hofstede'nin kültür boyutlarından biri olan 'Yüksek Güç Mesafesi'ne sahip bir ülkede çalışanların yöneticilerine karşı tutumu nasıl olur?",
+      "question": "İş dünyasında ve toplumda kapalı, yağmurlu veya kasvetli havaların çalışanların duygu durumlarını ve performansını olumsuz etkilediğine dair yaygın bir inanç bulunmasına rağmen bilimsel araştırmaların bunu doğrulamaması durumu ÖD literatüründe hangi algısal kavramla açıklanır?",
       "options": [
-        "Yöneticileriyle eşit haklara sahip olduklarını savunur ve kararlara doğrudan ortak olmak isterler.",
-        "Otoriter kararlara karşı sürekli grev ve protesto örgütlerler.",
-        "Kurum ve kuruluşlardaki gücün eşit olmayan şekilde dağılmasını doğal kabul eder, otoriteye ve hiyerarşik unvanlara büyük saygı gösterirler.",
-        "Tüm yöneticilere isimleriyle hitap eder ve resmi unvanları reddederler.",
-        "Güç hiyerarşisini tamamen ortadan kaldırmaya çalışırlar."
+        "Duygusal yabancılaşma",
+        "Pozitiflik sapması",
+        "Duygusal bulaşma",
+        "Bilişsel çelişki",
+        "İllüzorik korelasyon"
       ],
-      "answer": 2,
-      "explanation": "Yüksek güç mesafesi, toplumun güç ve otoritenin eşitsiz dağılmasını normal kabul etmesi ve hiyerarşiye koşulsuz saygı duymasıdır.",
-      "source": "5. Bölüm – Hofstede: Güç Mesafesi"
+      "answer": 4,
+      "explanation": "İllüzorik korelasyon; aralarında gerçekte hiçbir istatistiksel ilişki bulunmayan iki değişken arasında ilişki varmış gibi algılanması yanılgısıdır.",
+      "source": "OB_hafta04 – Duyguların Kaynakları: Hava Durumu"
     },
     {
       "id": "v5-q18",
-      "chapter": 5,
-      "topic": "Risk Alma eğilimi",
-      "difficulty": "orta",
-      "question": "Yöneticilerin risk alma eğilimleri üzerine yapılan güncel araştırmalar büyük kuruluşlardaki yöneticiler ile küçük girişimciler kıyaslandığında neyi ortaya koymuştur?",
+      "chapter": 4,
+      "topic": "Duygusal Emek: Hissedilen vs. Sergilenen Duygular",
+      "difficulty": "zor",
+      "question": "Türbülansa giren bir yolcu uçağında kabin memurunun kendi içinde yoğun bir ölüm korkusu ve dehşet hissetmesine rağmen; şirket kuralları gereği yolculara sakinlik aşılamak amacıyla yüzüne oturttuğu tebessüm dolu ve profesyonel ifade arasındaki zıtlık ÖD'de hangi iki kavramın çatışmasıdır?",
       "options": [
-        "Yaşlı yöneticilerin gençlerden her zaman 5 kat daha risk sever olduğunu",
-        "Girişimcilerin asla hiçbir şartta risk almadığını",
-        "Büyük şirket yöneticilerinin risk alma kapasitelerinin sıfır olduğunu",
-        "Risk alma ile karar alma hızı arasında hiçbir bağ olmadığını",
-        "Büyük kuruluşlardaki yöneticilerin risk almaya küçük işletme girişimcilerinden daha istekli olabileceğini"
+        "Hissedilen duygular ile sergilenen duygular",
+        "Amaç değerler ile araç değerler",
+        "Tümevarımsal akıl yürütme ile algısal hız",
+        "Pozitif duygulanım ile negatif duygulanım",
+        "Bilişsel çelişki ile normatif bağlılık"
       ],
-      "answer": 4,
-      "explanation": "Ders notlarına göre son bulgular, büyük kuruluşlardaki yöneticilerin risk almaya büyüme odaklı girişimcilerden daha istekli olduklarını ileri sürmektedir.",
-      "source": "5. Bölüm – Risk Alma"
+      "answer": 0,
+      "explanation": "Hissedilen duygular bireyin gerçekte yaşadığı içsel duygulardır; sergilenen duygular ise örgütün iş rolü gereği personelden göstermesini talep ettiği mimik ve ifadelerdir.",
+      "source": "OB_hafta04 – Duygusal Emek: Hissedilen ve Sergilenen Duygular"
     },
     {
       "id": "v5-q19",
-      "chapter": 1,
-      "topic": "Kanıta Dayalı Yönetimin Amacı",
-      "difficulty": "orta",
-      "question": "Kanıta Dayalı Yönetim (Evidence-Based Management) yöneticilere temel olarak hangi katkıyı sağlar?",
+      "chapter": 4,
+      "topic": "Duyguların Rasyonellikteki Rolü ve Nörolojik Temeller",
+      "difficulty": "zor",
+      "question": "19. yüzyılda geçirdiği iş kazasında beyninin duygusal işlem merkezleri zarar gören Phineas Gage vakası ve modern nörolojik araştırmalar; bilişsel zekası yerinde olmasına rağmen karar alamayan hastaları incelediğinde hangi kritik bilimsel sonuca ulaşmıştır?",
       "options": [
-        "Yalnızca muhasebe verilerini ezberletmek",
-        "Tüm personeli işten çıkarıp robotlara geçmek",
-        "Bilimsel araştırmaları tamamen terk edip sadece rüyalara göre karar vermek",
-        "Şirketi iflas ettirmek",
-        "Fikir ve yönetsel kararlarında daha bilimsel ve veriye dayalı olmalarını sağlamak"
+        "Duyguların rasyonel karar almayı daima felce uğrattığı ve karar mekanizmasından tamamen arındırılması gerektiği",
+        "Duyguların rasyonel karar alma, ahlaki muhakeme ve dünyayı anlamlandırma süreçleri için zorunlu ve kritik bir unsur olduğu",
+        "Karar almanın tamamen genetik olup beyin hasarlarından asla etkilenmediği",
+        "Duygusal zekânın standart zeka testlerinden hiçbir farkının bulunmadığı",
+        "Beynin duygusal merkezlerinin karar vermede tamamen işlevsiz olduğu"
       ],
-      "answer": 4,
-      "explanation": "Kanıta dayalı yönetim, yöneticilerin fikir ve kararlarında daha bilimsel olmalarını ve kararlarını en iyi bilimsel delillere dayandırmalarını sağlar.",
-      "source": "OB_hafta01 – Kanıta Dayalı Yönetim"
+      "answer": 1,
+      "explanation": "Nörolojik kanıtlar duyguların rasyonellik için kritik olduğunu ortaya koymuştur. Duygu hissetme yetisini kaybeden bireyler basit gündelik kararları bile alamaz hale gelmektedir.",
+      "source": "OB_hafta04 – Duygular Bizi İrrasyonel mi Yapar?"
     },
     {
       "id": "v5-q20",
-      "chapter": 1,
-      "topic": "İş-Yaşam Çatışmaları",
+      "chapter": 4,
+      "topic": "Duygu Düzenleme: Bilişsel Yeniden Çerçeveleme",
       "difficulty": "orta",
-      "question": "Modern iletişim teknolojilerinin (akıllı telefonlar, 7/24 e-posta) yaygınlaşması sonucu iş ile özel yaşam arasındaki sınırların bulanıklaşması örgütlerde neye yol açmıştır?",
+      "question": "Kritik bir yönetim kurulu sunumu öncesinde elleri titreyen ve kalp çarpıntısı yaşayan bir proje liderinin; bu fiziksel tepkileri bir yetersizlik ve felaket işareti olarak yorumlamak yerine 'Bedenim şu anda yapacağım başarılı sunum için ekstra enerji ve odaklanma hazırlığı yapıyor' şeklinde zihninde yeniden yorumlayarak sakinleşmesi hangi duygu düzenleme tekniğidir?",
       "options": [
-        "İş-yaşam çatışmalarının ve çalışan stresinin belirgin biçimde artmasına",
-        "Tüm çatışmaların tamamen sona ermesine",
-        "Çalışanların hiç dinlenmeye ihtiyaç duymamasına",
-        "İş devamsızlığının dünya genelinde sıfıra inmesine",
-        "Mesai saatlerinin tamamen kaldırılmasına"
+        "Duygusal uyumsuzluk",
+        "Sosyal kaçınma",
+        "Bilişsel yeniden çerçeveleme",
+        "Yüzeysel rol yapma",
+        "Duyguyu bastırma"
       ],
-      "answer": 0,
-      "explanation": "İş ve iş dışı yaşam sınırlarının bulanıklaşması çalışanlarda iş-yaşam çatışmalarına ve yüksek strese neden olmaktadır.",
-      "source": "OB_hafta01 – İşçilere İş-Yaşam Çatışmalarında Yardımcı Olma"
+      "answer": 2,
+      "explanation": "Bilişsel yeniden çerçeveleme; bireyin karşılaştığı duruma yüklediği anlamı ve bakış açısını bilinçli olarak değiştirerek ortaya çıkan duygusal tepkiyi düzenlemesidir.",
+      "source": "OB_hafta04 – Duygu Düzenleme Teknikleri"
     },
     {
       "id": "v5-q21",
-      "chapter": 2,
-      "topic": "Biyografik özellikler: Yaş ve Verimlilik",
-      "difficulty": "orta",
-      "question": "İş yerinde yaşça büyük personelin çalışma performansına ilişkin bilimsel bulgular hakkında hangisi DOĞRUDUR?",
+      "chapter": 5,
+      "topic": "Kişiliğin Belirleyicileri: İkiz Çalışmaları",
+      "difficulty": "zor",
+      "question": "Farklı aileler tarafından evlat edinilerek birbirlerinden tamamen bağımsız çevrelerde ve coğrafyalarda büyütülen tek yumurta ikizleri üzerinde yürütülen kapsamlı genetik ve psikolojik araştırmaların ulaştığı en temel bulgu nedir?",
       "options": [
-        "Yaş arttıkça işe devamsızlık oranı 10 katına çıkar.",
-        "Yaşlanan her çalışan mutlaka ertesi ay tüm yeteneklerini kaybeder.",
-        "Yaşlı personelin eğitim maliyeti her zaman sıfırdır.",
-        "Yaşlı çalışanların personel devir hızları ve devamsızlıkları genellikle daha düşüktür; iş ahlakları ve verimlilikleri yüksektir.",
-        "İş gücünde deneyimin hiçbir artı değeri yoktur."
+        "Genetik mirasın sadece fiziksel görünüşü belirleyip psikolojik süreçleri hiç etkilemediği",
+        "Yetişkinlikteki kişilik özelliklerinin yaklaşık yüzde 40 ila 50'sinin genetik miras ve kalıtım yoluyla belirlendiği",
+        "Kişiliğin tamamen okul ve çevre tarafından şekillenen sıfır genetik unsurlu bir yapı olduğu",
+        "Kişiliğin her beş yılda bir çevresel faktörlerle tamamen sıfırlandığı",
+        "Ayrı büyüyen tek yumurta ikizlerinin kişilikleri arasında sıfır korelasyon bulunduğu"
       ],
-      "answer": 3,
-      "explanation": "Home Depot örneğinde de vurgulandığı gibi yaşlı çalışanların devamsızlığı ve devir hızı düşük, iş etiği ve verimliliği yüksektir.",
-      "source": "2. Bölüm – Biyografik Özellikler: Yaş"
+      "answer": 1,
+      "explanation": "İkiz araştırmaları, kişiliğin yaklaşık %40-50 düzeyinde kalıtımsal temellere dayandığını ampirik olarak kanıtlamıştır.",
+      "source": "5. Bölüm – Kişiliğin Belirleyicileri: Kalıtım"
     },
     {
       "id": "v5-q22",
-      "chapter": 2,
-      "topic": "Engelli Çalışanlar ve Kurumsal Katkı: Microsoft örneği",
-      "difficulty": "kolay",
-      "question": "Ders notlarındaki Microsoft örneğinde, görme engelli Kelly Ford gibi çalışanların istihdam edilmesinin şirkete sağladığı stratejik avantaj nedir?",
+      "chapter": 5,
+      "topic": "Büyük Beşli Kişilik Modeli: Deneyime Açıklık",
+      "difficulty": "orta",
+      "question": "Büyük Beşli Kişilik Modelinde; yeni ve denenmemiş fikirlere karşı yoğun entelektüel merak duyan, estetik ve sanatsal duyarlılığı yüksek, geleneksel kuralları sorgulamaya açık, yaratıcı ve hayal gücü geniş bireyleri tanımlayan temel kişilik boyutu hangisidir?",
       "options": [
-        "Ürünlerin ve yazılımların tüm müşterilerin ve engellilerin erişilebilirlik ihtiyaçlarını karşıladığının bizzat test edilip geliştirilmesi",
-        "Yalnızca reklam amacıyla göstermelik istihdam sağlanması",
-        "Teknoloji geliştirmeyi tamamen durdurmak",
-        "Masaüstü bilgisayar üretimini engellemek",
-        "Yazılım geliştirme maliyetlerini sıfırlamak"
+        "Sorumluluk",
+        "Duygusal kararlılık",
+        "Deneyime açıklık",
+        "Uyumluluk",
+        "Dışadönüklük"
       ],
-      "answer": 0,
-      "explanation": "Microsoft, engelli çalışanları yazılımların tüm toplum kesimlerine erişilebilir olduğunu test eden değerli bir kıymet olarak görür.",
-      "source": "2. Bölüm – Sakatlık (Microsoft örneği)"
+      "answer": 2,
+      "explanation": "Deneyime açıklık; bireyin yaratıcılık, merak, estetik duyarlılık ve yeniliklere olan açıklık derecesini yansıtır.",
+      "source": "5. Bölüm – Büyük Beşli: Deneyime Açıklık"
     },
     {
       "id": "v5-q23",
-      "chapter": 3,
-      "topic": "İş Tatmini Bir Kültürel Kavram mı?",
-      "difficulty": "orta",
-      "question": "İş tatmini konusundaki araştırmaların büyük kısmının ABD'de yapılmış olmasına dayanarak 'İş tatmini yalnızca Batı toplumlarına özgü bir kavram mıdır?' sorusuna araştırmalar nasıl yanıt vermiştir?",
+      "chapter": 5,
+      "topic": "Kişilik Özellikleri: Öz-Denetim",
+      "difficulty": "zor",
+      "question": "Dışsal ve durumsal ipuçlarına karşı son derece hassas olan, farklı sosyal ortamlarda ve farklı insan grupları karşısında konuşma tarzını, mimiklerini ve davranışlarını adeta bir bukalemun gibi ustalıkla değiştirebilen 'yüksek öz-denetimli' bireyler hakkında aşağıdakilerden hangisi doğrudur?",
       "options": [
-        "Evet; Batı dışındaki toplumlarda çalışanların hiçbir iş tatmini hissi yoktur.",
-        "Hayır; diğer kültürlerdeki çalışanlar da iş tatminine ilişkin net yargılar oluşturmakta ve önemsemektedir.",
-        "İş tatmini sadece Japonya'da ölçülebilir.",
-        "Kültürel farklar iş doyumunu tamamen gereksiz kılar.",
-        "İş tatmini sadece zengin ülkelerde ortaya çıkan bir hastalıktır."
+        "Düşük öz-denetimlilere kıyasla girdikleri her ortamda katı ve tek bir sabit kimlik sergilerler",
+        "İş performansları ve terfi ihtimalleri düşük öz-denetimlilerden her zaman daha geridedir",
+        "Sosyal ortamlarda nasıl davranacaklarını asla bilemez ve sürekli izole olurlar",
+        "Kariyerlerinde daha hızlı terfi alma ve liderlik basamaklarına tırmanma eğilimindedirler ancak kurumlarına karşı bağlılıkları daha düşüktür",
+        "Yüksek öz-denetim bireyin stres toleransını tamamen sıfırlayan patolojik bir durumdur"
       ],
-      "answer": 1,
-      "explanation": "Kanıtlar güçlü şekilde göstermektedir ki iş tatmini sadece Amerikan kavramı değildir; tüm kültürlerde çalışanlar iş tatmini yargıları oluşturur.",
-      "source": "3. Bölüm – Küresel Etkiler: İş Tatmini Bir ABD Kavramı mı?"
+      "answer": 3,
+      "explanation": "Yüksek öz-denetimciler duruma göre davranma konusunda çok yeteneklidir; bu da onların daha hızlı terfi etmesini sağlar fakat örgüte bağlılıkları daha düşüktür.",
+      "source": "5. Bölüm – Kişilik Özellikleri: Öz-Denetim"
     },
     {
       "id": "v5-q24",
-      "chapter": 4,
-      "topic": "Duygusal Zekâya Karşıt Görüşler: Ölçüm Sorunu",
+      "chapter": 5,
+      "topic": "Hofstede Ulusal Kültür Boyutları: Belirsizlikten Kaçınma",
       "difficulty": "orta",
-      "question": "Duygusal zekâ (DZ) kavramını eleştiren akademisyenlerin öne sürdüğü en temel argüman aşağıdakilerden hangisidir?",
+      "question": "Geert Hofstede'in kültür boyutları modeline göre; bir toplumda insanların belirsiz, muğlak ve geleceği kestirilemeyen durumlardan yoğun endişe duyması ve bu gerilimi azaltmak için katı yasalara, ayrıntılı prosedürlere, güvenlik standartlarına ve mutlak inançlara sığınması hangi boyuttur?",
       "options": [
-        "Duygusal zekâlı insanların iş hayatında her zaman başarısız olması",
-        "Kavramın çok geniş ve belirsiz olması, nesnel olarak ölçülmesinin zorluğu ve kişilik özellikleri kontrol edildiğinde ayırt edici gücünün zayıflaması",
-        "DZ'nin sadece tıp doktorlarında bulunması",
-        "Duyguların beyinle hiçbir ilgisinin olmaması",
-        "Duygusal zekânın sadece hayvanlarda ölçülebilmesi"
+        "Erillik",
+        "Kolektivizm",
+        "Kısa vadeye dönüklük",
+        "Yüksek güç mesafesi",
+        "Belirsizlikten kaçınma"
       ],
-      "answer": 1,
-      "explanation": "Eleştirmenler DZ'nin çok belirsiz bir şemsiye kavram olduğunu, güvenilir ölçümünün zor olduğunu ve kişilik kontrol edildiğinde fazladan açıklayıcılığının sorgulandığını belirtir.",
-      "source": "4. Bölüm – Duygusal Zekâya Karşıt Görüşler"
+      "answer": 4,
+      "explanation": "Belirsizlikten kaçınma; bir kültürün üyelerinin belirsiz veya muğlak durumlardan rahatsızlık duyma ve bu durumları kurallarla kontrol altına alma arzusunu yansıtır.",
+      "source": "5. Bölüm – Hofstede Kültür Boyutları: Belirsizlikten Kaçınma"
     },
     {
       "id": "v5-q25",
       "chapter": 5,
-      "topic": "Kişilik: Kalıtım ve Biyolojik Yaratılış",
+      "topic": "Kişi-Örgüt Uyumu Kavramı ve Çıktıları",
       "difficulty": "orta",
-      "question": "Bir bireyin ana rahmine düşüş sırasında genetik olarak belirlenen biyolojik, fizyolojik ve doğuştan gelen psikolojik yaratılışına ne ad verilir?",
+      "question": "Bir işe alım sürecinde adayın yalnızca mesleki bilgi ve teknik becerilerinin değil; sahip olduğu temel kişisel değerlerin, ahlaki ilkelerin ve karakterinin kurumun kültürüyle örtüşmesini ifade eden 'Kişi-Örgüt Uyumu' sağlandığında hangi örgütsel çıktılar gerçekleşir?",
       "options": [
-        "Sosyal Rol",
-        "Kalıtım (Heredity)",
-        "Örgütsel Destek",
-        "Normatif Bağ",
-        "Yüzeysel Çeşitlilik"
+        "Çalışanın örgütsel bağlılığı ve iş tatmini artar, işten ayrılma niyeti ise belirgin biçimde azalır",
+        "Çalışanın yaratıcılığı tamamen körelir ve görev performansı çöker",
+        "Kurum içindeki tüm biçimsel kurallar geçersiz hale gelir",
+        "Kişi-örgüt uyumunun çalışan tutumları ve iş devri üzerinde hiçbir ampirik etkisi bulunmaz",
+        "Çalışanın bilişsel çelişkisi artarak işyerinde sapkın davranışlara yol açar"
       ],
-      "answer": 1,
-      "explanation": "Kalıtım, ana rahmine düşüş anında belirlenen genetik, biyolojik ve fizyolojik yaratılış faktörleridir.",
-      "source": "5. Bölüm – Kalıtım"
+      "answer": 0,
+      "explanation": "Kişi-örgüt uyumu; bireyin değerleri ile örgüt kültürünün uyuşmasıdır. Bu uyum yüksek iş tatmini, güçlü örgütsel bağlılık ve düşük iş devri ile sonuçlanır.",
+      "source": "5. Bölüm – Kişi-Örgüt Uyumu"
     }
   ]
 }

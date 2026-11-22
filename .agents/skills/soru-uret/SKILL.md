@@ -26,11 +26,12 @@ Her "soruları üret" isteğinde **önceki setlerde olmayan 25 yeni soru** içer
 
 4. **25 soru yaz** – kurallar:
    - Dil: Türkçe, MBA vize seviyesi. Tanım soruları ile senaryo/uygulama sorularını karıştır
-     (yaklaşık en az %40 senaryo).
+     (yaklaşık en az %40 senaryo). Sorular birbirine yakın kavramlar arasında ikilem yaratacak, analitik ve çeldiricisi güçlü MBA düzeyinde hazırlanmalıdır.
+   - **Şıklarda parantez içi ipucu yasaktır:** Şıklarda parantez içinde İngilizce karşılık, kısaltma veya ek açıklama (örn. "(Turnover)", "(EBM)", "(ÖVD)", "(Voice)" vb.) kesinlikle kullanılmamalıdır; akademik Türkçe terim yalın olarak verilmelidir.
    - Her soruda **tam 5 şık** (A–E), tek doğru cevap; çeldiriciler aynı bölümden makul kavramlar olsun.
    - **Cevap dağılımı dengeli:** her harf (A, B, C, D, E) tam 5 kez doğru cevap olsun.
    - Bölüm dağılımı: Vize kapsamındaki 5 bölümün hepsinden eşit soru (Bölüm 1'den 5'e kadar her birinden 5'er soru).
-   - Zorluk karışımı: yaklaşık 6 kolay, 15 orta, 4 zor.
+   - Zorluk karışımı: yaklaşık 3 kolay, 15 orta, 7 zor.
    - "Hepsi / hiçbiri" şıklarından kaçın. Olumsuz köklerde "DEĞİLDİR / YER ALMAZ" büyük harfle yazılsın.
    - Her soruya notlara dayanan kısa bir `explanation` ve slayt/başlık bilgisi içeren `source` ekle.
 

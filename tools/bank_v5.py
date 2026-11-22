@@ -1,0 +1,363 @@
+# Soru Bankası Üretim Modülü: V5 (Yüksek Kaliteli, Çeldiricili, Parantezsiz)
+
+v5_questions = [
+  # BÖLÜM 1: Örgütsel Davranışa Giriş (5 Soru)
+  {
+    "id": "v5-q01", "chapter": 1, "topic": "ÖD'ye Katkı Sağlayan Disiplinler: Sosyal Psikoloji", "difficulty": "zor",
+    "question": "Örgütsel Davranış alanına katkı sağlayan disiplinler arasında; bireysel psikoloji ile makro sosyolojiyi harmanlayarak özellikle çalışanların tutum değişim süreçlerini, grup içi iletişim örüntülerini, güven inşasını ve ortak karar alma dinamiklerini inceleyen bilim dalı hangisidir?",
+    "options": [
+      "Sosyal psikoloji",
+      "Sosyoloji",
+      "Antropoloji",
+      "Siyaset bilimi",
+      "Fizyoloji"
+    ],
+    "answer": 0,
+    "explanation": "Sosyal psikoloji; psikoloji ve sosyoloji kavramlarını harmanlayarak insanların birbirleri üzerindeki etkilerini, tutum değişimini, iletişim kalıplarını ve grup süreçlerini inceler.",
+    "source": "OB_hafta01 – ÖD Disiplinleri: Sosyal Psikoloji"
+  },
+  {
+    "id": "v5-q02", "chapter": 1, "topic": "ÖD'de Koşulsallık ve Durumsallık Yaklaşımı", "difficulty": "orta",
+    "question": "Örgütsel Davranışta doğa bilimlerindeki gibi basit, değişmez ve evrensel doğa yasalarının üretilememesinin ve yönetsel ilkelerin daima 'x faktörü, y sonucuna ancak z koşulu altında yol açar' şeklinde ifade edilmesinin temel nedeni nedir?",
+    "options": [
+      "İnsanların karmaşık yapısı gereği aynı çevresel uyarana farklı durumlarda farklı tepkiler vermesi ve durumsal değişkenlerin devreye girmesi",
+      "Örgüt yöneticilerinin bilimsel araştırmaları takip etmeyi reddetmesi",
+      "Psikoloji deneylerinin güvenilirliğinin tamamen sıfır olması",
+      "İşletmelerin hiçbir ortak yönünün ve benzer hedefinin bulunmaması",
+      "Yönetsel süreçlerin tamamen şansa ve kadere bağlı işlemesi"
+    ],
+    "answer": 0,
+    "explanation": "İnsanlar karmaşık ve farklı varlıklardır; bu nedenle evrensel ilkeler yerine koşulsallık / durumsallık değişkenleri (contingency variables) esastır.",
+    "source": "OB_hafta01 – ÖD'de Çok Az Mutlak Kural Vardır: Koşulsallık"
+  },
+  {
+    "id": "v5-q03", "chapter": 1, "topic": "Yönetim Fonksiyonları: Örgütleme", "difficulty": "orta",
+    "question": "Yeni kurulan bir teknoloji girişiminde genel müdürün; hangi görevlerin kimler tarafından yapılacağını belirlemesi, görevleri iş birimlerine ayırması, kimin kime rapor vereceğini ve karar yetkisinin hiyerarşik dağılımını tasarlaması hangi yönetim fonksiyonunun gereğidir?",
+    "options": [
+      "Örgütleme",
+      "Planlama",
+      "Liderlik",
+      "Denetleme",
+      "Bütçeleme"
+    ],
+    "answer": 0,
+    "explanation": "Örgütleme; neyin yapılması gerektiğini, nasıl yapılacağını ve kimin kime rapor edeceğini belirleme ve kurumsal yapıyı tasarlama fonksiyonudur.",
+    "source": "OB_hafta01 – Yönetim Fonksiyonları: Örgütleme"
+  },
+  {
+    "id": "v5-q04", "chapter": 1, "topic": "Şebeke Örgütler ve Sanal Çalışma Dinamikleri", "difficulty": "zor",
+    "question": "Çalışanların farklı coğrafyalara dağıldığı, fiziksel olarak bir araya gelmeksizin yazılımlar ve dijital platformlar üzerinden ortak projeler yürüttüğü modern şebeke örgütlerde; yöneticilerin çalışanları motive etme ve koordine etme tarzında yaşanan en köklü dönüşüm nedir?",
+    "options": [
+      "Fiziksel gözetim ve mekanik denetimin yerini dijital iletişim, güven inşası ve sonuç odaklı yönetsel becerilere bırakması",
+      "Biçimsel sözleşmelerin tamamen ortadan kalkarak her şeyin sözlü vaatlere dayanması",
+      "Çalışanların tamamen bağımsızlaşarak örgütsel hedeflerden kopması",
+      "Yöneticilik fonksiyonunun tamamen gereksiz hale gelerek son bulması",
+      "Kıdem ve uzmanlığın yerini sadece yaş faktörünün alması"
+    ],
+    "answer": 0,
+    "explanation": "Şebeke örgütlerde yöneticiler çalışanları fiziksel olarak görmeden yönetmek zorundadır; bu durum fiziksel varlığın yerini iletişim, hedef takibi ve güvene dayalı yeni becerilere bırakmasını gerektirir.",
+    "source": "OB_hafta01 – Şebeke Örgütlerle Başa Çıkma"
+  },
+  {
+    "id": "v5-q05", "chapter": 1, "topic": "Örgütsel Vatandaşlık Davranışı: Vicdanlılık Boyutu", "difficulty": "zor",
+    "question": "Bir imalat şirketinde çalışan bir kalite teknisyeninin; çalışma saatlerine harfiyen uyması, mola sürelerini asla aşmaması, şirket prosedürlerini ve güvenlik talimatlarını hiçbir dış denetim olmadan en ufak ayrıntısına kadar titizlikle uygulaması Örgütsel Vatandaşlık Davranışının hangi boyutuna örnektir?",
+    "options": [
+      "Vicdanlılık",
+      "Nezaket",
+      "Sportmenlik",
+      "Sivil erdem",
+      "Özgecilik"
+    ],
+    "answer": 0,
+    "explanation": "Vicdanlılık boyutu; bireyin örgütün asgari rol gerekliliklerinin çok üzerinde bir özen, dakiklik ve kural titizliği sergilemesini ifade eder.",
+    "source": "OB_hafta01 – Örgütsel Vatandaşlık Davranışı Boyutları"
+  },
+
+  # BÖLÜM 2: Örgüt İçinde Çeşitlilik (5 Soru)
+  {
+    "id": "v5-q06", "chapter": 2, "topic": "Biyografik Özellikler: Cinsiyet ve Yetenek Eşitliği", "difficulty": "orta",
+    "question": "Örgütsel Davranış literatüründe kadın ve erkek çalışanlar arasındaki olası bilişsel ve performans farklarını inceleyen kapsamlı ampirik araştırmaların ortaya koyduğu nesnel bulgu aşağıdakilerden hangisidir?",
+    "options": [
+      "Problem çözme, analitik muhakeme, rekabet dürtüsü ve öğrenme kapasitesi açısından kadınlar ile erkekler arasında istatistiksel olarak anlamlı hiçbir fark bulunmamaktadır",
+      "Erkeklerin analitik düşünme ve problem çözme kapasitesi kadınlardan belirgin derecede üstündür",
+      "Kadınların iş tatmini ve örgütsel bağlılığı her meslek dalında erkeklerden sürekli daha düşüktür",
+      "Erkek çalışanların devamsızlık ve işten ayrılma oranları ailevi yükümlülükler nedeniyle kadınlardan iki kat fazladır",
+      "Kadın çalışanlar teknik ve matematiksel görevleri öğrenmede biyolojik olarak sınırlıdır"
+    ],
+    "answer": 0,
+    "explanation": "Geniş çaplı ampirik araştırmalar; kadın ve erkek çalışanlar arasında problem çözme becerisi, analitik yetenek, öğrenme kapasitesi ve motivasyon açısından hiçbir tutarlı fark olmadığını doğrulamıştır.",
+    "source": "OB_hafta02 – Biyografik Özellikler: Cinsiyet"
+  },
+  {
+    "id": "v5-q07", "chapter": 2, "topic": "Genel Düşünsel Yetenek ve İş Karmaşıklığı", "difficulty": "zor",
+    "question": "Genel Düşünsel Yetenek ile iş performansı arasındaki ilişkiyi farklı meslek kategorileri açısından inceleyen araştırmalara göre; düşünsel yeteneklerin performansı yordama gücü hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "İşin bilişsel karmaşıklığı, bilgi işleme yoğunluğu ve belirsizlik düzeyi arttıkça düşünsel yeteneğin iş başarısını öngörme gücü daha da yükselmektedir",
+      "Düşünsel yetenek yalnızca rutin ve tekrara dayalı fiziksel işlerde performansı öngörür",
+      "Karmaşık yöneticilik ve strateji pozisyonlarında zihinsel yeteneklerin performansa hiçbir etkisi yoktur",
+      "Düşünsel yeteneklerin yordama gücü çalışan işe girdikten sonraki ilk haftada tamamen sıfırlanır",
+      "Fiziksel güç gerektiren işlerde düşünsel yetenek negatif performans üretir"
+    ],
+    "answer": 0,
+    "explanation": "Genel Düşünsel Yetenek tüm işlerde performansı öngören en güçlü faktördür; ancak iş ne kadar karmaşık ve bilgi yoğun hale gelirse (örneğin yöneticilik, tıp, mühendislik), yeteneğin performansı yordama gücü o kadar artar.",
+    "source": "OB_hafta02 – Genel Düşünsel Yetenek ve Meslekler"
+  },
+  {
+    "id": "v5-q08", "chapter": 2, "topic": "Ayrımcılık Türleri: Nezaketsizlik", "difficulty": "orta",
+    "question": "Bir departman yöneticisinin haftalık değerlendirme toplantılarında bir çalışanın konuşmasını sürekli bölmesi, fikirlerini alaycı yüz ifadeleriyle küçümsemesi ve doğrudan hakaret etmese de kaba ve saygısız bir iletişim dili benimsemesi hangi ayrımcılık türüne örnektir?",
+    "options": [
+      "Nezaketsizlik",
+      "Cinsel taciz",
+      "Açık tehdit ve yıldırma",
+      "Kurumsal ayrımcı politika",
+      "Dışlama"
+    ],
+    "answer": 0,
+    "explanation": "Nezaketsizlik; doğrudan fiziksel veya yasal şiddet içermeyen ancak saygısız, kırıcı ve alaycı tutumları içeren yıkıcı mikro-davranışlardır.",
+    "source": "OB_hafta02 – Ayrımcılık Türleri: Nezaketsizlik"
+  },
+  {
+    "id": "v5-q09", "chapter": 2, "topic": "Biyografik Özellikler: Kıdem ve Örgütsel Çıktılar", "difficulty": "orta",
+    "question": "Bir çalışanın mevcut kurumunda geçirdiği hizmet süresini ifade eden 'kıdem' faktörünün iş performansı, iş tatmini ve devamsızlık üzerindeki etkilerini inceleyen araştırmaların ortak sonucu nedir?",
+    "options": [
+      "Kıdem arttıkça iş tecrübesine bağlı olarak iş performansı artmakta, kaçınılabilir devamsızlık ve işten ayrılma oranları belirgin biçimde düşmektedir",
+      "Kıdem arttıkça çalışanların işten ayrılma niyetleri katlanarak yükselmektedir",
+      "Kıdem ile çalışan performansı arasında sürekli negatif bir korelasyon bulunmaktadır",
+      "Kıdem yalnızca mavi yakalı çalışanların iş tatminini düşüren olumsuz bir unsurdur",
+      "Kıdemin örgütsel çıktılar üzerinde hiçbir ampirik etkisi bulunmamaktadır"
+    ],
+    "answer": 0,
+    "explanation": "Kıdem (işyerinde geçirilen süre) arttıkça deneyim ve kurumsal hafıza performansı ve iş tatminini artırır; devir oranını ve devamsızlığı ise azaltır.",
+    "source": "OB_hafta02 – Biyografik Özellikler: Kıdem"
+  },
+  {
+    "id": "v5-q10", "chapter": 2, "topic": "Zihinsel Yetenek Boyutları: Tümevarımsal Akıl Yürütme", "difficulty": "zor",
+    "question": "Bir telekomünikasyon şirketinin müşteri hizmetleri direktörü; birbirinden bağımsız gözüken binlerce müşteri şikayetini, çağrı merkezi ses kayıtlarını ve iptal başvurularını inceleyerek ortak bir örüntü keşfetmiş ve şirketin faturalama sisteminde gizli kalmış yapısal bir problemi gün yüzüne çıkarmıştır. Bu yöneticinin tekil olaylardan genel bir kurala ulaşırken kullandığı düşünsel yetenek hangisidir?",
+    "options": [
+      "Tümevarımsal akıl yürütme",
+      "Tümdengelimsel akıl yürütme",
+      "Mekânsal görselleştirme",
+      "Algısal hız",
+      "Sayısal kavrayış"
+    ],
+    "answer": 0,
+    "explanation": "Tümevarımsal akıl yürütme; spesifik gözlemlerden ve tekil verilerden yola çıkarak genel bir mantıksal sonuca veya örüntüye ulaşma kapasitesidir.",
+    "source": "OB_hafta02 – Zihinsel Yetenek Boyutları: Tümevarım"
+  },
+
+  # BÖLÜM 3: Tutumlar ve İş Tatmini (5 Soru)
+  {
+    "id": "v5-q11", "chapter": 3, "topic": "Tutumun Üç Bileşeni: ABC Modeli", "difficulty": "zor",
+    "question": "Bir kurumsal satış yöneticisinin 'Şirketimin uyguladığı komisyon sisteminin çalışan emeğini sömürdüğüne inanıyorum' değerlendirmesi, bu durum karşısında 'Bu adaletsizliği gördükçe çalıştığım her gün öfke ve çaresizlik hissediyorum' ifadesi ve ardından 'Önümüzdeki ay rakip firmanın iş teklifini kabul edeceğim' kararı sırasıyla tutumun hangi bileşenlerini oluşturur?",
+    "options": [
+      "Bilişsel – Duygusal – Davranışsal",
+      "Duygusal – Bilişsel – Davranışsal",
+      "Davranışsal – Duygusal – Bilişsel",
+      "Bilişsel – Davranışsal – Duygusal",
+      "Duygusal – Davranışsal – Bilişsel"
+    ],
+    "answer": 0,
+    "explanation": "İnanç ve değerlendirme boyutu bilişsel bileşeni; hissedilen öfke duygusal bileşeni; istifa edip rakibe geçme eylem niyeti ise davranışsal bileşeni ifade eder.",
+    "source": "OB_hafta03 – Tutumun Üç Bileşeni"
+  },
+  {
+    "id": "v5-q12", "chapter": 3, "topic": "Örgütsel Bağlılık Boyutları: Normatif Bağlılık", "difficulty": "orta",
+    "question": "Kariyerinin başında ailesinde ağır bir sağlık krizi yaşayan genç bir analiste, şirketinin karşılıksız finansal yardım sağladığını ve yüksek lisans eğitimini finanse ettiğini bilen bu çalışan; sektörden iki kat yüksek maaşlı teklifler almasına rağmen 'Şirketimin bana yaptığı fedakarlıkları unutamam, onlara vefa borcum var, ayrılmam ahlaken doğru olmaz' düşüncesiyle kalmaktadır. Bu çalışanın sergilediği bağlılık türü hangisidir?",
+    "options": [
+      "Normatif bağlılık",
+      "Devam bağlılığı",
+      "Duygusal bağlılık",
+      "İhmal bağlılığı",
+      "Bilişsel bağlılık"
+    ],
+    "answer": 0,
+    "explanation": "Normatif bağlılık; bireyin etik, ahlaki gerekçelerle ve kuruma karşı duyduğu vefa borcu nedeniyle kendini kalmak zorunda hissetmesidir.",
+    "source": "OB_hafta03 – Örgütsel Bağlılık: Normatif Bağlılık"
+  },
+  {
+    "id": "v5-q13", "chapter": 3, "topic": "Algılanan Örgütsel Destek Kavramı", "difficulty": "orta",
+    "question": "Çalışanların; örgütün onların sunduğu katkılara samimiyetle değer verdiğine, kişisel refahlarını ve mutluluklarını önemsediğine ve zor zamanlarında arkalarında duracağına yönelik besledikleri genel algı Örgütsel Davranış literatüründe nasıl adlandırılır?",
+    "options": [
+      "Algılanan örgütsel destek",
+      "Duygusal çelişki",
+      "Psikolojik sözleşme ihlali",
+      "Normatif adanmışlık",
+      "Bilişsel yeniden çerçeveleme"
+    ],
+    "answer": 0,
+    "explanation": "Algılanan Örgütsel Destek; çalışanların örgütün kendi katkılarına değer verdiğine ve esenliklerini önemsediğine olan inanç düzeyidir.",
+    "source": "OB_hafta03 – Algılanan Örgütsel Destek"
+  },
+  {
+    "id": "v5-q14", "chapter": 3, "topic": "Tatminsizliğe Yanıtlar: İhmal Tepkisi", "difficulty": "orta",
+    "question": "Çalıştığı ajansta terfi ettirilmeyen ve amiriyle çatışma yaşayan bir reklam metin yazarının; istifa etmek ya da sorunu amiriyle tartışmak yerine mesaiye sürekli geç kalması, toplantılarda pasif oturması, teslim tarihlerini kaçırması ve iş hatalarını düzeltmeyerek verimini en aza indirmesi EVLN modeline göre hangi tepkidir?",
+    "options": [
+      "İhmal",
+      "Çıkış",
+      "Söz hakkı",
+      "Sadakat",
+      "Geri çekilme"
+    ],
+    "answer": 0,
+    "explanation": "İhmal; iş tatminsizliğine verilen pasif ve yıkıcı bir tepkidir. İşi savsaklama, sürekli devamsızlık ve hata oranında artışla kendini gösterir.",
+    "source": "OB_hafta03 – EVLN Modeli: İhmal"
+  },
+  {
+    "id": "v5-q15", "chapter": 3, "topic": "Temel Öz-Değerlendirme ve İş Tatmini", "difficulty": "orta",
+    "question": "Örgütsel araştırmalarda kendilerini yetkin, değerli, etkili ve yaşamları üzerinde söz sahibi olarak gören yüksek temel öz-değerlendirmeye sahip bireylerin iş tatminleri hakkında hangi ampirik sonuca ulaşılmıştır?",
+    "options": [
+      "Daha zorlayıcı hedefler seçtikleri ve işlerine daha çok içsel anlam yükledikleri için işlerinden belirgin biçimde daha yüksek tatmin duyarlar",
+      "Kibirli oldukları için hiçbir çalışma ortamından tatmin olamazlar",
+      "İş tatminleri düşük temel öz-değerlendirmeye sahip bireylerden sürekli daha düşüktür",
+      "Temel öz-değerlendirmenin çalışan tatmini üzerinde hiçbir ampirik etkisi tespit edilememiştir",
+      "Sadece rutin ve denetimli işlerde yüksek tatmin elde ederler"
+    ],
+    "answer": 0,
+    "explanation": "Pozitif temel öz-değerlendirmeye sahip bireyler kendilerine inanırlar, zorlayıcı işlere yönelirler ve işlerinden belirgin biçimde daha yüksek tatmin duyarlar.",
+    "source": "OB_hafta03 – İş Tatmini: Temel Öz-Değerlendirme"
+  },
+
+  # BÖLÜM 4: Duygular ve Duygu Durumları (5 Soru)
+  {
+    "id": "v5-q16", "chapter": 4, "topic": "Duygular ve Duygu Durumları Kavramsal Farkı", "difficulty": "zor",
+    "question": "Bir hastane acil servisinde çalışan doktorun; bir hasta yakınının ani fiziksel saldırısı karşısında hissettiği, saniyeler süren, hedefi belli ve yoğun yüz ifadesiyle dışa yansıyan reaksiyonu (Duygu) ile; o gün genel olarak içini kaplayan, belirli bir tekil olaya bağlanamayan, daha az yoğun ama saatlerce süren iç huzursuzluğu (Duygu Durumu) arasındaki temel ayrım hangi seçenekte doğru özetlenmiştir?",
+    "options": [
+      "Duyguların belirli bir nesne veya olaya yönelik, kısa süreli ve yoğun olması; duygu durumlarının ise genellikle nedensiz, daha uzun süreli ve düşük yoğunluklu olması",
+      "Duyguların yalnızca bilinçaltında kalması, duygu durumlarının ise sadece fiziksel eyleme dönüşmesi",
+      "Duyguların bilişsel zekayı güçlendirmesi, duygu durumlarının ise hafızayı tamamen silmesi",
+      "Duyguların saatlerce sürmesi, duygu durumlarının ise birkaç saniyede kaybolması",
+      "İki kavram arasında kuramsal ve pratik hiçbir fark bulunmaması"
+    ],
+    "answer": 0,
+    "explanation": "Duygular belirli bir nedene veya kişiye yönelik, kısa ömürlü ve yoğundur; duygu durumları ise belirgin bir nedeni olmayan, daha uzun süren ve bilişsel düzeyde etkili olan hallerdir.",
+    "source": "OB_hafta04 – Duygular ve Duygu Durumları Ayrımı"
+  },
+  {
+    "id": "v5-q17", "chapter": 4, "topic": "Duygu Durumları ve Çevre: İllüzorik Korelasyon", "difficulty": "orta",
+    "question": "İş dünyasında ve toplumda kapalı, yağmurlu veya kasvetli havaların çalışanların duygu durumlarını ve performansını olumsuz etkilediğine dair yaygın bir inanç bulunmasına rağmen bilimsel araştırmaların bunu doğrulamaması durumu ÖD literatüründe hangi algısal kavramla açıklanır?",
+    "options": [
+      "İllüzorik korelasyon",
+      "Pozitiflik sapması",
+      "Duygusal bulaşma",
+      "Bilişsel çelişki",
+      "Duygusal yabancılaşma"
+    ],
+    "answer": 0,
+    "explanation": "İllüzorik korelasyon; aralarında gerçekte hiçbir istatistiksel ilişki bulunmayan iki değişken arasında ilişki varmış gibi algılanması yanılgısıdır.",
+    "source": "OB_hafta04 – Duyguların Kaynakları: Hava Durumu"
+  },
+  {
+    "id": "v5-q18", "chapter": 4, "topic": "Duygusal Emek: Hissedilen vs. Sergilenen Duygular", "difficulty": "zor",
+    "question": "Türbülansa giren bir yolcu uçağında kabin memurunun kendi içinde yoğun bir ölüm korkusu ve dehşet hissetmesine rağmen; şirket kuralları gereği yolculara sakinlik aşılamak amacıyla yüzüne oturttuğu tebessüm dolu ve profesyonel ifade arasındaki zıtlık ÖD'de hangi iki kavramın çatışmasıdır?",
+    "options": [
+      "Hissedilen duygular ile sergilenen duygular",
+      "Pozitif duygulanım ile negatif duygulanım",
+      "Bilişsel çelişki ile normatif bağlılık",
+      "Tümevarımsal akıl yürütme ile algısal hız",
+      "Amaç değerler ile araç değerler"
+    ],
+    "answer": 0,
+    "explanation": "Hissedilen duygular bireyin gerçekte yaşadığı içsel duygulardır; sergilenen duygular ise örgütün iş rolü gereği personelden göstermesini talep ettiği mimik ve ifadelerdir.",
+    "source": "OB_hafta04 – Duygusal Emek: Hissedilen ve Sergilenen Duygular"
+  },
+  {
+    "id": "v5-q19", "chapter": 4, "topic": "Duyguların Rasyonellikteki Rolü ve Nörolojik Temeller", "difficulty": "zor",
+    "question": "19. yüzyılda geçirdiği iş kazasında beyninin duygusal işlem merkezleri zarar gören Phineas Gage vakası ve modern nörolojik araştırmalar; bilişsel zekası yerinde olmasına rağmen karar alamayan hastaları incelediğinde hangi kritik bilimsel sonuca ulaşmıştır?",
+    "options": [
+      "Duyguların rasyonel karar alma, ahlaki muhakeme ve dünyayı anlamlandırma süreçleri için zorunlu ve kritik bir unsur olduğu",
+      "Duyguların rasyonel karar almayı daima felce uğrattığı ve karar mekanizmasından tamamen arındırılması gerektiği",
+      "Beynin duygusal merkezlerinin karar vermede tamamen işlevsiz olduğu",
+      "Duygusal zekânın standart zeka testlerinden hiçbir farkının bulunmadığı",
+      "Karar almanın tamamen genetik olup beyin hasarlarından asla etkilenmediği"
+    ],
+    "answer": 0,
+    "explanation": "Nörolojik kanıtlar duyguların rasyonellik için kritik olduğunu ortaya koymuştur. Duygu hissetme yetisini kaybeden bireyler basit gündelik kararları bile alamaz hale gelmektedir.",
+    "source": "OB_hafta04 – Duygular Bizi İrrasyonel mi Yapar?"
+  },
+  {
+    "id": "v5-q20", "chapter": 4, "topic": "Duygu Düzenleme: Bilişsel Yeniden Çerçeveleme", "difficulty": "orta",
+    "question": "Kritik bir yönetim kurulu sunumu öncesinde elleri titreyen ve kalp çarpıntısı yaşayan bir proje liderinin; bu fiziksel tepkileri bir yetersizlik ve felaket işareti olarak yorumlamak yerine 'Bedenim şu anda yapacağım başarılı sunum için ekstra enerji ve odaklanma hazırlığı yapıyor' şeklinde zihninde yeniden yorumlayarak sakinleşmesi hangi duygu düzenleme tekniğidir?",
+    "options": [
+      "Bilişsel yeniden çerçeveleme",
+      "Duyguyu bastırma",
+      "Yüzeysel rol yapma",
+      "Sosyal kaçınma",
+      "Duygusal uyumsuzluk"
+    ],
+    "answer": 0,
+    "explanation": "Bilişsel yeniden çerçeveleme; bireyin karşılaştığı duruma yüklediği anlamı ve bakış açısını bilinçli olarak değiştirerek ortaya çıkan duygusal tepkiyi düzenlemesidir.",
+    "source": "OB_hafta04 – Duygu Düzenleme Teknikleri"
+  },
+
+  # BÖLÜM 5: Kişilik ve Değerler (5 Soru)
+  {
+    "id": "v5-q21", "chapter": 5, "topic": "Kişiliğin Belirleyicileri: İkiz Çalışmaları", "difficulty": "zor",
+    "question": "Farklı aileler tarafından evlat edinilerek birbirlerinden tamamen bağımsız çevrelerde ve coğrafyalarda büyütülen tek yumurta ikizleri üzerinde yürütülen kapsamlı genetik ve psikolojik araştırmaların ulaştığı en temel bulgu nedir?",
+    "options": [
+      "Yetişkinlikteki kişilik özelliklerinin yaklaşık yüzde 40 ila 50'sinin genetik miras ve kalıtım yoluyla belirlendiği",
+      "Kişiliğin tamamen okul ve çevre tarafından şekillenen sıfır genetik unsurlu bir yapı olduğu",
+      "Ayrı büyüyen tek yumurta ikizlerinin kişilikleri arasında sıfır korelasyon bulunduğu",
+      "Genetik mirasın sadece fiziksel görünüşü belirleyip psikolojik süreçleri hiç etkilemediği",
+      "Kişiliğin her beş yılda bir çevresel faktörlerle tamamen sıfırlandığı"
+    ],
+    "answer": 0,
+    "explanation": "İkiz araştırmaları, kişiliğin yaklaşık %40-50 düzeyinde kalıtımsal temellere dayandığını ampirik olarak kanıtlamıştır.",
+    "source": "5. Bölüm – Kişiliğin Belirleyicileri: Kalıtım"
+  },
+  {
+    "id": "v5-q22", "chapter": 5, "topic": "Büyük Beşli Kişilik Modeli: Deneyime Açıklık", "difficulty": "orta",
+    "question": "Büyük Beşli Kişilik Modelinde; yeni ve denenmemiş fikirlere karşı yoğun entelektüel merak duyan, estetik ve sanatsal duyarlılığı yüksek, geleneksel kuralları sorgulamaya açık, yaratıcı ve hayal gücü geniş bireyleri tanımlayan temel kişilik boyutu hangisidir?",
+    "options": [
+      "Deneyime açıklık",
+      "Uyumluluk",
+      "Sorumluluk",
+      "Duygusal kararlılık",
+      "Dışadönüklük"
+    ],
+    "answer": 0,
+    "explanation": "Deneyime açıklık; bireyin yaratıcılık, merak, estetik duyarlılık ve yeniliklere olan açıklık derecesini yansıtır.",
+    "source": "5. Bölüm – Büyük Beşli: Deneyime Açıklık"
+  },
+  {
+    "id": "v5-q23", "chapter": 5, "topic": "Kişilik Özellikleri: Öz-Denetim", "difficulty": "zor",
+    "question": "Dışsal ve durumsal ipuçlarına karşı son derece hassas olan, farklı sosyal ortamlarda ve farklı insan grupları karşısında konuşma tarzını, mimiklerini ve davranışlarını adeta bir bukalemun gibi ustalıkla değiştirebilen 'yüksek öz-denetimli' bireyler hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Kariyerlerinde daha hızlı terfi alma ve liderlik basamaklarına tırmanma eğilimindedirler ancak kurumlarına karşı bağlılıkları daha düşüktür",
+      "Düşük öz-denetimlilere kıyasla girdikleri her ortamda katı ve tek bir sabit kimlik sergilerler",
+      "Sosyal ortamlarda nasıl davranacaklarını asla bilemez ve sürekli izole olurlar",
+      "İş performansları ve terfi ihtimalleri düşük öz-denetimlilerden her zaman daha geridedir",
+      "Yüksek öz-denetim bireyin stres toleransını tamamen sıfırlayan patolojik bir durumdur"
+    ],
+    "answer": 0,
+    "explanation": "Yüksek öz-denetimciler duruma göre davranma konusunda çok yeteneklidir; bu da onların daha hızlı terfi etmesini sağlar fakat örgüte bağlılıkları daha düşüktür.",
+    "source": "5. Bölüm – Kişilik Özellikleri: Öz-Denetim"
+  },
+  {
+    "id": "v5-q24", "chapter": 5, "topic": "Hofstede Ulusal Kültür Boyutları: Belirsizlikten Kaçınma", "difficulty": "orta",
+    "question": "Geert Hofstede'in kültür boyutları modeline göre; bir toplumda insanların belirsiz, muğlak ve geleceği kestirilemeyen durumlardan yoğun endişe duyması ve bu gerilimi azaltmak için katı yasalara, ayrıntılı prosedürlere, güvenlik standartlarına ve mutlak inançlara sığınması hangi boyuttur?",
+    "options": [
+      "Belirsizlikten kaçınma",
+      "Yüksek güç mesafesi",
+      "Erillik",
+      "Kolektivizm",
+      "Kısa vadeye dönüklük"
+    ],
+    "answer": 0,
+    "explanation": "Belirsizlikten kaçınma; bir kültürün üyelerinin belirsiz veya muğlak durumlardan rahatsızlık duyma ve bu durumları kurallarla kontrol altına alma arzusunu yansıtır.",
+    "source": "5. Bölüm – Hofstede Kültür Boyutları: Belirsizlikten Kaçınma"
+  },
+  {
+    "id": "v5-q25", "chapter": 5, "topic": "Kişi-Örgüt Uyumu Kavramı ve Çıktıları", "difficulty": "orta",
+    "question": "Bir işe alım sürecinde adayın yalnızca mesleki bilgi ve teknik becerilerinin değil; sahip olduğu temel kişisel değerlerin, ahlaki ilkelerin ve karakterinin kurumun kültürüyle örtüşmesini ifade eden 'Kişi-Örgüt Uyumu' sağlandığında hangi örgütsel çıktılar gerçekleşir?",
+    "options": [
+      "Çalışanın örgütsel bağlılığı ve iş tatmini artar, işten ayrılma niyeti ise belirgin biçimde azalır",
+      "Çalışanın bilişsel çelişkisi artarak işyerinde sapkın davranışlara yol açar",
+      "Çalışanın yaratıcılığı tamamen körelir ve görev performansı çöker",
+      "Kişi-örgüt uyumunun çalışan tutumları ve iş devri üzerinde hiçbir ampirik etkisi bulunmaz",
+      "Kurum içindeki tüm biçimsel kurallar geçersiz hale gelir"
+    ],
+    "answer": 0,
+    "explanation": "Kişi-örgüt uyumu; bireyin değerleri ile örgüt kültürünün uyuşmasıdır. Bu uyum yüksek iş tatmini, güçlü örgütsel bağlılık ve düşük iş devri ile sonuçlanır.",
+    "source": "5. Bölüm – Kişi-Örgüt Uyumu"
+  }
+]

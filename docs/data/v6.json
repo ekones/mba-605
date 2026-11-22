@@ -9,427 +9,427 @@
     {
       "id": "v6-q01",
       "chapter": 1,
-      "topic": "Yönetim fonksiyonları: Örgütleme",
+      "topic": "Mintzberg Yönetici Rolleri: Bilgi Sağlama Rolleri",
       "difficulty": "orta",
-      "question": "Bir işletmede hangi görevlerin yapılacağına, bu görevleri kimin yerine getireceğine, işlerin nasıl departmanlaştırılacağına ve kimin kime rapor vereceğine karar verme sürecini içeren yönetim fonksiyonu hangisidir?",
+      "question": "Bir perakende şirketinin tepe yöneticisinin her sabah sektör raporlarını okuması, rakip zincirlerin fiyatlama stratejilerini incelemesi ve piyasadaki gelişmeleri takip etmek amacıyla iş dünyasındaki gayriresmî haber ağlarını taraması Mintzberg'in hangi yönetici rolüne örnektir?",
       "options": [
-        "Örgütleme (Organizing)",
-        "Planlama",
-        "Liderlik",
-        "Denetleme",
-        "Motivasyon"
+        "Dağıtıcı",
+        "Monitör",
+        "Müzakereci",
+        "Sözcü",
+        "Girişimci"
       ],
-      "answer": 0,
-      "explanation": "Örgütleme; hangi işlerin yapılacağı, kimin yapacağı, nasıl gruplandırılacağı ve kimin kime rapor vereceğinin belirlendiği fonksiyondur.",
-      "source": "OB_hafta01 – Yönetim Fonksiyonları (Örgütleme)"
+      "answer": 1,
+      "explanation": "Monitör (izleyici/gözlemci) rolü; yöneticinin örgüte ve sektöre ilişkin en güncel bilgileri sürekli tarayarak dışsal gelişmeleri ve fırsatları takip etmesini ifade eder.",
+      "source": "OB_hafta01 – Mintzberg Rolleri: Bilgi Sağlama"
     },
     {
       "id": "v6-q02",
       "chapter": 1,
-      "topic": "ÖD modelinde Grup düzeyinde Süreçler",
-      "difficulty": "orta",
-      "question": "Robbins ve Judge modelinde GRUP düzeyinde incelenen SÜREÇ değişkenleri arasında aşağıdakilerden hangisi yer alır?",
+      "topic": "Robbins ve Judge ÖD Modeli: Süreçler Düzeyi",
+      "difficulty": "zor",
+      "question": "Robbins ve Judge'ın Örgütsel Davranış modelinde; birey düzeyindeki temel girdilerin (kişilik, değerler, demografik özellikler) nihai bireysel ve örgütsel çıktılara dönüşmesini sağlayan psikolojik eylemler ve dinamikler hangi düzeyde yer alır?",
       "options": [
-        "Liderlik, İletişim, Çatışma ve Müzakere",
-        "Bireysel Değerler ve Kişilik",
-        "Örgüt Kültürü ve Yapısı",
-        "Finansal Kârlılık",
-        "İş Tatmini"
+        "Durumsal çevre düzeyi",
+        "Makro yapı düzeyi",
+        "Çıktılar düzeyi",
+        "Girdiler düzeyi",
+        "Süreçler düzeyi"
       ],
-      "answer": 0,
-      "explanation": "Grup düzeyindeki süreçler; iletişim, liderlik, güç ve politika ile çatışma ve müzakeredir.",
-      "source": "OB_hafta01 – Processes at Group Level"
+      "answer": 4,
+      "explanation": "Modelde girdiler (kişilik, değerler); süreçler (motivasyon, algı, liderlik, iletişim, karar verme) aracılığıyla çıktılara (tutumlar, stres, performans, vatandaşlık) dönüşür.",
+      "source": "OB_hafta01 – Robbins ve Judge ÖD Modeli"
     },
     {
       "id": "v6-q03",
       "chapter": 1,
-      "topic": "Ekonomik baskılara yanıt verme ve yönetim",
+      "topic": "Katz Yönetim Becerileri: Beşeri Beceriler",
       "difficulty": "orta",
-      "question": "Ders notlarına göre kriz ve ekonomik durgunluk dönemlerinde yöneticiliğin kritik öneme sahip olmasının temel sebebi nedir?",
+      "question": "Robert Katz'ın yönetim becerileri kuramına göre; bir organizasyonda ilk kademe şeften icra kurulu başkanına kadar hiyerarşinin tüm basamaklarında önemini hiçbir zaman yitirmeyen, çalışanları anlama, onlarla işbirliği yapma ve motive etme kapasitesini tanımlayan beceri türü hangisidir?",
       "options": [
-        "Ekonomik baskıların tüm çalışanları kendiliğinden en üst performansa ulaştırması",
-        "İyi zamanlarda herkesin yönetebilmesi, asıl zorluğun kaynak kısıtları ve belirsizlik altında çalışanları güvende tutabilmek ve motive edebilmek olması",
-        "Kriz anlarında örgütsel davranış kurallarının tamamen geçersiz kalması",
-        "Yöneticilerin kriz döneminde karar alma yetkilerinin sendikalara devredilmesi",
-        "Durgunluk dönemlerinde işten çıkarma kararlarının hiçbir psikolojik etki yaratmaması"
+        "Kavramsal beceri",
+        "Teknik beceri",
+        "Beşeri beceri",
+        "Mekanik operasyon becerisi",
+        "Finansal analiz becerisi"
       ],
-      "answer": 1,
-      "explanation": "İyi zamanlarda yönetmek kolaydır; asıl yöneticilik sınavı kaynak kısıtları, belirsizlik ve işten çıkarma stresi altındaki çalışanları motive edebilmektir.",
-      "source": "OB_hafta01 – Ekonomik Baskıya Yanıt Verme"
+      "answer": 2,
+      "explanation": "Katz'a göre teknik beceriler alt kademede, kavramsal beceriler üst kademede kritikleşirken; beşeri beceriler (insan ilişkileri) her yönetim kademesinde eşit derecede hayatidir.",
+      "source": "OB_hafta01 – Katz Yönetim Becerileri"
     },
     {
       "id": "v6-q04",
-      "chapter": 2,
-      "topic": "Derin çeşitliliğin zamanla artan önemi",
-      "difficulty": "orta",
-      "question": "Yeni kurulan bir proje ekibinde, ilk günlerde yaş, cinsiyet veya etnik köken gibi yüzeysel farklılıklar dikkat çekerken; haftalar geçtikçe üyelerin birlikte çalışabilirliğini ve uyumunu asıl belirleyen faktör aşağıdakilerden hangisidir?",
+      "chapter": 1,
+      "topic": "İşgücü Çeşitliliğinin Yönetimi ve Stratejik Yaklaşım",
+      "difficulty": "zor",
+      "question": "Küreselleşen iş dünyasında kurumsal çeşitlilik programlarının kalıcı başarıya ulaşabilmesi için işletmelerin benimsemesi gereken stratejik yaklaşım aşağıdakilerden hangisidir?",
       "options": [
-        "İlk gün takınılan kıyafet tarzı",
-        "Değerler, kişilik özellikleri ve çalışma tarzı gibi derin çeşitlilik unsurları",
-        "Özlük dosyasındaki nüfus kayıt bilgileri",
-        "Sadece üyelerin mezun oldukları lise",
-        "Fiziksel güç ve boy uzunluğu"
+        "Çeşitliliği yalnızca yasal bir zorunluluk olarak değil, kurumun rekabet gücünü artıran ve tüm çalışanları kapsayan stratejik bir iş modeli olarak konumlandırmak",
+        "Çeşitliliği yalnızca belirli azınlık gruplara özel kotalar koymaktan ibaret görmek",
+        "Çeşitlilik sorumluluğunu yalnızca insan kaynakları departmanına bırakıp tepe yönetimi sürecin dışında tutmak",
+        "Yalnızca yüzeysel çeşitlilik unsurlarına odaklanıp derin çeşitlilik boyutlarını yasaklamak",
+        "Tüm çalışanları tek tip kurumsal kültüre zorlayarak bireysel farklılıkları tamamen görünmez kılmak"
       ],
-      "answer": 1,
-      "explanation": "İnsanlar birbirini tanıdıkça yüzeysel özelliklerin etkisi azalır ve derin çeşitlilik (değerler, kişilik, çalışma tarzı) ekip uyumunda belirleyici hâle gelir.",
-      "source": "2. Bölüm – Derin Çeşitlilik"
+      "answer": 0,
+      "explanation": "Etkin çeşitlilik yönetimi; sadece yasal uyumlulukla sınırlı kalmayan, kapsayıcı bir iklim yaratarak çeşitliliği rekabetçi avantaja dönüştüren ve tüm çalışanları sürece dahil eden yaklaşımdır.",
+      "source": "OB_hafta01 – İşgücü Çeşitliliği"
     },
     {
       "id": "v6-q05",
-      "chapter": 2,
-      "topic": "Genel Düşünsel Yetenek ve İş Başarısı",
+      "chapter": 1,
+      "topic": "Örgütsel Davranışta Etik İkilemler ve Yönetsel Liderlik",
       "difficulty": "orta",
-      "question": "Örgütsel davranış ve endüstri psikolojisi araştırmalarına göre, karmaşık ve analitik gereksinimleri yüksek profesyonel işlerde başarıyı (performansı) en güçlü öngören bireysel değişken hangisidir?",
+      "question": "Çalışanların piyasa rekabeti, agresif kâr hedefleri ve ahlaki değerler arasında sıkışarak etik ikilemler yaşadığı modern çalışma ortamlarında yöneticilerin en kritik rolü nedir?",
       "options": [
-        "Bedensel Esneklik",
-        "Biyolojik Yaş",
-        "Genel Düşünsel Yetenek (GDY)",
-        "A Tipi Kişilik Skoru",
-        "Kısa Vadeye Dönüklük"
+        "Sadece ceza kanunlarındaki asgari kurallarla yetinip mesleki etik ilkeleri göz ardı etmek",
+        "Etik kararları tamamen bireylerin kişisel vicdanına bırakıp kurumsal rehberlik sunmaktan kaçınmak",
+        "Şirket içinde yaşanan ahlaki tartışmaları derhal cezalandırarak örtbas etmek",
+        "Açık, net ve tavizsiz etik standartlar belirleyerek çalışanların doğru olanı yapabilecekleri psikolojik güven ortamını oluşturmak",
+        "Kâr hedeflerine ulaşabilmek için etik ilkelerin esnetilmesini çalışanlara telkin etmek"
       ],
-      "answer": 2,
-      "explanation": "Araştırmalar, özellikle karmaşık işlerde Genel Düşünsel Yeteneğin (GDY / General Mental Ability) iş başarısını en güçlü tahmin eden faktör olduğunu göstermektedir.",
-      "source": "2. Bölüm – Genel Düşünsel Yetenek (GDY)"
+      "answer": 3,
+      "explanation": "Örgütler çalışanların doğru ve yanlış davranışları net görebilecekleri etik standartlar yaratmalı ve çalışanların misilleme korkusu olmadan dürüst davranabilecekleri ortamı güvenceye almalıdır.",
+      "source": "OB_hafta01 – Etik İkilemler ve Tercihler"
     },
     {
       "id": "v6-q06",
       "chapter": 2,
-      "topic": "Çeşitlilik yönetiminde küresel yasal farklılıklar",
+      "topic": "Zihinsel Yetenek Boyutları: Mekânsal Görselleştirme",
       "difficulty": "orta",
-      "question": "Ders notlarında çeşitlilik yönetiminin küresel etkileri tartışılırken verilen Hindistan örneğinde hangi özgül uygulamaya dikkat çekilmiştir?",
+      "question": "Bir endüstriyel tasarımcının veya gemi inşa mühendisinin, bilgisayar ekranındaki iki boyutlu karmaşık bir teknik plana bakarak bu nesnenin uzayda hareket ettirildiğinde veya döndürüldüğünde üç boyutlu formunun nasıl görüneceğini zihninde hatasız canlandırabilmesi hangi düşünsel yetenek boyutudur?",
       "options": [
-        "Kıdem tazminatının tamamen kaldırılması",
-        "Tüm kadın çalışanlara zorunlu askerlik getirilmesi",
-        "Yalnızca tek bir dilde iş yapılması zorunluluğu",
-        "Fiziksel yetenek testlerinin tamamen yasaklanması",
-        "Düşük kastlardan gelen bireylere ayrımcılık yapılmaması için yasal kotalar ve pozitif ayrımcılık programları uygulanması"
+        "Sözel anlama",
+        "Tümevarımsal akıl yürütme",
+        "Sayısal kavrayış",
+        "Mekânsal görselleştirme",
+        "Algısal hız"
       ],
-      "answer": 4,
-      "explanation": "Notlarda çeşitlilik politikalarının kültür ve yasalara göre değiştiği belirtilerek, Hindistan'da düşük kastlardan gelenler için kota ve özel programlar hazırlandığı örneği verilir.",
-      "source": "2. Bölüm – Küresel Etkiler: Çeşitlilik Yönetimi"
+      "answer": 3,
+      "explanation": "Mekânsal görselleştirme; bir nesnenin uzaydaki konumunun değişmesi halinde nasıl bir şekil alacağını zihinde canlandırabilme yeteneğidir.",
+      "source": "OB_hafta02 – Zihinsel Yetenek Boyutları: Mekânsal Görselleştirme"
     },
     {
       "id": "v6-q07",
-      "chapter": 3,
-      "topic": "Tutumun Bilişsel Unsuru",
-      "difficulty": "kolay",
-      "question": "'Yöneticim sadece kendi hemşehrisi olan çalışanlara yüksek prim veriyor' diyen bir çalışanın bu tespiti tutumun hangi temel unsurunu yansıtır?",
+      "chapter": 2,
+      "topic": "Biyografik Özellikler: Engellilik ve İş Performansı",
+      "difficulty": "orta",
+      "question": "Engelli bireylerin iş hayatındaki varlığına ilişkin ampirik araştırmalar ve işyeri gözlemleri incelendiğinde; engelli çalışanların performans ve bağlılıkları hakkında hangi nesnel gerçek ortaya çıkmaktadır?",
       "options": [
-        "Duygusal Unsur",
-        "Örgütsel Destek",
-        "Davranışsal Unsur",
-        "Bilişsel Uyumsuzluk",
-        "Bilişsel Unsur (İnanç / Fikir)"
+        "Engelli çalışanların fiili iş performansı değerlendirmeleri diğer çalışanlarla eşdeğer düzeydedir ve işe bağlılıkları ile sadakatleri genellikle daha yüksektir",
+        "Engelli çalışanlar tüm iş kollarında diğer personelden belirgin biçimde daha düşük performans sergiler",
+        "İşletmelerde engelli istihdamı verimliliği düşüren safi bir maliyet unsurudur",
+        "Engelli bireyler teknik ve zihinsel karmaşıklığı olan işleri kesinlikle öğrenemezler",
+        "Engelli personelin devamsızlık oranları diğer personelin en az üç katı seviyesindedir"
       ],
-      "answer": 4,
-      "explanation": "Bilişsel unsur, bir tutumun fikir, kanaat veya inanç boyutudur ('yöneticim ayrımcılık yapıyor' inancı).",
-      "source": "3. Bölüm – Tutumların Ana Unsurları"
+      "answer": 0,
+      "explanation": "Araştırmalar engelli çalışanlara yönelik önyargılara karşın, performans değerlendirmelerinin sağlam personelle farksız olduğunu, ayrıca kurum sadakatlerinin ve işe devamlılıklarının yüksek olduğunu ortaya koymuştur.",
+      "source": "OB_hafta02 – Biyografik Özellikler: Engellilik"
     },
     {
       "id": "v6-q08",
-      "chapter": 3,
-      "topic": "Örgüte bağlılık: Duygusal Bağlılık",
-      "difficulty": "kolay",
-      "question": "'Bu kurumun amaçlarını kendi amaçlarım gibi benimsiyorum, kendimi buradaki büyük ailenin bir parçası olarak hissediyorum ve burada çalışmaktan gurur duyuyorum' diyen bir çalışanda hangi bağlılık boyutu baskındır?",
+      "chapter": 2,
+      "topic": "Ayrımcılık Biçimleri: Yıldırma ve Gözdağı Verme",
+      "difficulty": "orta",
+      "question": "Bir fabrika müdürünün hat sorumlusu bir ustabaşını hedef alarak ofise çağırması, masayı yumruklayarak bağırması, kapıyı çarpması, açıkça kovmakla tehdit etmesi ve fiziksel varlığıyla doğrudan baskı ve dehşet yaratmaya çalışması hangi ayrımcılık ve suistimal türüne girer?",
       "options": [
-        "Yüzeysel Bağlılık",
-        "Devam Bağlılığı",
-        "Normatif Bağlılık",
-        "Geçici Bağlılık",
-        "Duygusal Bağlılık (Affective commitment)"
+        "Ayrımcı kurumsal politikalar",
+        "Yıldırma ve gözdağı verme",
+        "Cinsel taciz",
+        "Dışlama",
+        "Nezaketsizlik"
       ],
-      "answer": 4,
-      "explanation": "Duygusal bağlılık, bireyin örgüte duyduğu samimi içsel sevgi, aidiyet ve onun değerlerine olan inançtır; temeli 'istek'tir.",
-      "source": "3. Bölüm – Örgüte Bağlılık Boyutları (Duygusal Bağlılık)"
+      "answer": 1,
+      "explanation": "Yıldırma ve gözdağı verme (Intimidation); çalışanlara yönelik açık tehdit, şiddet gösterisi ve zorbalık içeren açık saldırgan eylemlerdir.",
+      "source": "OB_hafta02 – Ayrımcılık Türleri: Yıldırma"
     },
     {
       "id": "v6-q09",
-      "chapter": 3,
-      "topic": "Örgütsel Vatandaşlık: Özgecilik (Altruism)",
-      "difficulty": "kolay",
-      "question": "İş yerinde yeni başlayan ve sisteme yabancı olan bir iş arkadaşına kendi mesaisi olmamasına rağmen gönüllü olarak işi öğreten ve dosyalarını düzenlemesine yardım eden bir personelin davranışı hangi ÖVD boyutudur?",
+      "chapter": 2,
+      "topic": "Biyografik Özellikler: İnanç ve Kimlik Çeşitliliği",
+      "difficulty": "zor",
+      "question": "Kurum içinde kişisel inançları, dünya görüşleri veya kimlikleri nedeniyle dışlanmaktan korkan çalışanların kendilerini sürekli sansürlemek ve kimliklerini gizlemek zorunda hissetmelerinin örgüt üzerindeki temel maliyeti nedir?",
       "options": [
-        "Makyavelizm",
-        "Sportmenlik",
-        "Sivil Erdem",
-        "Özgecilik (Altruism / Diğerkâmlık)",
-        "Görev Kimliği"
+        "Kimliğini gizleyen çalışanların mesaiye odaklanarak daha yüksek verim sergilemesi",
+        "İşletmenin tüm biçimsel kurallarının otomatik olarak geçersiz kalması",
+        "Çalışanların örgütsel vatandaşlık davranışlarının iki katına ulaşması",
+        "Kurumun inovasyon ve finansal kârlılık oranlarının hızla zirveye çıkması",
+        "Bireylerin tükenmişlik ve yoğun psikolojik stres yaşaması, örgütsel güvenin çökmesi ve nitelikli yeteneklerin kurumdan ayrılması"
       ],
-      "answer": 3,
-      "explanation": "Özgecilik (Altruism), iş yerinde belirli bir bireye işiyle ilgili sorunlarında veya görevinde doğrudan ve gönüllü yardımda bulunmaktır.",
-      "source": "3. Bölüm – Örgütsel Vatandaşlık Davranışı Boyutları"
+      "answer": 4,
+      "explanation": "Kişisel kimliğini gizleme baskısı çalışanlarda derin bir duygusal yük ve stres yaratır; bu durum iş tatminini düşürür, devir oranını artırır ve kurumun beşeri sermayesine zarar verir.",
+      "source": "OB_hafta02 – Biyografik Özellikler: Din ve Kimlik"
     },
     {
       "id": "v6-q10",
-      "chapter": 3,
-      "topic": "İş Tatmini ve Müşteri Tatmini: Hizmet Sektörü",
+      "chapter": 2,
+      "topic": "Yetenek-İş Uyumu Prensibi",
       "difficulty": "orta",
-      "question": "Hizmet sektöründe (örneğin Singapur Havayolları veya lüks oteller) çalışan personelin iş tatmininin yüksek olmasının doğrudan müşteri tatminine dönüşmesini sağlayan mekanizma nedir?",
+      "question": "Bir çalışanın sahip olduğu düşünsel veya fiziksel yetenek düzeyi ile icra ettiği işin talep ettiği yetenek gerekleri arasındaki dengesizlik analiz edildiğinde Örgütsel Davranış ne öngörür?",
       "options": [
-        "Hizmet sektöründe robotların kullanılması",
-        "Doğrudan müşteriyle temas halinde olan personelin pozitif duygularının ve duyarlılığının müşteriye yansıması (duygusal bulaşma ve hizmet kalitesi)",
-        "Müşterilerin çalışanların maaş bordrosunu inceleyebilmesi",
-        "Çalışanlara ceza verilmesi",
-        "Tüm hizmetlerin otomatik çağrı sistemine devredilmesi"
+        "Yetenek ile iş gerekleri arasındaki uyumsuzluğun çalışan davranışı üzerinde hiçbir etkisi bulunmaz",
+        "Yetenek işin gereklerinden ne kadar düşük olursa olsun primle telafi edildiğinde performans sıfır hata ile gerçekleşir",
+        "Yetenek iş gereklerinin altında kaldığında çalışan başarısızlık ve yoğun stres yaşarken; yetenek işin çok üzerinde olduğunda can sıkıntısı ve tatminsizlik ortaya çıkar",
+        "Çalışanlar daima kendi yetenek kapasitelerinin çok altındaki rutin işlerde en yüksek mutluluğu yakalarlar",
+        "Yetenek işin çok üzerinde olduğunda çalışan kuruma ömür boyu koşulsuz sadakat gösterir"
       ],
-      "answer": 1,
-      "explanation": "İşinden tatmin olan güler yüzlü çalışanlar olağanüstü müşteri hizmeti sunar ve bu olumlu duygu durumu müşteriye doğrudan geçer.",
-      "source": "3. Bölüm – İş Tatmini ve Müşteri Tatmini"
+      "answer": 2,
+      "explanation": "Yetenek-iş uyumu teorisine göre yetenek işin altında kalırsa çalışan zorlanır ve başarısız olur; yetenek işin gereklerinden belirgin biçimde üstün olursa can sıkıntısı, hayal kırıklığı ve verim düşüklüğü yaşanır.",
+      "source": "OB_hafta02 – Yetenek-İş Uyumu"
     },
     {
       "id": "v6-q11",
-      "chapter": 4,
-      "topic": "Olumlu ve Olumsuz Duygulanım Boyutları",
-      "difficulty": "orta",
-      "question": "Watson ve Tellegen'in modeline göre; en yüksek seviyede heyecan, coşku ve neşeden oluşan duygu durum boyutuna 'Olumlu Duygulanım' denirken; en yüksek seviyede endişe, gerginlik ve stresten oluşan duygu durum boyutuna ne ad verilir?",
+      "chapter": 3,
+      "topic": "İş Tatmininin Ölçülmesi Yöntemleri",
+      "difficulty": "zor",
+      "question": "İş tatminini ölçmede kullanılan 'Tek Küresel Derecelendirme' yöntemi (örneğin: 'Her şeyi düşündüğünüzde işinizden ne derece memnunsunuz?') ile işin farklı alt unsurlarını tek tek puanlayan 'Boyutların Toplamı' yöntemi karşılaştırıldığında araştırmaların ulaştığı sonuç nedir?",
       "options": [
-        "Nevrotik Zekâ",
-        "Olumluluk Dengesi",
-        "Duygulanım Yoğunluğu",
-        "Duygusal Uyumsuzluk",
-        "Olumsuz Duygulanım (Negative Affect)"
+        "İki yöntemin birbirine taban tabana zıt ve çelişkili sonuçlar üretmesi",
+        "Tek küresel sorunun istatistiksel geçerliliğinin sıfır olması ve tamamen terk edilmesi gerektiği",
+        "Boyutların toplamı yönteminin çalışanlar üzerinde hiçbir ampirik geçerliliğinin olmaması",
+        "İş tatmininin anket yöntemiyle ölçülmesinin bilimsel olarak imkansız olduğunun anlaşılması",
+        "Tek bir genel soru sormanın şaşırtıcı şekilde sofistike ve detaylı anketler kadar geçerli ve güçlü sonuçlar vermesi"
       ],
       "answer": 4,
-      "explanation": "Olumsuz duygulanım; yüksek ucunda endişe, stres ve sinirlilik; düşük ucunda ise sakinlik ve dinginlik bulunan duygu durum boyutudur.",
-      "source": "4. Bölüm – Temel Duygu Durumlar: Olumlu ve Olumsuz Duygulanım"
+      "explanation": "Araştırmalara göre tek bir küresel soru ile yapılan ölçüm, onlarca alt unsuru puanlayan detaylı anketler kadar geçerlidir; çünkü bireyler tek bir soruya yanıt verirken zihinlerinde zaten tüm unsurları ağırlıklandırıp sentezlerler.",
+      "source": "OB_hafta03 – İş Tatmininin Ölçülmesi"
     },
     {
       "id": "v6-q12",
-      "chapter": 4,
-      "topic": "Duyguların Zaman İçindeki Değişimi",
+      "chapter": 3,
+      "topic": "İş Tutumları: İşe Tutulma",
       "difficulty": "orta",
-      "question": "Haftanın günleri ve günün saatleri ile olumlu duygu durumu arasındaki ilişki incelendiğinde çoğu kültürde saptanan genel model nasıldır?",
+      "question": "Bir yazılım mühendisinin kod yazarken zamanın nasıl akıp gittiğini fark etmemesi, işine karşı muazzam bir tutku, coşku ve adanmışlık hissetmesi ve enerjisini bütünüyle iş rolüne kanalize etmesi ÖD literatüründe hangi kavramla açıklanır?",
       "options": [
-        "Haftanın günleri duygu durumu üzerinde hiçbir döngü yaratmaz.",
-        "Olumlu duygu durumları hafta sonuna doğru (Cuma/Cumartesi) ve günün öğle-akşamüstü saatlerinde en yüksek seviyeye ulaşma eğilimindedir.",
-        "Günün gece yarısı saatlerinde insanların motivasyonu her zaman en yüksektir.",
-        "Pazartesi sabahları olumlu duyguların zirve yaptığı andır.",
-        "Olumlu hisler sadece Çarşamba sabahı görülür."
+        "İhmal davranışı",
+        "Devam bağlılığı",
+        "İşe tutulma",
+        "Normatif bağlılık",
+        "Duygusal uyumsuzluk"
       ],
-      "answer": 1,
-      "explanation": "Araştırmalara göre pozitif duygulanım haftanın başından hafta sonuna doğru yükselir ve gün içinde de sabahın erken saatlerinden öğle/öğleden sonraya doğru artış gösterir.",
-      "source": "4. Bölüm – Haftanın Günleri ve Günün Saatleri"
+      "answer": 2,
+      "explanation": "İşe tutulma (Work engagement); çalışanın işine yönelik hissettiği yüksek enerji, coşku, adanmışlık ve kendini işe kaptırma halidir.",
+      "source": "OB_hafta03 – Temel İş Tutumları: İşe Tutulma"
     },
     {
       "id": "v6-q13",
-      "chapter": 4,
-      "topic": "Duygusal Zekânın Boyutları",
+      "chapter": 3,
+      "topic": "Tatminsizliğe Yanıtlar: Sadakat Boyutu",
       "difficulty": "orta",
-      "question": "Daniel Goleman ve ilgili araştırmacıların duygusal zekâ (DZ) çatısı altında tanımladığı temel yetenek bileşenleri arasında aşağıdakilerden hangisi YER ALMAZ?",
+      "question": "Çalıştığı şirkette yaşanan yönetsel krizlere ve aksaklıklara rağmen amirlerine güven duyan, şirketi dışarıdan gelen eleştirilere karşı kararlılıkla savunan ve yönetimin durumu er ya da geç düzelteceğine inanarak sabırla işine devam eden çalışanın tutumu EVLN modelinde hangisidir?",
       "options": [
-        "Başkalarını manipüle ederek maddi çıkarları için yalan söyleme yeteneği",
-        "Kişinin kendi duygularını yönetebilmesi ve denetleyebilmesi",
-        "Başkalarının duygularını anlayabilme ve empati kurabilme",
-        "Kişinin kendi duygularını fark edebilmesi (Öz-farkındalık)",
-        "İlişkileri ve sosyal etkileşimleri yönetebilme"
+        "Söz hakkı",
+        "Geri çekilme",
+        "İhmal",
+        "Sadakat",
+        "Çıkış"
       ],
-      "answer": 0,
-      "explanation": "Duygusal zekânın bileşenleri: Öz-farkındalık, duyguları yönetme, motivasyon, empati ve sosyal becerilerdir. Yalan söyleme ve manipülasyon Makyavelizmdir, DZ değildir.",
-      "source": "4. Bölüm – Duygusal Zekâ Boyutları"
+      "answer": 3,
+      "explanation": "Sadakat (Loyalty); iş tatminsizliğine karşı pasif ama yapıcı bir yanıttır. Şirketi savunma, yönetime güvenme ve durumun düzelmesini bekleme şeklinde kendini gösterir.",
+      "source": "OB_hafta03 – EVLN Modeli: Sadakat"
     },
     {
       "id": "v6-q14",
-      "chapter": 4,
-      "topic": "Duygular ve İş Güvenliği / Yaralanmalar",
-      "difficulty": "orta",
-      "question": "İş güvenliği ve iş kazaları üzerine yapılan araştırmalar, çalışanların duygu durumları ile kazalar arasında nasıl bir bağ ortaya koymuştur?",
+      "chapter": 3,
+      "topic": "İş Tatmini ve Örgütsel Vatandaşlık Davranışı İlişkisi",
+      "difficulty": "zor",
+      "question": "İş tatmini yüksek olan çalışanların, resmi görev tanımlarının ötesine geçerek örgüt lehine fazladan gönüllü çaba ve vatandaşlık davranışı sergileme eğiliminde olmalarının temel psikolojik gerekçesi nedir?",
       "options": [
-        "Öfke ve karamsarlık koruyucu refleksi daima iki katına çıkarır.",
-        "Kötü hisseden çalışanlar her zaman güvenlik kurallarına en kusursuz uyan gruptur.",
-        "İş kazalarının duygusal durumlarla hiçbir ilişkisi yoktur.",
-        "Aşırı mutlu çalışanlar her zaman en çok yaralanan kişilerdir.",
-        "Olumsuz duygu durumunda ve yoğun endişe içinde olan çalışanların dikkati dağılır, panik veya donma tepkisi vererek kazalara çok daha açık hâle gelirler."
+        "İş tatmininin bireyleri pasifleştirerek kurallara koşulsuz boyun eğdirmesi",
+        "Örgütün adil ve destekleyici ortamına karşı bir karşılıklılık hissi duyarak bu desteği gönüllü katkılarla ödüllendirme arzusu",
+        "İş tatmini ile örgütsel vatandaşlık arasında negatif bir ilişkinin bulunması",
+        "Sadece yöneticilerinden ek prim ve maddi ödül koparma beklentisi",
+        "İşten kovulma korkusunun yarattığı panik hali"
       ],
-      "answer": 4,
-      "explanation": "Kötü hissetmek ve endişe taşımak dikkat dağınıklığına yol açar, panik veya donmaya sebep olarak iş kazası riskini belirgin şekilde artırır.",
-      "source": "4. Bölüm – İş Güvenliği ve Yaralanmalar"
+      "answer": 1,
+      "explanation": "Sosyal mübadele ve karşılıklılık normu gereği; işinden ve kurumundan tatmin olan çalışanlar adil muameleye karşılık vermek amacıyla gönüllü ekstra rol ve vatandaşlık davranışları sergilerler.",
+      "source": "OB_hafta03 – İş Tatmininin Sonuçları: ÖVD"
     },
     {
       "id": "v6-q15",
-      "chapter": 5,
-      "topic": "Büyük Beşli: Uyumluluk (Agreeableness)",
-      "difficulty": "kolay",
-      "question": "Büyük Beş Kişilik Modelinde; iyi huylu, işbirlikçi, sıcakkanlı, bağışlayıcı ve insanlara güvenen bireyleri tanımlayan kişilik boyutu hangisidir?",
+      "chapter": 3,
+      "topic": "Festinger Bilişsel Çelişki: Bireysel Kontrol Algısı",
+      "difficulty": "zor",
+      "question": "Leon Festinger'in Bilişsel Çelişki kuramına göre; bir çalışanın kendi değerlerine aykırı bir kurumsal kararı veya uygulamayı kendi hür iradesiyle değil de, üst yönetimin mutlak ve kaçınılmaz emri doğrultusunda yerine getirmek zorunda kalması durumunda ne gerçekleşir?",
       "options": [
-        "Sorumluluk",
-        "Dışadönüklük",
-        "Nevrotizm",
-        "Uyumluluk (Agreeableness / Geçimlilik)",
-        "Makyavelizm"
+        "Birey davranış üzerinde kişisel kontrolünün ve tercih hakkının olmadığını düşündüğü için çelişkiyi azaltma yönündeki içsel baskı ve gerilimi daha zayıf hisseder",
+        "Bireyin inançları zorla emredilen davranışla derhal yüzde yüz aynı çizgiye gelir",
+        "Birey kesinlikle anında istifa ederek kurumu terk eder",
+        "Bireysel kontrol algısının bilişsel çelişkinin şiddeti üzerinde hiçbir kuramsal etkisi yoktur",
+        "Davranış üzerinde kontrolü olmadığı için bilişsel çelişki en yıkıcı seviyeye ulaşır"
       ],
-      "answer": 3,
-      "explanation": "Uyumluluk (Agreeableness), bireyin işbirlikçi, nazik, sıcakkanlı ve güvenilir olma eğilimini ölçen boyuttur.",
-      "source": "5. Bölüm – Büyük Beş Kişilik Modeli (Uyumluluk)"
+      "answer": 0,
+      "explanation": "Festinger'e göre çelişkiyi oluşturan unsurlar üzerinde bireyin kontrol derecesi ne kadar azsa ('bunu yapmak zorundaydım, başka seçeneğim yoktu'), çelişkinin yarattığı psikolojik rahatsızlık ve tutum değiştirme baskısı o kadar düşük olur.",
+      "source": "OB_hafta03 – Bilişsel Çelişki: Kontrol Derecesi"
     },
     {
       "id": "v6-q16",
-      "chapter": 5,
-      "topic": "Holland: Kişilik-İş Uyumu Teorisi",
+      "chapter": 4,
+      "topic": "Temel Evrensel Duygular: Paul Ekman",
       "difficulty": "orta",
-      "question": "John Holland'ın Kişilik-İş Uyumu Teorisine göre iş tatmini ve iş gücü devrini belirleyen temel unsur nedir?",
+      "question": "Paul Ekman ve psikoloji literatürü tarafından dünyanın farklı kültürlerinde ve toplumlarında yüz ifadeleri üzerinden evrensel olarak tanındığı ve paylaşıldığı kanıtlanan altı temel duygu hangi seçenekte eksiksiz ve doğru verilmiştir?",
       "options": [
-        "Bireyin kişilik tipi ile çalıştığı iş ortamının karakteristikleri arasındaki uyum derecesi",
-        "Yalnızca verilen aylık maaş miktarı",
-        "Şirketin genel müdürünün MBTI tipi",
-        "İş yerinin şehir merkezine olan coğrafi uzaklığı",
-        "Personelin fiziksel boy ve ağırlığı"
+        "Öfke, korku, üzüntü, mutluluk, iğrenme, şaşkınlık",
+        "Sevgi, öfke, sabır, cesaret, alçakgönüllülük, teslimiyet",
+        "Şüphe, merak, pişmanlık, zafer, tatmin, kayıtsızlık",
+        "Gurur, kıskançlık, kibir, utanç, nefret, hırs",
+        "Umut, nefret, kıskançlık, hüzün, öfke, kibir"
       ],
       "answer": 0,
-      "explanation": "Holland'ın Kişilik-İş Uyumu teorisi, 6 kişilik tipi tanımlar ve tatmin ile personelin işten ayrılma oranını kişilik ile iş ortamı arasındaki uyumun belirlediğini savunur.",
-      "source": "5. Bölüm – Kişilik-İş Uyumu Teorisi (John Holland)"
+      "explanation": "Psikolojide evrensel olarak kabul gören altı temel duygu: Öfke, korku, üzüntü, mutluluk, iğrenme ve şaşkınlıktır.",
+      "source": "OB_hafta04 – Temel Duygular: Evrensel Altı Duygu"
     },
     {
       "id": "v6-q17",
-      "chapter": 5,
-      "topic": "Hofstede: Bireycilik vs. Toplulukçuluk",
+      "chapter": 4,
+      "topic": "Duygusal Zekâ Boyutları: Öz-Farkındalık",
       "difficulty": "orta",
-      "question": "Hofstede'nin kültür boyutlarında; insanların grupların üyeleri olmaktan çok bağımsız hareket etmeyi ve kendi kişisel haklarını korumayı tercih ettiği 'Bireyci' kültürler ile insanların sıkı bir grup koruması altında bulunduğu ve gruba mutlak sadakat beklenen 'Toplulukçu' kültürler kıyaslandığında Çin hangi gruptadır?",
+      "question": "Duygusal Zekânın yapı taşlarından biri olan; yöneticinin o anda tam olarak ne hissettiğini, hissettiği duygunun kaynağını ve bu hislerin kendi kararları ile etrafındaki insanlar üzerindeki olası etkilerini nesnel biçimde teşhis edebilme yeteneği hangisidir?",
       "options": [
-        "Bireycilik ve toplulukçuluğu tamamen reddeden kültür",
-        "Dünyanın en aşırı bireyci kültürü",
-        "Bireycilikte çok düşük, toplulukçulukta çok yüksek",
-        "Yalnızca bireysel yarışa izin veren sistem",
-        "Topluluk sadakatini tamamen cezalandıran kültür"
+        "Duygusal bulaşma",
+        "Öz-farkındalık",
+        "Sosyal empati",
+        "İkna becerisi",
+        "Duygu düzenleme"
       ],
-      "answer": 2,
-      "explanation": "Çin, Hofstede çerçevesinde bireycilikte düşük (yani toplulukçu), güç mesafesinde yüksek ve uzun vadeye dönüklükte yüksek bir kültür profilidir.",
-      "source": "5. Bölüm – Hofstede: Bireycilik ve Toplulukçuluk (Çin örneği)"
+      "answer": 1,
+      "explanation": "Öz-farkındalık (Self-awareness); bireyin kendi duygularının, bu duyguların nedenlerinin ve başkaları üzerindeki yansımalarının bilincinde olma yetisidir.",
+      "source": "OB_hafta04 – Duygusal Zekâ Boyutları"
     },
     {
       "id": "v6-q18",
-      "chapter": 5,
-      "topic": "Kuşaklara ait iş değerleri",
-      "difficulty": "orta",
-      "question": "Ders notlarındaki Patagonia Inc. örneğinde vurgulandığı üzere, esnekliğe, iş-yaşam dengesine ve insani ilişkilere büyük önem veren genç kuşak çalışanların iş yeri tercihleri hangi değer değişimini gösterir?",
+      "chapter": 4,
+      "topic": "Duygusal Emek ve Çalışan Tükenmişliği",
+      "difficulty": "zor",
+      "question": "Hizmet sektöründe çalışanların gerçekte hissettikleri öfke veya bıkkınlığı bastırarak saatlerce zoraki bir tebessüm sergilemeleri durumunda (yüzeysel rol yapma), çalışan sağlığı ve performansı üzerinde görülen en yıkıcı uzun vadeli etki nedir?",
       "options": [
-        "Gençlerin yalnızca Teori X tarzı baskıyla motive edilebileceğini",
-        "Yeni neslin hiçbir koşulda çalışmak istemediğini",
-        "İş-yaşam dengesinin şirket kârlılığını mutlaka sıfıra indirdiğini",
-        "Kuşaklar değiştikçe iş değerlerinin değiştiğini; esnek çalışma saatleri ve sosyal hakların günümüz yeteneklerini çekmede kritik olduğunu",
-        "Kuşaklar arasında hiçbir değer farkı olmadığını"
+        "Duygusal emeğin sadece yöneticilerde tükenmişliğe yol açması",
+        "Çalışanların empati yeteneklerinin olağanüstü biçimde gelişmesi",
+        "Çalışanların hiçbir çaba göstermeden kurumdan en yüksek tatmini alması",
+        "Yüzeysel rol yapmanın çalışanların bağışıklık sistemini ve enerjisini güçlendirmesi",
+        "Hissedilen ve sergilenen duygu arasındaki duygusal uyumsuzluğun kronik stres, iş tükenmişliği ve psikolojik yabancılaşma üretmesi"
       ],
-      "answer": 3,
-      "explanation": "Patagonia örneği, genç kuşakların esneklik ve iş-yaşam dengesi gibi farklı iş değerlerine sahip olduğunu ve kurumların bu değerlere göre esneklik sunması gerektiğini örnekler.",
-      "source": "5. Bölüm – Kuşaklara Ait Değerler (Patagonia örneği)"
+      "answer": 4,
+      "explanation": "Yüzeysel rol yapma (Surface acting) derin bir duygusal uyumsuzluk yaratır; bu uyumsuzluk personelde kronik stres, tükenmişlik ve işten ayrılma niyetini tetikler.",
+      "source": "OB_hafta04 – Duygusal Emek: Duygusal Uyumsuzluk"
     },
     {
       "id": "v6-q19",
-      "chapter": 1,
-      "topic": "Örgütsel Davranışta Bağımsız Değişkenler",
-      "difficulty": "kolay",
-      "question": "Örgütsel davranış modelinde, bağımlı değişkenlerde (örneğin performans, tatmin vb.) değişiklik yarattığı tahmin edilen belirleyicilere ne ad verilir?",
+      "chapter": 4,
+      "topic": "Duyguların Kaynakları: Uyku Kalitesi ve İş Davranışı",
+      "difficulty": "orta",
+      "question": "Örgütsel araştırmalarda yetersiz veya kalitesiz uykunun çalışanların duygu durumları ve işyeri davranışları üzerindeki ampirik etkileri incelendiğinde hangi sonuca ulaşılmıştır?",
       "options": [
-        "Sadece Biyografik Kayıtlar",
-        "Rassal Hatalar",
-        "Mutlak Sabitler",
-        "Bağımsız Değişkenler",
-        "Duygusal Çelişkiler"
+        "Uyku süresi ile çalışanların duygu durumu arasında hiçbir ampirik bağ bulunmaması",
+        "Sadece hafta sonu uyunan uykunun çalışan performansını belirlemesi",
+        "Uykusuzluğun negatif duygu durumunu artırarak bireylerin öz-denetim kapasitesini zayıflatması ve etik dışı ya da sapkın iş davranışlarını tetiklemesi",
+        "Uykusuzluğun çalışanların müşteri ilişkilerindeki empati yeteneğini artırması",
+        "Az uyuyan çalışanların daha yaratıcı ve stratejik kararlar alması"
       ],
-      "answer": 3,
-      "explanation": "Bağımsız değişkenler; bağımlı değişken üzerinde değişiklik yaptığı varsayılan belirleyici faktörlerdir (birey, grup, örgüt düzeyinde).",
-      "source": "OB_hafta01 – Bağımsız Değişkenler"
+      "answer": 2,
+      "explanation": "Yetersiz uyku negatif duygulanımı körükler, çalışanların duygu düzenleme ve öz-denetim mekanizmalarını zayıflatır; bu da işyeri sapkın davranışlarını ve kural ihlallerini artırır.",
+      "source": "OB_hafta04 – Duyguların Kaynakları: Uyku"
     },
     {
       "id": "v6-q20",
-      "chapter": 1,
-      "topic": "Yönetim Fonksiyonu: Liderlik",
-      "difficulty": "kolay",
-      "question": "Çalışanları örgütsel hedefler doğrultusunda heyecanlandırma, motive etme, en etkili iletişim yollarını belirleme ve anlaşmazlıkları çözme faaliyetlerini kapsayan yönetim işlevi hangisidir?",
+      "chapter": 4,
+      "topic": "Duygu Düzenleme: Bastırma vs. Yeniden Çerçeveleme",
+      "difficulty": "zor",
+      "question": "Duygu düzenleme teknikleri karşılaştırıldığında; öfke veya kaygı anında duygunun dışavurumunu tamamen içine atıp saklamanın (duyguyu bastırma) ve olaya farklı bir perspektiften bakmanın (bilişsel yeniden çerçeveleme) uzun vadeli sonuçları hakkında ne söylenebilir?",
       "options": [
-        "Liderlik",
-        "Mali Denetim",
-        "Envanter Sayımı",
-        "Yasal Tescil",
-        "İşletme Bütçesi"
+        "Duygu düzenlemenin iş performansıyla hiçbir ilişkisinin bulunmaması",
+        "İki tekniğin de insan beyni üzerinde tamamen aynı fizyolojik etkileri yaratması",
+        "Bilişsel yeniden çerçevelemenin çalışan tükenmişliğini katlayarak artıran tehlikeli bir yöntem olması",
+        "Bilişsel yeniden çerçevelemenin duygunun fizyolojik ve psikolojik yükünü hafifletmesine karşın, duyguyu bastırmanın içsel stresi artırması ve ilişkileri yıpratması",
+        "Duyguyu bastırmanın en sağlıklı ve verimli duygu yönetim stratejisi olması"
       ],
-      "answer": 0,
-      "explanation": "Liderlik; motive etme, yönlendirme, etkili iletişim kurma ve çatışmaları çözme yönetim fonksiyonudur.",
-      "source": "OB_hafta01 – Yönetim Fonksiyonları (Liderlik)"
+      "answer": 3,
+      "explanation": "Bilişsel yeniden çerçeveleme duygunun doğasını değiştirerek gerilimi kalıcı çözer; bastırma ise fizyolojik gerginliği artırır ve uzun vadede tükenmişliğe yol açar.",
+      "source": "OB_hafta04 – Duygu Düzenleme Teknikleri"
     },
     {
       "id": "v6-q21",
-      "chapter": 2,
-      "topic": "Cinsel Tercih ve Cinsel Kimlik",
-      "difficulty": "orta",
-      "question": "İş yeri çeşitliliğinde son yıllarda giderek daha fazla yasal ve kurumsal düzenlemeye konu olan, personelin cinsel yönelim ve kimliğine saygı duyulması hangi başlık altında ele alınır?",
+      "chapter": 5,
+      "topic": "Karanlık Üçlü: Psikopati Boyutu",
+      "difficulty": "zor",
+      "question": "Karanlık Üçlü kişilik modelinde; başkalarının duygularına ve haklarına karşı tam bir empati yoksunluğu sergileyen, kendi çıkarları için başkalarına zarar verdiğinde hiçbir vicdani pişmanlık hissetmeyen, dürtüsel ve kural tanımaz eğilimlere sahip kişilik boyutu hangisidir?",
       "options": [
-        "A Tipi Kişilik",
-        "Genel Düşünsel Yetenek",
-        "Fiziksel Yetenek Testi",
-        "Diğer Biyografik Özellikler ve Çeşitlilik",
-        "Rasyonel Karar Modeli"
+        "Düşük öz-denetim",
+        "Nevrotizm",
+        "Psikopati",
+        "Makyavelizm",
+        "Narsisizm"
       ],
-      "answer": 3,
-      "explanation": "Din, kıdem, cinsel tercih ve cinsel kimlik ders notlarında 'Diğer Biyografik Özellikler' başlığı altında incelenir.",
-      "source": "2. Bölüm – Diğer Biyografik Özellikler"
+      "answer": 2,
+      "explanation": "Psikopati; empati yoksunluğu, başkalarının esenliğine karşı kayıtsızlık, vicdan azabı çekmeme ve antisosyal dürtüsellikle tanımlanır.",
+      "source": "5. Bölüm – Karanlık Üçlü: Psikopati"
     },
     {
       "id": "v6-q22",
-      "chapter": 2,
-      "topic": "Kadın ve Erkek Bilişsel Yetenekleri",
+      "chapter": 5,
+      "topic": "Kişilik Özellikleri: Proaktif Kişilik",
       "difficulty": "orta",
-      "question": "Psikolojik ve örgütsel araştırmalar, analitik düşünme, öğrenme ve problem çözme yetileri açısından kadın ve erkek çalışanlar arasında nasıl bir fark tespit etmiştir?",
+      "question": "İş ortamında mevcut durumla yetinmeyen, çevresindeki fırsatları diğer çalışanlardan önce fark edip inisiyatif alan, doğrudan harekete geçen ve kurumunda anlamlı ve yapıcı bir değişim yaratana kadar sebatla mücadele eden bireyler hangi kişilik özelliğiyle tanımlanır?",
       "options": [
-        "Erkeklerin zekâsının her zaman 50 puan daha yüksek olduğunu",
-        "Kayda değer ve önemsenecek hiçbir ciddi fark bulunmadığını",
-        "Kadınların problem çözemediğini",
-        "Öğrenme hızının tamamen cinsiyet kromozomuna bağlı olduğunu",
-        "Analitik düşünmenin sadece erkeklere özgü olduğunu"
+        "Yüksek nevrotik kişilik",
+        "Pasif uyumlu kişilik",
+        "Makyavelist kişilik",
+        "Proaktif kişilik",
+        "Düşük öz-denetimli kişilik"
       ],
-      "answer": 1,
-      "explanation": "Araştırmalar kadın ve erkek arasında problem çözme, analitik düşünme, öğrenme yetileri açısından ciddi ve anlamlı bir fark olmadığını ortaya koymaktadır.",
-      "source": "2. Bölüm – Biyografik Özellikler: Cinsiyet"
+      "answer": 3,
+      "explanation": "Proaktif kişilik; fırsatları tespit eden, inisiyatif kullanan, aksiyon alan ve anlamlı değişim gerçekleşene kadar sebat eden insanları tanımlar.",
+      "source": "5. Bölüm – Diğer Kişilik Özellikleri: Proaktif Kişilik"
     },
     {
       "id": "v6-q23",
-      "chapter": 3,
-      "topic": "Tutumun Davranışsal Unsuru",
-      "difficulty": "kolay",
-      "question": "'Bu şirketteki haksız terfilere daha fazla dayanamayacağım, yarın sabah istifa dilekçemi vereceğim' ifadesindeki 'istifa dilekçemi vereceğim' kısmı tutumun hangi unsurudur?",
+      "chapter": 5,
+      "topic": "Özellik Etkinleştirme Teorisi",
+      "difficulty": "zor",
+      "question": "Belirli iş ortamı dinamiklerinin, iş taleplerinin ve durumsal ipuçlarının belirli kişilik özelliklerini harekete geçirdiğini; örneğin yüksek komisyonlu ve rekabetçi bir satış ortamının başarı odaklılığı ve iddiacılığı tetiklerken, kriz masası ortamının duygusal kararlılığı öne çıkardığını savunan yaklaşım hangisidir?",
       "options": [
-        "Duygusal Unsur",
-        "Bilişsel Unsur",
-        "Davranışsal Unsur",
-        "Fiziksel Unsur",
-        "Zihinsel Yetenek"
+        "Özellik etkinleştirme teorisi",
+        "Beklenti teorisi",
+        "Sosyal öğrenme teorisi",
+        "Duygusal bulaşma teorisi",
+        "Bilişsel çelişki teorisi"
       ],
-      "answer": 2,
-      "explanation": "Davranışsal unsur, birine ya da bir şeye yönelik belirli bir şekilde davranma eylemi veya niyetidir.",
-      "source": "3. Bölüm – Tutumların Ana Unsurları"
+      "answer": 0,
+      "explanation": "Özellik Etkinleştirme Teorisi (Trait Activation Theory); bazı iş durumlarının ve ipuçlarının belirli kişilik özelliklerinin sergilenmesini tetiklediğini savunur.",
+      "source": "5. Bölüm – Özellik Etkinleştirme Teorisi"
     },
     {
       "id": "v6-q24",
-      "chapter": 4,
-      "topic": "Duyguların Bulaşıcılığı ve Müşteri Memnuniyeti",
+      "chapter": 5,
+      "topic": "Hofstede Ulusal Kültür Boyutları: Erillik vs. Dişillik",
       "difficulty": "orta",
-      "question": "The Ritz-Carlton otellerinin mottosu olan 'Bizler hanımefendi ve beyefendilere hizmet eden hanımefendi ve beyefendileriz' anlayışının çalışan davranışına yansıması ÖD'de neyi hedefler?",
+      "question": "Geert Hofstede'in ulusal kültür boyutları sınıflandırmasında; hırs, rekabet, güç kazanımı, başarı ve maddi göstergelerin baskın olduğu toplumlar ile; insan ilişkileri, yaşam kalitesi, yardımlaşma ve zayıflara şefkat göstermenin öne çıktığı toplumlar arasındaki ayrım hangi boyuttur?",
       "options": [
-        "Yalnızca çalışanların birbirini denetlemesini",
-        "Müşterileri otelden uzaklaştırmayı",
-        "Çalışanların sergilediği samimi nezaket ve olumlu duyguların müşteriye bulaşarak kurumsal mükemmellik yaratmasını",
-        "Hizmet sektöründe maliyetleri sıfıra indirmeyi",
-        "Resmi bürokrasiyi artırmayı"
+        "Uzun ve kısa vadeye dönüklük",
+        "Bireycilik ve toplulukçuluk",
+        "Güç mesafesi",
+        "Belirsizlikten kaçınma",
+        "Erillik ve dişillik"
       ],
-      "answer": 2,
-      "explanation": "Ritz-Carlton örneği, yüksek hizmet kalitesi ve olumlu çalışan duygularının müşteriye bulaşarak (emotional contagion) altın standart yaratmasını gösterir.",
-      "source": "OB_hafta01 & 4. Bölüm – Müşteri Hizmetlerinin İyileştirilmesi"
+      "answer": 4,
+      "explanation": "Erillik (Masculinity); rekabet, başarı ve maddi kazanç odaklılığı; Dişillik (Femininity) ise ilişkiler, yaşam kalitesi ve karşılıklı özen odaklılığı ifade eder.",
+      "source": "5. Bölüm – Hofstede Kültür Boyutları: Erillik vs Dişillik"
     },
     {
       "id": "v6-q25",
       "chapter": 5,
-      "topic": "Büyük Beşli: Sorumluluk (Conscientiousness)",
+      "topic": "Büyük Beşli Kişilik Modeli: Uyumluluk Boyutu",
       "difficulty": "orta",
-      "question": "Büyük Beş Kişilik Modelinde yer alan ve çoğu araştırma tarafından genel iş performansını en istikrarlı ve güçlü şekilde desteklediği kabul edilen kişilik boyutu hangisidir?",
+      "question": "Büyük Beşli Modelinde 'Uyumluluk' boyutu son derece yüksek olan çalışanların kurumsal hayattaki tipik davranış örüntüleri ve güçlü/zayıf yönleri hakkında aşağıdakilerden hangisi doğrudur?",
       "options": [
-        "Makyavelizm",
-        "Yüksek Nevrotizm",
-        "Sorumluluk (Conscientiousness / Özdisiplin ve Sebat)",
-        "Narsisizm",
-        "Düşük Uyumluluk"
+        "Bilişsel zekalarının diğer kişilik boyutlarındaki personelden sürekli daha zayıf olması",
+        "Takım çalışmasında, müşteri ilişkilerinde ve çatışma çözümünde çok başarılı olmalarına karşın; sert ücret pazarlıklarında ve liderlik rekabetinde daha az iddialı kalmaları",
+        "Aşırı derecede manipülatif ve saldırgan yönetim taktikleri benimsemeleri",
+        "Kurallara hiçbir zaman uymayıp sürekli isyan çıkarmaları",
+        "Tüm meslek kollarında tek başlarına en yüksek nesnel görev performansını sergilemeleri"
       ],
-      "answer": 2,
-      "explanation": "Sorumluluk boyutu (güvenilir, sebatkâr, düzenli, sorumlu) neredeyse tüm meslek gruplarında iş performansıyla en yüksek pozitif korelasyona sahip boyuttur.",
-      "source": "5. Bölüm – Büyük Beş Kişilik Modeli (Sorumluluk)"
+      "answer": 1,
+      "explanation": "Uyumluluğu yüksek bireyler nazik, işbirlikçi ve güvenilirdir; müşteri ilişkileri ve ekiplerde sevilirler ancak ücret müzakerelerinde ve liderlik yarışında daha az iddialı olabilirler.",
+      "source": "5. Bölüm – Büyük Beşli: Uyumluluk"
     }
   ]
 }
