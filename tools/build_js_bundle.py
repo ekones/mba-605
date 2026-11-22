@@ -37,6 +37,17 @@ def build():
     OUT_FILE.write_text(content, encoding="utf-8")
     print(f"Başarılı: {len(versions_data)} sürüm {OUT_FILE.relative_to(ROOT)} içine gömüldü.")
 
+    # Cache-busting: index.html içindeki script ve css versiyon parametrelerini güncelle
+    index_html = ROOT / "docs" / "index.html"
+    if index_html.exists():
+        import re, time
+        ts = int(time.time())
+        html = index_html.read_text(encoding="utf-8")
+        html = re.sub(r'(\.css\?v=)[0-9]+', rf'\g<1>{ts}', html)
+        html = re.sub(r'(\.js\?v=)[0-9]+', rf'\g<1>{ts}', html)
+        index_html.write_text(html, encoding="utf-8")
+        print(f"Cache-busting: index.html v={ts} olarak güncellendi.")
+
 
 if __name__ == "__main__":
     build()
