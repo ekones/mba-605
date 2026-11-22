@@ -1,0 +1,435 @@
+{
+  "id": "v4",
+  "version": 4,
+  "title": "Vize Deneme Seti 4",
+  "course": "Örgütsel Davranış",
+  "createdAt": "2026-11-22",
+  "description": "Bölüm 1–7 ders notlarından üretilmiş 25 çoktan seçmeli soru (her şık harfinde 5 doğru cevap).",
+  "questions": [
+    {
+      "id": "v4-q01",
+      "chapter": 1,
+      "topic": "Pozitif Örgütsel Davranış (POB)",
+      "difficulty": "orta",
+      "question": "Çalışanların sürekli eksiklerine ve zayıf yanlarına odaklanmak yerine; kurumların insan etkinliğini nasıl inşa ettiğini, çalışanların psikolojik canlılık ve toparlanma gücünü geliştirmeyi ve güçlü yönleri keşfetmeyi inceleyen güncel yaklaşım hangisidir?",
+      "options": [
+        "Klasik Yönetim Yaklaşımı",
+        "Sınırlı Rasyonellik Bilimi",
+        "Kanıta Dayalı Karar Modeli",
+        "Duygusal Uyumsuzluk Modeli",
+        "Pozitif Örgütsel Davranış / Pozitif Örgütsel Bilim"
+      ],
+      "answer": 4,
+      "explanation": "Pozitif Örgütsel Bilim (Pozitif ÖD / POS), çalışanların zayıf yönlerine değil güçlü yönlerine ve potansiyellerini açığa çıkarmaya odaklanan yaklaşımdır.",
+      "source": "OB_hafta01 – Pozitif (Olumlu) Düşünme / Pozitif ÖD"
+    },
+    {
+      "id": "v4-q02",
+      "chapter": 1,
+      "topic": "ÖD'de Durumsallık Yaklaşımı (Contingency)",
+      "difficulty": "orta",
+      "question": "Örgütsel Davranışta mutlak doğruların ve basit genellemelerin neden imkânsız olduğunu en iyi açıklayan temel ilke hangisidir?",
+      "options": [
+        "İnsanların karmaşık ve durumsal değişkenlere bağlı olması",
+        "Örgütlerde tüm çalışanların her zaman aynı şekilde tepki vermesi",
+        "Ekonomik krizlerin yöneticilerin karar hakkını tamamen kaldırması",
+        "Yalnızca matematiksel formüllerin geçerli olması",
+        "ÖD'nin sadece laboratuvar ortamında uygulanabilir olması"
+      ],
+      "answer": 0,
+      "explanation": "ÖD'de mutlak genellemeler zordur çünkü insan karmaşık bir varlıktır ve ÖD kavramları mutlaka durumsal (contingency) değişkenleri dikkate almak zorundadır.",
+      "source": "OB_hafta01 – ÖD'de Bazı Mutlaklar / Durumsal Değişkenler"
+    },
+    {
+      "id": "v4-q03",
+      "chapter": 1,
+      "topic": "Örgüt düzeyinde Çıktı değişkenleri",
+      "difficulty": "orta",
+      "question": "Robbins ve Judge ÖD modelinde, sistem düzeyinde incelenen nihai ÇIKTI (bağımlı değişken) aşağıdakilerden hangisidir?",
+      "options": [
+        "Grup İletişimi",
+        "Görev Performansı",
+        "Bireysel Tutumlar",
+        "Kârlılık ve Hayatta Kalma (Survival)",
+        "Duygusal Zekâ"
+      ],
+      "answer": 3,
+      "explanation": "ÖD modelinde birey düzeyinde tutum ve performans, grup düzeyinde uyum ve işlevsellik; örgüt düzeyinde ise kârlılık ve hayatta kalma (survival) nihai çıktılardır.",
+      "source": "OB_hafta01 – Outcomes at Three Levels of Analysis"
+    },
+    {
+      "id": "v4-q04",
+      "chapter": 2,
+      "topic": "Kültür ve Düşünsel Yetenekler",
+      "difficulty": "orta",
+      "question": "Farklı kültürler arasında zihinsel yeteneklerin ölçümü üzerine yapılan araştırmalara göre aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "Kültürel farklar dilsel yetenekleri etkilemez, sadece sayısal yetenekleri etkiler.",
+        "Kültürler arasında zihinsel yetenek testleri hiçbir şekilde uygulanamaz.",
+        "Ekonomik ve eğitsel faktörler kontrol edildiğinde kültürler arası IQ farkları daha da büyür.",
+        "Düşünsel yetenek sadece batı toplumlarında ölçülebilen bir olgudur.",
+        "Düşünsel yeteneklerin yapısı ve temel boyutları kültürler arasında evrensel ve ortaktır."
+      ],
+      "answer": 4,
+      "explanation": "Araştırmalar düşünsel yeteneklerin yapılanmasının ve temel ölçüm boyutlarının kültürler arasında ortak olduğunu; eğitim ve ekonomi kontrol edildiğinde IQ farklarının küçüldüğünü göstermektedir.",
+      "source": "2. Bölüm – Küresel Etkiler: Düşünsel Yetenekler"
+    },
+    {
+      "id": "v4-q05",
+      "chapter": 2,
+      "topic": "Sakatlıkların rolü ve ayrımcılık",
+      "difficulty": "orta",
+      "question": "Bir adayın engellilik veya sakatlık durumuna bakarak onun işi kesinlikle yapamayacağına dair peşin hükümde bulunmak ve makul düzenlemeleri araştırmadan adayı reddetmek ÖD'de nasıl tanımlanır?",
+      "options": [
+        "Olumlu Çeşitlilik Yönetimi",
+        "Adil Olmayan Ayrımcılık ve Örtülü Varsayım",
+        "Genel Zihinsel Değerlendirme",
+        "Bilişsel Dengeleme",
+        "İçsel Ödüllendirme"
+      ],
+      "answer": 1,
+      "explanation": "Sakatlık durumuna dayanarak insanlar hakkında örtülü varsayımlarda bulunmak ayrımcılıktır; zira iş yerinde yapılacak makul ayarlamalarla engelli bireyler yüksek performans gösterebilir.",
+      "source": "2. Bölüm – Sakatlıkların Rolü"
+    },
+    {
+      "id": "v4-q06",
+      "chapter": 2,
+      "topic": "Kıdem (Tenure) ve iş performansı",
+      "difficulty": "orta",
+      "question": "Biyografik özelliklerden 'Kıdem' (bir çalışanın aynı kurumda geçirdiği süre) ile ilgili yapılan araştırmaların genel sonucu aşağıdakilerden hangisidir?",
+      "options": [
+        "Kıdem arttıkça iş tatmini azalır ve devamsızlık artar.",
+        "Kıdemli personelin eğitim maliyetleri her zaman gençlerden üç kat fazladır.",
+        "Kıdemin personel devir hızı üzerinde hiçbir etkisi yoktur.",
+        "Kıdem ile iş performansı ve üretkenlik arasında genellikle olumlu bir ilişki vardır; kıdemli çalışanların işten ayrılma oranı daha düşüktür.",
+        "Kıdem sadece fiziksel güç gerektiren işlerde önem taşır."
+      ],
+      "answer": 3,
+      "explanation": "Kıdem ile iş verimliliği arasında olumlu bir ilişki bulunur ve kıdem arttıkça işten ayrılma (devir hızı) ve devamsızlık oranları belirgin biçimde düşer.",
+      "source": "2. Bölüm – Diğer Biyografik Özellikler (Kıdem)"
+    },
+    {
+      "id": "v4-q07",
+      "chapter": 3,
+      "topic": "Tutum ile Davranış İlişkisini Biçimlendiren Değişkenler",
+      "difficulty": "orta",
+      "question": "Tutumların davranışı tahmin etme gücünü etkileyen 'biçimlendirici değişkenler' (moderating variables) arasında aşağıdakilerden hangisi YER ALMAZ?",
+      "options": [
+        "Tutumun kişi için taşıdığı önem",
+        "Tutumun davranışla ne kadar doğrudan ve spesifik olduğu",
+        "Kişinin o konuyla ilgili doğrudan bir deneyiminin olup olmadığı",
+        "Kişinin kan grubu ve doğum yeri",
+        "Kişi üzerindeki sosyal baskıların varlığı"
+      ],
+      "answer": 3,
+      "explanation": "Tutum-davranış ilişkisinde moderatör değişkenler: Tutumun önemi, spesifikliği, ulaşılabilirliği, sosyal baskı ve doğrudan deneyimdir.",
+      "source": "3. Bölüm – Biçimlendirici Değişkenler (Moderating Variables)"
+    },
+    {
+      "id": "v4-q08",
+      "chapter": 3,
+      "topic": "İş tatmini ve İş gücü devri (Turnover)",
+      "difficulty": "orta",
+      "question": "İş tatminsizliği ile iş gücü devri (istifa etme) arasındaki ilişki incelendiğinde, ekonomik kriz döneminde işsizliğin yüksek olduğu bir ortamda tatminsiz çalışanların hemen işten ayrılamamasının temel sebebi nedir?",
+      "options": [
+        "Duygusal bağlılıklarının kendiliğinden artması",
+        "Yöneticilerin her çalışanla birebir sözleşme imzalaması",
+        "Dışarıdaki alternatif istihdam olanaklarının azlığı ve 'itme' yerine 'çekim' gücünün bulunmaması",
+        "İş tatmininin aniden yükselmesi",
+        "Bilişsel çelişkinin tamamen ortadan kalkması"
+      ],
+      "answer": 2,
+      "explanation": "İş olanakları bol olduğunda 'çekim' gücü nedeniyle tatminsizlik doğrudan ayrılmaya yol açar; ancak kriz dönemlerinde alternatif iş fırsatı azaldığından tatminsizlik iş gücü devrine anında yansımaz.",
+      "source": "3. Bölüm – İş Tatmini ve İş Gücü Devri"
+    },
+    {
+      "id": "v4-q09",
+      "chapter": 3,
+      "topic": "İş Tatmini ve Örgütsel Vatandaşlık İlişkisi",
+      "difficulty": "orta",
+      "question": "İş tatmini ile Örgütsel Vatandaşlık Davranışı (ÖVD) arasındaki ilişkiyle ilgili ampirik araştırmalar neyi doğrulamaktadır?",
+      "options": [
+        "İş tatmini yüksek olanlar asla mesai dışı hiçbir faaliyete katılmazlar.",
+        "İşinden tatmin olan çalışanlar kurumlarına ve arkadaşlarına yönelik daha fazla gönüllü yardım davranışı sergilerler.",
+        "Tatminsizlik arttıkça örgütsel vatandaşlık davranışı zirve yapar.",
+        "ÖVD sadece ceza tehdidi altındaki tatminsiz işçilerde görülür.",
+        "İş tatmini ile vatandaşlık davranışı arasında ters yönlü bir ilişki vardır."
+      ],
+      "answer": 1,
+      "explanation": "İşlerinden memnun olan ve çalışma arkadaşlarının desteğini hisseden bireyler, çok daha yüksek düzeyde örgütsel vatandaşlık ve yardımseverlik davranışı gösterirler.",
+      "source": "3. Bölüm – İş Tatmini ve Örgütsel Vatandaşlık Davranışı"
+    },
+    {
+      "id": "v4-q10",
+      "chapter": 3,
+      "topic": "Çalışanların İşe Tutulması (Work Engagement)",
+      "difficulty": "kolay",
+      "question": "Bir çalışanın yaptığı işe kendini bütünüyle adaması, işinden yüksek memnuniyet duyması ve işini icra ederken yoğun bir enerji ve coşku hissetmesi haline ne ad verilir?",
+      "options": [
+        "Yüzeysel Rol",
+        "Devam Bağlılığı",
+        "Çalışanların İşe Tutulması (Work Engagement)",
+        "A Tipi Davranış",
+        "Olağandışı Geri Çekilme"
+      ],
+      "answer": 2,
+      "explanation": "İşe tutulma (Work Engagement), bireyin yaptığı işe adanması, ondan doyum alması ve işine karşı duyduğu tutku ve coşkudur.",
+      "source": "3. Bölüm – Çalışanların İşe Tutulması"
+    },
+    {
+      "id": "v4-q11",
+      "chapter": 4,
+      "topic": "Duyguların kaynakları: Uyku ve Stres",
+      "difficulty": "orta",
+      "question": "Güncel araştırmalara göre kronik uykusuzluk ve iş yerindeki düşük ama biriken stres faktörleri çalışanlar üzerinde hangi doğrudan etkiyi yaratır?",
+      "options": [
+        "Yaratıcılığı ve empatiyi artırır.",
+        "Duygusal bulaşmayı engeller.",
+        "Duygusal zekâyı en üst seviyeye çıkarır.",
+        "Karar alma sürecinde çıpalama yanılgısını tamamen yok eder.",
+        "Duygusal kontrolü zorlaştırır, alınganlığı artırır ve iş doyumunu azaltır."
+      ],
+      "answer": 4,
+      "explanation": "Yetersiz uyku ve biriken stres çalışanların duygularını kontrol etmesini zorlaştırır, alınganlık ve yorgunluğu artırır, genel iş memnuniyetini düşürür.",
+      "source": "4. Bölüm – Duyguların Kaynakları (Uyku ve Stres)"
+    },
+    {
+      "id": "v4-q12",
+      "chapter": 4,
+      "topic": "Duygusal Uyumsuzluk (Emotional dissonance)",
+      "difficulty": "orta",
+      "question": "Bir personelin gerçekte hissettiği duygular ile çalıştığı kurumun iş tanımı gereği ondan dışa vurmasını beklediği duygular arasındaki çelişki ve uyuşmazlığa ne ad verilir?",
+      "options": [
+        "Bilişsel Uyum",
+        "Duygusal Uyumsuzluk (Emotional dissonance)",
+        "Olumluluk Dengesi",
+        "Genel Zihinsel Çelişki",
+        "Duygusal Sezgi"
+      ],
+      "answer": 1,
+      "explanation": "Duygusal uyumsuzluk, insanın içten içe hissettiği gerçek duygular ile sergilemek zorunda olduğu duygular arasındaki tutarsızlıktır.",
+      "source": "4. Bölüm – Duygusal Çalışma ve Duygusal Uyumsuzluk"
+    },
+    {
+      "id": "v4-q13",
+      "chapter": 4,
+      "topic": "Duyguların ÖD uygulamaları: Arabuluculuk ve Müzakere",
+      "difficulty": "zor",
+      "question": "İş müzakerelerinde ve arabuluculuk süreçlerinde 'öfke' duygusunun kullanımıyla ilgili araştırmalar aşağıdakilerden hangisini göstermiştir?",
+      "options": [
+        "Rakiplerinden daha az bilgiye veya daha zayıf güce sahip olan bir müzakereci kontrolsüz öfke gösterdiğinde genellikle başarısızlığa uğrar.",
+        "Müzakerecinin sürekli öfkeli olması her şartta karşı tarafı mutlak teslimiyete zorlar.",
+        "Öfke, iş müzakerelerinde her zaman en rasyonel ve risksiz stratejidir.",
+        "Karşı tarafın öfkelendiğini gören bir müzakereci daima tüm talepleri koşulsuz kabul eder.",
+        "Müzakerelerde duyguların hiçbir etkisi olmadığı kanıtlanmıştır."
+      ],
+      "answer": 0,
+      "explanation": "Arabulma sürecinde öfke seçici kullanılmalıdır. Karşı taraftan daha az bilgi veya yetkiye sahip öfkeli arabulucuların sonucu genellikle hüsran olmaktadır.",
+      "source": "4. Bölüm – Arabuluculuk (Müzakere)"
+    },
+    {
+      "id": "v4-q14",
+      "chapter": 4,
+      "topic": "İş yerinde olumsuz duygular ve sapkın davranışlar",
+      "difficulty": "orta",
+      "question": "İş arkadaşının daha iyi bir projeye seçilmesini kıskanan ve ona karşı yoğun haset ve öfke besleyen bir çalışanın, arkadaşının arkasından asılsız dedikodu yayması ve işini sabote etmesi hangi kavrama örnektir?",
+      "options": [
+        "Kanıta Dayalı Tepki",
+        "Örgütsel Vatandaşlık Davranışı",
+        "Proaktif Davranış",
+        "Derin Rol Uygulaması",
+        "İş Yerinde Sapkın Davranış (Deviant workplace behavior)"
+      ],
+      "answer": 4,
+      "explanation": "Öfke, haset ve düşmanlık gibi olumsuz duygular kurumdaki üyelerin iyiliğini tehdit eden iş yerinde sapkın/amaç karşıtı davranışları tetikler.",
+      "source": "4. Bölüm – İş Yerinde Sapkın Davranışlar"
+    },
+    {
+      "id": "v4-q15",
+      "chapter": 5,
+      "topic": "Büyük Beşli: Deneyime Açıklık",
+      "difficulty": "kolay",
+      "question": "Büyük Beş Kişilik Modelinde; yüksek hayal gücü, yaratıcılık, sanata ve yeni fikirlere duyarlılık ve meraklılık boyutunu ölçen faktör hangisidir?",
+      "options": [
+        "Dışadönüklük",
+        "Uyumluluk",
+        "Sorumluluk",
+        "Duygusal Kararlılık",
+        "Deneyime Açıklık"
+      ],
+      "answer": 4,
+      "explanation": "Deneyime açıklık boyutu; bireyin hayal gücü, özgünlük, yeniliklere açıklık ve entelektüel merakını değerlendirir.",
+      "source": "5. Bölüm – Büyük Beş Kişilik Modeli"
+    },
+    {
+      "id": "v4-q16",
+      "chapter": 5,
+      "topic": "Öz-Denetim (Self-Monitoring)",
+      "difficulty": "orta",
+      "question": "Bir yöneticinin, farklı sosyal ve durumsal ortamlara girdiğinde kendi davranışlarını çevrenin beklentilerine ve ipuçlarına göre ustalıkla ayarlayabilme ve farklı durumlarda farklı davranabilme kabiliyetine ne ad verilir?",
+      "options": [
+        "A Tipi Kişilik",
+        "Öz-Denetim (Self-Monitoring)",
+        "Narsisizm",
+        "Makyavelizm",
+        "Nevrotizm"
+      ],
+      "answer": 1,
+      "explanation": "Öz-denetim (Self-monitoring), bir bireyin davranışlarını dışsal ve durumsal faktörlerin gerektirdiği normlara göre ayarlayabilme kapasitesidir.",
+      "source": "5. Bölüm – ÖD ile İlgili Diğer Kişilik Özellikleri: Öz-Denetim"
+    },
+    {
+      "id": "v4-q17",
+      "chapter": 5,
+      "topic": "A Tipi Kişilik özellikleri",
+      "difficulty": "orta",
+      "question": "Aşağıdakilerden hangisi tipik bir 'A Tipi Kişilik' özelliğidir?",
+      "options": [
+        "Kronik bir şekilde sürekli daha az zamanda daha çok şey başarmak için aşırı hırs ve yarış içinde olmak",
+        "Boş zamanlarında hiçbir suçluluk duymadan dinlenebilmek",
+        "Zaman kısıtlarına karşı tamamen kayıtsız ve rahat olmak",
+        "İşleri asla aceleye getirmeden sakin bir şekilde yürütmek",
+        "Rekabetten ve başarı baskısından bilinçli şekilde kaçınmak"
+      ],
+      "answer": 0,
+      "explanation": "A tipi kişilik; saldırgan bir tutumla, sürekli daha az zamanda daha çok başarmak için çabalayan ve zamana karşı yarışan profildir.",
+      "source": "5. Bölüm – A Tipi Kişilik"
+    },
+    {
+      "id": "v4-q18",
+      "chapter": 5,
+      "topic": "Hofstede: Uzun Vadeye Dönüklük",
+      "difficulty": "orta",
+      "question": "Hofstede'nin kültürel boyutları incelendiğinde; tasarruf etmeye, geleceğe yatırım yapmaya, tutumluluğa ve uzun vadeli sabırlı çabaya değer veren kültürler hangi boyutta yüksek puan alır?",
+      "options": [
+        "Kısa Vadeye Dönüklük",
+        "Yüksek Güç Mesafesi",
+        "Uzun Vadeye Dönüklük",
+        "Aşırı Bireycilik",
+        "Düşük Belirsizlikten Kaçınma"
+      ],
+      "answer": 2,
+      "explanation": "Uzun vadeye dönüklük boyutu; geleceğe hazırlanmayı, tasarrufu, sabrı ve sebatı önemseyen ulusal kültür tutumudur (ör. Çin).",
+      "source": "5. Bölüm – Hofstede: Uzun Vadeye Dönüklük"
+    },
+    {
+      "id": "v4-q19",
+      "chapter": 6,
+      "topic": "Heuristikler (Zihinsel Kısayollar) Ne Zaman Kullanılır?",
+      "difficulty": "orta",
+      "question": "Ders notlarına göre karar vericilerin analitik rasyonel düşünme yerine zihinsel kestirme yollara (heuristiklere) başvurma olasılığı aşağıdaki durumlardan hangisinde ARTAR?",
+      "options": [
+        "Tüm alternatiflerin bilgisayar simülasyonuyla modellendiği durumlarda",
+        "Elde problemin çözümüne dair sınırsız veri ve tam bilgi olduğunda",
+        "Kararın maliyeti milyarlarca dolar olup hata payı sıfır olduğunda",
+        "Aşırı bilgi yükü olduğunda ve dikkatli düşünmek için yeterli zaman bulunamadığında",
+        "Karar vericinin hiçbir zaman kısıtlaması olmadığında"
+      ],
+      "answer": 3,
+      "explanation": "Aşırı bilgi yükü olduğunda, zaman baskısı altında ve karar için derinlemesine analiz yapılamadığında insanlar heuristiklere (zihinsel kısayollara) başvururlar.",
+      "source": "6. Bölüm – Ne Zaman Heuristik?"
+    },
+    {
+      "id": "v4-q20",
+      "chapter": 6,
+      "topic": "Karar yanılgıları: Tesadüf (Kumarbaz) Yanılgısı",
+      "difficulty": "kolay",
+      "question": "Havaya atılan madeni paranın ardı ardına 8 kez 'yazı' gelmesi üzerine, dokuzuncu atışta kesinlikle 'tura' gelme ihtimalinin daha yüksek olduğunu iddia eden bir kişinin düştüğü yanılgı hangisidir?",
+      "options": [
+        "Temsiliyet Heuristiği",
+        "Çıpalama Etkisi",
+        "Tesadüf Yanılgısı (Kumarbazın yanılgısı)",
+        "Doğrulama Yanılgısı",
+        "Mevcudiyet Yanılgısı"
+      ],
+      "answer": 2,
+      "explanation": "Tesadüf yanılgısı (kumarbaz yanılgısı), bağımsız rassal olayların geçmiş sonuçlardan etkileneceğini ve geleceğin tahmin edilebileceğini varsayma hatasıdır.",
+      "source": "6. Bölüm – Tesadüf Yanılgısı"
+    },
+    {
+      "id": "v4-q21",
+      "chapter": 6,
+      "topic": "Karar almada örgütsel kısıtlar",
+      "difficulty": "orta",
+      "question": "Yöneticilerin karar alırken tamamen tarafsız ve yaratıcı olmasını engelleyen 'örgütsel kısıtlar' arasında aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "Şirkette uygulanan resmi kurallar, ödül sistemleri ve performans değerlendirme kriterleri",
+        "Bireyin çocukluk genetik yapısı",
+        "Gezegenlerin astronomik döngüleri",
+        "Hava durumunun mevsimsel değişimi",
+        "Tek yumurta ikizlerinin biyolojik yaşı"
+      ],
+      "answer": 0,
+      "explanation": "Karar almayı sınırlayan örgütsel kısıtlar: Performans değerlendirme, ödüllendirme sistemleri, resmi kurallar, sistemin getirdiği zaman kısıtları ve geçmiş emsallerdir.",
+      "source": "6. Bölüm – Karar Almayı Etkileyen Faktörler: Örgütsel Kısıtlar"
+    },
+    {
+      "id": "v4-q22",
+      "chapter": 6,
+      "topic": "Karar sürecinde etik: Haklar kriteri",
+      "difficulty": "orta",
+      "question": "Şirket içi soruşturmalarda personelin e-postalarını gizlice denetlemeyi reddeden ve çalışanların mahremiyet, ifade özgürlüğü ve yasal haklarını korumayı her şeyin üstünde tutan bir yöneticinin benimsediği etik kriter hangisidir?",
+      "options": [
+        "Faydacılık (Utilitaryanizm)",
+        "Haklar (Rights) Kriteri",
+        "Adalet Kriteri",
+        "Makyavelist Kriter",
+        "Pragmatik Kriter"
+      ],
+      "answer": 1,
+      "explanation": "Haklar kriteri, kararları temel insan hak ve özgürlüklerine (mahremiyet, ifade özgürlüğü vb.) saygı duyarak ve bunları koruyarak alma ilkesidir.",
+      "source": "6. Bölüm – Karar Alma Sürecinde Etik: Haklar"
+    },
+    {
+      "id": "v4-q23",
+      "chapter": 7,
+      "topic": "Motivasyonun üç temel unsuru",
+      "difficulty": "kolay",
+      "question": "Motivasyonun tanımında yer alan ve 'bir hedefe ulaşma doğrultusundaki gayretin miktarı (gücü), bu gayretin örgütsel amaca yönelmesi ve çabanın ne kadar sürdürüldüğü' anlamına gelen üç temel boyut hangisidir?",
+      "options": [
+        "Planlama, Örgütleme ve Denetleme",
+        "Kişilik, Tutum ve Yetenek",
+        "Girdi, Süreç ve Çıktı",
+        "Yoğunluk, Yön ve Kararlılık (Persistency)",
+        "Özerklik, Geribildirim ve Görev"
+      ],
+      "answer": 3,
+      "explanation": "Motivasyon, gayrete ilişkin Yoğunluk (efor miktarı), Yön (örgütsel hedefe kanalize olma) ve Kararlılık (çabanın korunma süresi) boyutlarıyla tanımlanır.",
+      "source": "7. Bölüm – Motivasyonun Tanımı ve Üç Temel Unsuru"
+    },
+    {
+      "id": "v4-q24",
+      "chapter": 7,
+      "topic": "Vroom'un Beklenti Teorisi (Expectancy Theory)",
+      "difficulty": "orta",
+      "question": "Vroom'un Beklenti Teorisine göre, bir çalışanın çok sıkı çalışması için gereken temel algısal bağlar aşağıdakilerden hangisinde eksiksiz verilmiştir?",
+      "options": [
+        "Çabanın performansa dönüşeceği (Beklenti) → Performansın ödüle yol açacağı (Araçsallık) → Ödülün birey için çekici olduğu (Valans)",
+        "Sadece yüksek maaş verilmesi ve ceza uygulanması",
+        "Çalışanın sürekli diğer çalışanlarla kıyaslanması",
+        "İşin tamamen rutinleştirilip standartlaştırılması",
+        "Yöneticinin Teori X tarzı sıkı denetim yapması"
+      ],
+      "answer": 0,
+      "explanation": "Beklenti Teorisi, bireyin davranış eğiliminin (eforunun) sonucun getireceği ödüle ve bu ödülün birey için cazibesine bağlı olduğunu savunur (Efor -> Performans -> Ödül).",
+      "source": "7. Bölüm – Beklenti Teorisi"
+    },
+    {
+      "id": "v4-q25",
+      "chapter": 7,
+      "topic": "İş Karakteristikleri: Özerklik (Autonomy)",
+      "difficulty": "orta",
+      "question": "İş Karakteristikleri Modelinde (JCM), bir işin çalışanına çalışma planlarını bizzat belirlemede ve kullanılacak yöntemleri seçmede tanıdığı özgürlük ve bağımsızlık derecesine ne ad verilir?",
+      "options": [
+        "Yetenek Çeşitliliği",
+        "Görevin Kimliği",
+        "Özerklik (Autonomy)",
+        "Görevin Önemi",
+        "Geribildirim"
+      ],
+      "answer": 2,
+      "explanation": "Özerklik (Autonomy), iş planlarının belirlenmesinde ve yöntemlerin seçilmesinde çalışana tanınan takdir yetkisi ve özgürlük düzeyidir.",
+      "source": "7. Bölüm – İş Karakteristikleri Modeli (Özerklik)"
+    }
+  ]
+}

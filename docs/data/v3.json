@@ -1,0 +1,435 @@
+{
+  "id": "v3",
+  "version": 3,
+  "title": "Vize Deneme Seti 3",
+  "course": "Örgütsel Davranış",
+  "createdAt": "2026-11-22",
+  "description": "Bölüm 1–7 ders notlarından üretilmiş 25 çoktan seçmeli soru (her şık harfinde 5 doğru cevap).",
+  "questions": [
+    {
+      "id": "v3-q01",
+      "chapter": 1,
+      "topic": "Yönetim fonksiyonları: Denetleme",
+      "difficulty": "orta",
+      "question": "Bir üretim işletmesinde faaliyetlerin önceden planlandığı gibi yürütülüp yürütülmediğini izleme ve belirlenen hedeflerden sapma görüldüğünde düzeltici önlemler alma süreci hangi yönetim fonksiyonudur?",
+      "options": [
+        "Denetleme (Kontrol)",
+        "Örgütleme",
+        "Liderlik",
+        "Planlama",
+        "Strateji Oluşturma"
+      ],
+      "answer": 0,
+      "explanation": "Denetleme, örgüt içi faaliyetlerin planlandığı gibi yürütülüp yürütülmediğini izleme ve hedeflerden sapma varsa düzeltme faaliyetlerini içerir.",
+      "source": "OB_hafta01 – Yönetim Fonksiyonları"
+    },
+    {
+      "id": "v3-q02",
+      "chapter": 1,
+      "topic": "Örgütsel Davranışta Geçicilik ve Esneklik",
+      "difficulty": "orta",
+      "question": "Günümüz iş dünyasında iş tanımlarının hızla değişmesi, personelin yeteneklerini sürekli yenilemek zorunda olması ve kurumların ani değişimlerle baş edebilme gerekliliği ÖD'de hangi kavramla açıklanır?",
+      "options": [
+        "Kalıcı Bürokrasi",
+        "Geçicilik ve Esneklik ile Baş Etme",
+        "Klasik Şebeke Modeli",
+        "Sıfır Hata Politikası",
+        "Duygusal Uyumsuzluk"
+      ],
+      "answer": 1,
+      "explanation": "Ders notlarına göre işin nevi sürekli değişmekte, işçilerin yeteneklerinin yenilenmesi şart olmakta ve çalışanlar ile yöneticiler 'geçicilik' ve esneklikle baş etmeyi öğrenmelidir.",
+      "source": "OB_hafta01 – Geçicilik – Esneklik ile Baş Etme"
+    },
+    {
+      "id": "v3-q03",
+      "chapter": 1,
+      "topic": "ÖD modellerinde Girdi değişkenleri",
+      "difficulty": "orta",
+      "question": "Robbins ve Judge'ın üç seviyeli ÖD modelinde, istihdam ilişkisi başlamadan önce var olan ya da grubun kuruluşunda belirlenen faktörlere 'Girdiler' denir. Aşağıdakilerden hangisi BİREY düzeyinde bir GİRDİ değişkenidir?",
+      "options": [
+        "Grup Yapısı ve Roller",
+        "Kişilik ve Değerler",
+        "İş Tatmini ve Tutumlar",
+        "İnsan Kaynakları Politikaları",
+        "Çatışma ve Müzakere Süreci"
+      ],
+      "answer": 1,
+      "explanation": "Kişilik ve değerler bireysel düzeyde genetik miras ve çocukluk çevresiyle şekillenen temel girdilerdir. Grup yapısı grup girdisi, iş tatmini çıktı, çatışma ise süreçtir.",
+      "source": "OB_hafta01 – Three Levels of Analysis (Inputs, Processes, Outcomes)"
+    },
+    {
+      "id": "v3-q04",
+      "chapter": 2,
+      "topic": "Yüzeysel çeşitlilik tanımı",
+      "difficulty": "kolay",
+      "question": "İnsanların nasıl düşündüğünü ya da hissettiğini doğrudan belirlememekle birlikte, kolaylıkla algılanabilen ve kalıp yargılara zemin hazırlayan demografik farklılıklara ne ad verilir?",
+      "options": [
+        "Derin Çeşitlilik",
+        "Yüzeysel Çeşitlilik",
+        "Değerler Hiyerarşisi",
+        "Düşünsel Yetenek",
+        "Örgüt Kültürü"
+      ],
+      "answer": 1,
+      "explanation": "Yüzeysel çeşitlilik; yaş, ırk, cinsiyet gibi dışarıdan hemen algılanabilen ve kalıp yargılara zemin hazırlayabilen demografik farklılıklardır.",
+      "source": "2. Bölüm – Çeşitliliğin Seviyeleri"
+    },
+    {
+      "id": "v3-q05",
+      "chapter": 2,
+      "topic": "Fiziksel yetenekler",
+      "difficulty": "kolay",
+      "question": "Dayanıklılık, el becerisi, bacak gücü, denge ve esneklik gibi görev gereksinimlerini yerine getirebilme kapasitesine ne ad verilir?",
+      "options": [
+        "Düşünsel Yetenek",
+        "Genel Düşünsel Yetenek",
+        "Makyavelist Güç",
+        "Duygusal Yetkinlik",
+        "Fiziksel Yetenek"
+      ],
+      "answer": 4,
+      "explanation": "Fiziksel yetenek; dayanıklılık, esneklik, güç ve beden koordinasyonu isteyen görevleri yerine getirebilme kapasitesidir.",
+      "source": "2. Bölüm – Fiziksel Yetenekler"
+    },
+    {
+      "id": "v3-q06",
+      "chapter": 2,
+      "topic": "Gruplarda çeşitlilik ve liderlik",
+      "difficulty": "orta",
+      "question": "Farklı özelliklere, uzmanlıklara ve demografik yapılara sahip çalışanlardan oluşan ekiplerin en yüksek performansı elde edebilmesi için araştırmalar hangi tür liderlerin daha etkili olduğunu göstermektedir?",
+      "options": [
+        "Otokratik Liderler",
+        "Makyavelist Yöneticiler",
+        "Laissez-faire (Serbest Bırakıcı) Liderler",
+        "Değişimci (Dönüşümcü) Liderler",
+        "Bürokratik Denetçiler"
+      ],
+      "answer": 3,
+      "explanation": "Ders notlarına göre araştırmalar, değişimci liderlerin farklı bireylerden oluşan takımları daha başarılı yönettiğini ve üyelerin benzer güçlü yönlerini açığa çıkardığını göstermektedir.",
+      "source": "2. Bölüm – Gruplarda Çeşitlilik"
+    },
+    {
+      "id": "v3-q07",
+      "chapter": 3,
+      "topic": "İş tatmininin ölçümü",
+      "difficulty": "orta",
+      "question": "İş tatminini ölçmede kullanılan iki temel yaklaşımdan biri olan ve 'işin doğası, ücret, terfi imkânları, nezaret ve çalışma arkadaşları' gibi alt faktörleri ayrı ayrı puanlayıp toplayan yöntem hangisidir?",
+      "options": [
+        "Genel Tek Soru Yaklaşımı",
+        "Myers-Briggs Tipi Gösterge",
+        "İşin Çeşitli Yönlerinin Toplamı Yaklaşımı",
+        "Büyük Beşli Ölçeği",
+        "Hofstede Kültür Anketi"
+      ],
+      "answer": 2,
+      "explanation": "İş tatmini iki yöntemle ölçülür: 1) Tek genel soru, 2) İşin ana unsurlarını (ücret, denetim, işin doğası vb.) değerlendiren işin çeşitli yönlerinin toplamı yaklaşımı.",
+      "source": "3. Bölüm – İş Tatmininin Ölçümü"
+    },
+    {
+      "id": "v3-q08",
+      "chapter": 3,
+      "topic": "İşe sarılma (Job involvement)",
+      "difficulty": "orta",
+      "question": "Kişinin işiyle psikolojik olarak özdeşleşme derecesi, aktif olarak işine katılımı ve kendi kişisel değer ve saygınlığı için iş performansının çok önemli olduğunu düşünmesi durumuna ne ad verilir?",
+      "options": [
+        "İşe Sarılma (Job Involvement)",
+        "Devam Bağlılığı",
+        "Normatif Sadakat",
+        "Yüzeysel Rol",
+        "Duygusal Bulaşma"
+      ],
+      "answer": 0,
+      "explanation": "İşe sarılma (Job Involvement), bireyin işiyle özdeşleşmesi, işine aktif katılması ve performansını kendi özsaygısı için temel görmesidir.",
+      "source": "3. Bölüm – Başlıca İş Tutumları (İşe Sarılma)"
+    },
+    {
+      "id": "v3-q09",
+      "chapter": 3,
+      "topic": "Tatminsizlik tepkisi: Söz Hakkı (Voice)",
+      "difficulty": "kolay",
+      "question": "Çalışma koşullarından rahatsız olan bir mühendisin doğrudan departman yöneticisiyle görüşerek iyileştirme önerileri sunması ve sendika kanalıyla sorunları yapıcı biçimde çözmeye çalışması hangi tatminsizlik tepkisidir?",
+      "options": [
+        "Sadakat (Loyalty)",
+        "Çıkış (Exit)",
+        "İhmal (Neglect)",
+        "Söz Hakkı (Voice)",
+        "Bilişsel Uyumsuzluk"
+      ],
+      "answer": 3,
+      "explanation": "Söz hakkı (Voice), koşulları iyileştirmek için yöneticilerle konuşmak, öneri getirmek gibi aktif ve yapıcı yollarla memnuniyetsizliği ifade etmektir.",
+      "source": "3. Bölüm – Tatmin Olan ve Olmayan Çalışanların İş Yerine Etkisi"
+    },
+    {
+      "id": "v3-q10",
+      "chapter": 3,
+      "topic": "Örgütsel destek algısı (ÖDA)",
+      "difficulty": "orta",
+      "question": "Çalışanların, kurumlarının onların çaba ve katkılarına gerçekten değer verdiğine ve onların genel refahını ve iyiliğini içtenlikle düşündüğüne inanma derecesine ne ad verilir?",
+      "options": [
+        "Kişi-İş Uyumu",
+        "İçsel Motivasyon",
+        "Duygusal Kararlılık",
+        "Devam Bağlılığı",
+        "Örgütsel Destek Algısı (ÖDA)"
+      ],
+      "answer": 4,
+      "explanation": "Örgütsel Destek Algısı (Perceived Organizational Support), kurumun çalışanın katkılarına değer verdiğine ve iyiliğini gözettiğine duyulan inanç düzeyidir.",
+      "source": "3. Bölüm – Örgütsel Destek Algısı"
+    },
+    {
+      "id": "v3-q11",
+      "chapter": 4,
+      "topic": "Duygular ve mantık ilişkisi: Phineas Gage vakası",
+      "difficulty": "orta",
+      "question": "Beyin hasarı geçiren Phineas Gage vakası ve modern nöroloji araştırmaları, duygular ile rasyonel mantık arasındaki ilişki hakkında hangi önemli gerçeği ortaya koymuştur?",
+      "options": [
+        "Mantıklı kararlar verebilmek için duyguların tamamen yok edilmesi gerektiğini",
+        "Zekâ seviyesi yüksek kişilerin hiçbir duygu hissetmediğini",
+        "Duyguların düşünme süreçlerine her zaman yalnızca zarar verdiğini",
+        "Duygulanma yetisini kaybetmenin aslında mantık yürütme yetisini de ciddi derecede bozduğunu",
+        "Öfke duygusunun her zaman rasyonelliği artırdığını"
+      ],
+      "answer": 3,
+      "explanation": "Phineas Gage incelemesi, duygulanma yetisini kaybetmenin mantık yürütme yetisini de kaybettirdiğini ve duyguların düşünme sürecinde hayati bir bilgi kaynağı olduğunu göstermiştir.",
+      "source": "4. Bölüm – Duyguların İşlevi (Phineas Gage)"
+    },
+    {
+      "id": "v3-q12",
+      "chapter": 4,
+      "topic": "Hava durumu ve duygular ilişkisi",
+      "difficulty": "orta",
+      "question": "Halk arasında hava durumunun insan duygu durumu üzerinde çok büyük bir etkisi olduğuna yaygın şekilde inanılmasına rağmen, bilimsel araştırmalar neyi göstermiştir?",
+      "options": [
+        "Yağmurlu günlerde çalışanların üretkenliğinin her zaman %50 arttığını",
+        "Hava durumunun insanların gerçekte nasıl hissettiği üzerinde şaşırtıcı şekilde çok az etkisi olduğunu",
+        "Güneşli havalarda personelin bilişsel yeteneklerinin tamamen kaybolduğunu",
+        "Kış aylarında iş memnuniyetinin doğrudan sıfıra indiğini",
+        "Hava sıcaklığı ile motivasyon arasında birebir doğrusal bir nedensellik olduğunu"
+      ],
+      "answer": 1,
+      "explanation": "Detaylı araştırmalar, yaygın inanışın aksine hava durumunun insanların duyguları üzerinde çok az veya önemsiz bir etkisi olduğunu göstermektedir.",
+      "source": "4. Bölüm – Duyguların Kaynakları: Hava Durumu"
+    },
+    {
+      "id": "v3-q13",
+      "chapter": 4,
+      "topic": "Duyguların ÖD uygulamaları: Yaratıcılık",
+      "difficulty": "orta",
+      "question": "Duyguların iş yerinde karar alma ve yaratıcılık üzerindeki etkisine ilişkin aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "options": [
+        "Olumlu (iyi) duygu durumundaki çalışanlar daha çok fikir üretme ve yaratıcı olma eğilimindedir.",
+        "Depresif ve kötü hisseden insanlar her zaman çok daha orijinal fikirler üretir.",
+        "Öfke ve korku çalışanların işbirliğini ve yaratıcılığını her zaman en üst seviyeye taşır.",
+        "Pasifleştirici duygular yaratıcılığı doğrudan teşvik eder.",
+        "Duygu durumlarının problem çözme hızıyla hiçbir ilişkisi yoktur."
+      ],
+      "answer": 0,
+      "explanation": "İyi duygu durumunda olan bireyler daha çok fikir ve alternatif üretir; olumlu duygular esnek düşünmeyi ve yaratıcılığı besler.",
+      "source": "4. Bölüm – Duyguların ÖD Uygulamaları: Yaratıcılık"
+    },
+    {
+      "id": "v3-q14",
+      "chapter": 4,
+      "topic": "Olumluluk dengesi (Positivity offset)",
+      "difficulty": "zor",
+      "question": "Ortamda hiçbir özel girdi, tehdit veya sevindirici uyarıcı bulunmadığında bile, çoğu insanın genel olarak hafif olumlu bir duygu durumunda olma eğilimine ne ad verilir?",
+      "options": [
+        "Derin Rol Yanılsaması",
+        "Duygusal Bulaşma",
+        "Duygusal Uyumsuzluk",
+        "Olumluluk Dengesi (Positivity offset)",
+        "Duygulanım Yoğunluğu"
+      ],
+      "answer": 3,
+      "explanation": "Olumluluk dengesi (Positivity offset), sıfır girdi veya nötr koşullarda insanların genel olarak pozitif bir duygu durumunda olma eğilimidir.",
+      "source": "4. Bölüm – Temel Duygu Durumlar: Olumluluk Dengesi"
+    },
+    {
+      "id": "v3-q15",
+      "chapter": 5,
+      "topic": "Büyük Beşli: Duygusal Kararlılık",
+      "difficulty": "kolay",
+      "question": "Büyük Beş Kişilik Modelinde, sakin, kendine güvenen ve güvende hisseden (olumlu uç) ile sinirli, bunalımlı, endişeli ve güvensiz hisseden (olumsuz uç / nevrotizm) bireyleri tanımlayan boyut hangisidir?",
+      "options": [
+        "Dışadönüklük",
+        "Uyumluluk",
+        "Duygusal Kararlılık (Nevrotizm)",
+        "Deneyime Açıklık",
+        "Sorumluluk"
+      ],
+      "answer": 2,
+      "explanation": "Duygusal Kararlılık boyutu stresle başa çıkabilme, sakin kalabilme ve kendine güven düzeyini ölçer; düşük ucu Nevrotizm olarak da adlandırılır.",
+      "source": "5. Bölüm – Büyük Beş Kişilik Modeli"
+    },
+    {
+      "id": "v3-q16",
+      "chapter": 5,
+      "topic": "Proaktif kişilik",
+      "difficulty": "orta",
+      "question": "Mevcut duruma pasif şekilde razı olmak yerine; gelecekteki fırsatları önceden gören, inisiyatif alan, eyleme geçen ve anlamlı bir değişim gerçekleşene kadar azimle direnen kişilere ne ad verilir?",
+      "options": [
+        "Makyavelist Kişilik",
+        "Narsist Kişilik",
+        "Proaktif Kişilik",
+        "Dışsal Denetimli Kişilik",
+        "Nevrotik Kişilik"
+      ],
+      "answer": 2,
+      "explanation": "Proaktif kişilik; fırsatları fark eden, inisiyatif kullanan ve ortamı kendi lehine olumlu yönde değiştirmek için sebat eden bireylerdir.",
+      "source": "5. Bölüm – Proaktif Kişilik"
+    },
+    {
+      "id": "v3-q17",
+      "chapter": 5,
+      "topic": "Kişi-Örgüt Uyumu",
+      "difficulty": "orta",
+      "question": "Sürekli değişen ve dinamik bir çevrede faaliyet gösteren modern şirketlerin, personelin yalnızca mevcut spesifik iş görevine uygunluğundan ziyade, işletmenin temel değerleri ve kültürüyle uyumlu olmasına önem vermesi hangi teoridir?",
+      "options": [
+        "Kişi-İş Uyumu",
+        "Hofstede Boyut Uyumu",
+        "Bilişsel Uyumsuzluk",
+        "Rasyonel Karar Uyumu",
+        "Kişi-Örgüt Uyumu"
+      ],
+      "answer": 4,
+      "explanation": "Kişi-örgüt uyumu, çalışanın kişiliği ve değerlerinin örgütün kültürü ve temel değerleriyle örtüşmesidir; dinamik ortamlarda esneklik sağlar.",
+      "source": "5. Bölüm – Kişi-Örgüt Uyumu"
+    },
+    {
+      "id": "v3-q18",
+      "chapter": 5,
+      "topic": "Hofstede: Erillik ve Dişillik",
+      "difficulty": "orta",
+      "question": "Hofstede'nin kültür çerçevesinde; rekabet, hırs, güç, maddi başarı ve geleneksel eril rolleri yücelten toplumlar 'Eril', kadın ve erkek rollerinin eşitlendiği, ilişkilere ve yaşam kalitesine değer verilen toplumlar ise 'Dişil' olarak nitelendirilir. Buna göre yüksek dişillik gösteren bir kültürün özelliği nedir?",
+      "options": [
+        "Sadece maddi kazancın ve hırsın ön planda tutulması",
+        "Katı hiyerarşinin ve güç mesafesinin mutlak kabul edilmesi",
+        "Kadınların toplumun tüm alanlarında erkeklerle eşit muamele görmesi ve insani ilişkilere önem verilmesi",
+        "Tüm çalışanların tek başına bireysel yarışa sokulması",
+        "Belirsizlikten kaçınmak için katı yasaklar konulması"
+      ],
+      "answer": 2,
+      "explanation": "Yüksek dişillik, kadın ve erkek rolleri arasında çok az fark gözeten, eşit muameleye, yardımlaşmaya ve genel yaşam kalitesine değer veren kültür tutumudur.",
+      "source": "5. Bölüm – Hofstede: Erillik ve Dişilik"
+    },
+    {
+      "id": "v3-q19",
+      "chapter": 6,
+      "topic": "Programlanmış ve programlanmamış kararlar",
+      "difficulty": "kolay",
+      "question": "Örgütlerde sık tekrarlanan, rutin olan ve standart çözüm prosedürleri bulunan kararlara ne ad verilir?",
+      "options": [
+        "Programlanmış Kararlar",
+        "Programlanmamış Kararlar",
+        "Sezgisel Kararlar",
+        "Belirsizlik Kararları",
+        "Yaratıcı Kararlar"
+      ],
+      "answer": 0,
+      "explanation": "Programlanmış kararlar; rutin, belirli kuralları ve standart çözüm prosedürleri olan kararlardır. Yeni ve belirsiz sorunlar ise programlanmamış karar gerektirir.",
+      "source": "6. Bölüm – Karar Türleri (Programlanmış / Programlanmamış)"
+    },
+    {
+      "id": "v3-q20",
+      "chapter": 6,
+      "topic": "Karar yanılgıları: Doğrulama yanılgısı",
+      "difficulty": "orta",
+      "question": "Bir yöneticinin daha önce aldığı bir kararı destekleyen ve haklı çıkaran raporları hevesle okuyup benimserken, kararının yanlış olduğunu gösteren pazar araştırma verilerini 'güvenilmez' diyerek görmezden gelmesi hangi yanılgıdır?",
+      "options": [
+        "Tesadüf Yanılgısı",
+        "Mevcudiyet Yanılgısı",
+        "Temsiliyet Yanılgısı",
+        "Doğrulama Yanılgısı (Confirmation bias)",
+        "Faydacı Yanılgı"
+      ],
+      "answer": 3,
+      "explanation": "Doğrulama yanılgısı, geçmişteki seçimlerimizi doğrulayan bilgileri arama ve tercihlerimizle çelişen bilgileri bilinçli veya bilinçsizce görmezden gelme eğilimidir.",
+      "source": "6. Bölüm – Doğrulama Yanılgısı"
+    },
+    {
+      "id": "v3-q21",
+      "chapter": 6,
+      "topic": "Karar yanılgıları: Ben demiştim yanılgısı",
+      "difficulty": "kolay",
+      "question": "Bir şirketin yeni ürünü piyasada başarısız olduktan sonra, ürün çıkmadan önce bu konuda hiç fikir beyan etmemiş olan bir müdürün 'Ben zaten bunun batacağını başından beri tam olarak biliyordum!' demesi hangi yanılgıdır?",
+      "options": [
+        "Ben Demiştim Yanılgısı (Hindsight bias)",
+        "Çıpalama Yanılgısı",
+        "Aşırı Güven Yanılgısı",
+        "Tesadüf Yanılgısı",
+        "Riskten Kaçınma"
+      ],
+      "answer": 0,
+      "explanation": "Ben demiştim yanılgısı (Hindsight bias), bir olayın sonucu kesinleştikten sonra bu sonucu önceden doğru tahmin etmiş olduğuna dair duyulan sahte inançtır.",
+      "source": "6. Bölüm – Ben Demiştim Yanılgısı"
+    },
+    {
+      "id": "v3-q22",
+      "chapter": 6,
+      "topic": "Karar almada cinsiyet ve derin düşünme",
+      "difficulty": "orta",
+      "question": "Karar verme sürecinde cinsiyet farklılıkları üzerine yapılan araştırmalara göre, 'derin düşünme' (problemleri karar öncesi ve sonrasında aşırı analiz etme ve tekrar düşünme) eğilimi ile ilgili hangisi doğrudur?",
+      "options": [
+        "Erkekler kadınlara kıyasla karar süreçlerinde çok daha uzun süre derin düşünürler.",
+        "Kadınlar karar vermeden önce problemleri derinlemesine analiz etmeye ve geçmiş kararları tekrar düşünmeye daha meyillidir.",
+        "Derin düşünme yöneticilerin karar kalitesini daima sıfıra indirir.",
+        "Kadınlar kararlarını her zaman hiçbir analiz yapmadan tamamen anlık verirler.",
+        "Cinsiyet ile kararlar üzerinde düşünme süresi arasında hiçbir korelasyon yoktur."
+      ],
+      "answer": 1,
+      "explanation": "Araştırmalara göre kadınlar karar vermeden önce problemleri daha fazla analiz etmeye ve verilmiş bir karar üzerinde tekrar düşünmeye (derin düşünme) daha meyillidir.",
+      "source": "6. Bölüm – Karar Almayı Etkileyen Faktörler: Cinsiyet"
+    },
+    {
+      "id": "v3-q23",
+      "chapter": 7,
+      "topic": "Maslow: İhtiyaçlar Hiyerarşisi",
+      "difficulty": "kolay",
+      "question": "Maslow'un İhtiyaçlar Hiyerarşisi Teorisine göre, bireyin kendi potansiyelini tam olarak açığa çıkarma, kişisel gelişim ve büyüme arzusunu ifade eden en üst basamaktaki güdü hangisidir?",
+      "options": [
+        "Sosyal İhtiyaçlar (Sevgi ve Ait Olma)",
+        "Güvenlik İhtiyacı",
+        "Saygınlık İhtiyacı",
+        "Fizyolojik İhtiyaçlar",
+        "Kendini Gerçekleştirme İhtiyacı"
+      ],
+      "answer": 4,
+      "explanation": "Maslow piramidinin en tepesinde bireyin potansiyelini gerçekleştirmesini, büyümesini ve gelişimini kapsayan 'Kendini Gerçekleştirme' ihtiyacı yer alır.",
+      "source": "7. Bölüm – İhtiyaçlar Hiyerarşisi Teorisi (Maslow)"
+    },
+    {
+      "id": "v3-q24",
+      "chapter": 7,
+      "topic": "Hedef Belirleme Teorisi ve MBO",
+      "difficulty": "orta",
+      "question": "Edwin Locke'un Hedef Belirleme Teorisine göre en yüksek motivasyon ve performansı sağlayan hedeflerin özelliği aşağıdakilerden hangisidir?",
+      "options": [
+        "Belirsiz ve 'elinden gelenin en iyisini yap' şeklinde ifade edilen hedefler",
+        "Çok kolay ve personeli hiç yormayacak hedefler",
+        "Özel, belirgin, zorlu ve geribildirim sağlanan hedefler",
+        "Sadece üst yönetimin bildiği gizli hedefler",
+        "Ulaşılması imkânsız ve hiçbir ödülü olmayan hedefler"
+      ],
+      "answer": 2,
+      "explanation": "Hedef Belirleme Teorisine göre özel ve belirgin, zorlayıcı hedefler geri bildirim ile desteklendiğinde en yüksek çalışma performansına yol açar.",
+      "source": "7. Bölüm – Hedef Belirleme Teorisi"
+    },
+    {
+      "id": "v3-q25",
+      "chapter": 7,
+      "topic": "İş tasarımı: İş rotasyonu ve İş zenginleştirme",
+      "difficulty": "orta",
+      "question": "Bir çalışanın görevlerini, kendi işini planlamasına, yürütmesine ve nihai performansını bizzat değerlemesine imkân tanıyacak şekilde 'dikey olarak genişletilmesi' uygulamasına ne ad verilir?",
+      "options": [
+        "İş Rotasyonu",
+        "Dışsal Denetim",
+        "Görev Paylaşımı",
+        "Esnek Zaman",
+        "İş Zenginleştirme"
+      ],
+      "answer": 4,
+      "explanation": "İş rotasyonu personeli periyodik olarak yatayda başka göreve atamaktır. İş zenginleştirme ise işin planlama, yürütme ve değerleme yetkisi verilecek biçimde dikey olarak genişletilmesidir.",
+      "source": "7. Bölüm – İş Dizaynı (İş Zenginleştirme / İş Rotasyonu)"
+    }
+  ]
+}

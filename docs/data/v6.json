@@ -1,0 +1,435 @@
+{
+  "id": "v6",
+  "version": 6,
+  "title": "Vize Deneme Seti 6",
+  "course": "Örgütsel Davranış",
+  "createdAt": "2026-11-22",
+  "description": "Bölüm 1–7 ders notlarından üretilmiş 25 çoktan seçmeli soru (her şık harfinde 5 doğru cevap).",
+  "questions": [
+    {
+      "id": "v6-q01",
+      "chapter": 1,
+      "topic": "Yönetim fonksiyonları: Örgütleme",
+      "difficulty": "orta",
+      "question": "Bir işletmede hangi görevlerin yapılacağına, bu görevleri kimin yerine getireceğine, işlerin nasıl departmanlaştırılacağına ve kimin kime rapor vereceğine karar verme sürecini içeren yönetim fonksiyonu hangisidir?",
+      "options": [
+        "Planlama",
+        "Örgütleme (Organizing)",
+        "Liderlik",
+        "Denetleme",
+        "Motivasyon"
+      ],
+      "answer": 1,
+      "explanation": "Örgütleme; hangi işlerin yapılacağı, kimin yapacağı, nasıl gruplandırılacağı ve kimin kime rapor vereceğinin belirlendiği fonksiyondur.",
+      "source": "OB_hafta01 – Yönetim Fonksiyonları (Örgütleme)"
+    },
+    {
+      "id": "v6-q02",
+      "chapter": 1,
+      "topic": "ÖD modelinde Grup düzeyinde Süreçler",
+      "difficulty": "orta",
+      "question": "Robbins ve Judge modelinde GRUP düzeyinde incelenen SÜREÇ değişkenleri arasında aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "Finansal Kârlılık",
+        "Bireysel Değerler ve Kişilik",
+        "Örgüt Kültürü ve Yapısı",
+        "Liderlik, İletişim, Çatışma ve Müzakere",
+        "İş Tatmini"
+      ],
+      "answer": 3,
+      "explanation": "Grup düzeyindeki süreçler; iletişim, liderlik, güç ve politika ile çatışma ve müzakeredir.",
+      "source": "OB_hafta01 – Processes at Group Level"
+    },
+    {
+      "id": "v6-q03",
+      "chapter": 1,
+      "topic": "Ekonomik baskılara yanıt verme ve yönetim",
+      "difficulty": "orta",
+      "question": "Ders notlarına göre kriz ve ekonomik durgunluk dönemlerinde yöneticiliğin kritik öneme sahip olmasının temel sebebi nedir?",
+      "options": [
+        "Ekonomik baskıların tüm çalışanları kendiliğinden en üst performansa ulaştırması",
+        "İyi zamanlarda herkesin yönetebilmesi, asıl zorluğun kaynak kısıtları ve belirsizlik altında çalışanları güvende tutabilmek ve motive edebilmek olması",
+        "Kriz anlarında örgütsel davranış kurallarının tamamen geçersiz kalması",
+        "Yöneticilerin kriz döneminde karar alma yetkilerinin sendikalara devredilmesi",
+        "Durgunluk dönemlerinde işten çıkarma kararlarının hiçbir psikolojik etki yaratmaması"
+      ],
+      "answer": 1,
+      "explanation": "İyi zamanlarda yönetmek kolaydır; asıl yöneticilik sınavı kaynak kısıtları, belirsizlik ve işten çıkarma stresi altındaki çalışanları motive edebilmektir.",
+      "source": "OB_hafta01 – Ekonomik Baskıya Yanıt Verme"
+    },
+    {
+      "id": "v6-q04",
+      "chapter": 2,
+      "topic": "Derin çeşitliliğin zamanla artan önemi",
+      "difficulty": "orta",
+      "question": "Yeni kurulan bir proje ekibinde, ilk günlerde yaş, cinsiyet veya etnik köken gibi yüzeysel farklılıklar dikkat çekerken; haftalar geçtikçe üyelerin birlikte çalışabilirliğini ve uyumunu asıl belirleyen faktör aşağıdakilerden hangisidir?",
+      "options": [
+        "İlk gün takınılan kıyafet tarzı",
+        "Fiziksel güç ve boy uzunluğu",
+        "Özlük dosyasındaki nüfus kayıt bilgileri",
+        "Sadece üyelerin mezun oldukları lise",
+        "Değerler, kişilik özellikleri ve çalışma tarzı gibi derin çeşitlilik unsurları"
+      ],
+      "answer": 4,
+      "explanation": "İnsanlar birbirini tanıdıkça yüzeysel özelliklerin etkisi azalır ve derin çeşitlilik (değerler, kişilik, çalışma tarzı) ekip uyumunda belirleyici hâle gelir.",
+      "source": "2. Bölüm – Derin Çeşitlilik"
+    },
+    {
+      "id": "v6-q05",
+      "chapter": 2,
+      "topic": "Genel Düşünsel Yetenek ve İş Başarısı",
+      "difficulty": "orta",
+      "question": "Örgütsel davranış ve endüstri psikolojisi araştırmalarına göre, karmaşık ve analitik gereksinimleri yüksek profesyonel işlerde başarıyı (performansı) en güçlü öngören bireysel değişken hangisidir?",
+      "options": [
+        "Bedensel Esneklik",
+        "Biyolojik Yaş",
+        "Genel Düşünsel Yetenek (GDY)",
+        "A Tipi Kişilik Skoru",
+        "Kısa Vadeye Dönüklük"
+      ],
+      "answer": 2,
+      "explanation": "Araştırmalar, özellikle karmaşık işlerde Genel Düşünsel Yeteneğin (GDY / General Mental Ability) iş başarısını en güçlü tahmin eden faktör olduğunu göstermektedir.",
+      "source": "2. Bölüm – Genel Düşünsel Yetenek (GDY)"
+    },
+    {
+      "id": "v6-q06",
+      "chapter": 2,
+      "topic": "Çeşitlilik yönetiminde küresel yasal farklılıklar",
+      "difficulty": "orta",
+      "question": "Ders notlarında çeşitlilik yönetiminin küresel etkileri tartışılırken verilen Hindistan örneğinde hangi özgül uygulamaya dikkat çekilmiştir?",
+      "options": [
+        "Düşük kastlardan gelen bireylere ayrımcılık yapılmaması için yasal kotalar ve pozitif ayrımcılık programları uygulanması",
+        "Tüm kadın çalışanlara zorunlu askerlik getirilmesi",
+        "Yalnızca tek bir dilde iş yapılması zorunluluğu",
+        "Fiziksel yetenek testlerinin tamamen yasaklanması",
+        "Kıdem tazminatının tamamen kaldırılması"
+      ],
+      "answer": 0,
+      "explanation": "Notlarda çeşitlilik politikalarının kültür ve yasalara göre değiştiği belirtilerek, Hindistan'da düşük kastlardan gelenler için kota ve özel programlar hazırlandığı örneği verilir.",
+      "source": "2. Bölüm – Küresel Etkiler: Çeşitlilik Yönetimi"
+    },
+    {
+      "id": "v6-q07",
+      "chapter": 3,
+      "topic": "Tutumun Bilişsel Unsuru",
+      "difficulty": "kolay",
+      "question": "'Yöneticim sadece kendi hemşehrisi olan çalışanlara yüksek prim veriyor' diyen bir çalışanın bu tespiti tutumun hangi temel unsurunu yansıtır?",
+      "options": [
+        "Duygusal Unsur",
+        "Bilişsel Unsur (İnanç / Fikir)",
+        "Davranışsal Unsur",
+        "Bilişsel Uyumsuzluk",
+        "Örgütsel Destek"
+      ],
+      "answer": 1,
+      "explanation": "Bilişsel unsur, bir tutumun fikir, kanaat veya inanç boyutudur ('yöneticim ayrımcılık yapıyor' inancı).",
+      "source": "3. Bölüm – Tutumların Ana Unsurları"
+    },
+    {
+      "id": "v6-q08",
+      "chapter": 3,
+      "topic": "Örgüte bağlılık: Duygusal Bağlılık",
+      "difficulty": "kolay",
+      "question": "'Bu kurumun amaçlarını kendi amaçlarım gibi benimsiyorum, kendimi buradaki büyük ailenin bir parçası olarak hissediyorum ve burada çalışmaktan gurur duyuyorum' diyen bir çalışanda hangi bağlılık boyutu baskındır?",
+      "options": [
+        "Yüzeysel Bağlılık",
+        "Devam Bağlılığı",
+        "Normatif Bağlılık",
+        "Geçici Bağlılık",
+        "Duygusal Bağlılık (Affective commitment)"
+      ],
+      "answer": 4,
+      "explanation": "Duygusal bağlılık, bireyin örgüte duyduğu samimi içsel sevgi, aidiyet ve onun değerlerine olan inançtır; temeli 'istek'tir.",
+      "source": "3. Bölüm – Örgüte Bağlılık Boyutları (Duygusal Bağlılık)"
+    },
+    {
+      "id": "v6-q09",
+      "chapter": 3,
+      "topic": "Örgütsel Vatandaşlık: Özgecilik (Altruism)",
+      "difficulty": "kolay",
+      "question": "İş yerinde yeni başlayan ve sisteme yabancı olan bir iş arkadaşına kendi mesaisi olmamasına rağmen gönüllü olarak işi öğreten ve dosyalarını düzenlemesine yardım eden bir personelin davranışı hangi ÖVD boyutudur?",
+      "options": [
+        "Makyavelizm",
+        "Sportmenlik",
+        "Sivil Erdem",
+        "Özgecilik (Altruism / Diğerkâmlık)",
+        "Görev Kimliği"
+      ],
+      "answer": 3,
+      "explanation": "Özgecilik (Altruism), iş yerinde belirli bir bireye işiyle ilgili sorunlarında veya görevinde doğrudan ve gönüllü yardımda bulunmaktır.",
+      "source": "3. Bölüm – Örgütsel Vatandaşlık Davranışı Boyutları"
+    },
+    {
+      "id": "v6-q10",
+      "chapter": 3,
+      "topic": "İş Tatmini ve Müşteri Tatmini: Hizmet Sektörü",
+      "difficulty": "orta",
+      "question": "Hizmet sektöründe (örneğin Singapur Havayolları veya lüks oteller) çalışan personelin iş tatmininin yüksek olmasının doğrudan müşteri tatminine dönüşmesini sağlayan mekanizma nedir?",
+      "options": [
+        "Hizmet sektöründe robotların kullanılması",
+        "Doğrudan müşteriyle temas halinde olan personelin pozitif duygularının ve duyarlılığının müşteriye yansıması (duygusal bulaşma ve hizmet kalitesi)",
+        "Müşterilerin çalışanların maaş bordrosunu inceleyebilmesi",
+        "Çalışanlara ceza verilmesi",
+        "Tüm hizmetlerin otomatik çağrı sistemine devredilmesi"
+      ],
+      "answer": 1,
+      "explanation": "İşinden tatmin olan güler yüzlü çalışanlar olağanüstü müşteri hizmeti sunar ve bu olumlu duygu durumu müşteriye doğrudan geçer.",
+      "source": "3. Bölüm – İş Tatmini ve Müşteri Tatmini"
+    },
+    {
+      "id": "v6-q11",
+      "chapter": 4,
+      "topic": "Olumlu ve Olumsuz Duygulanım Boyutları",
+      "difficulty": "orta",
+      "question": "Watson ve Tellegen'in modeline göre; en yüksek seviyede heyecan, coşku ve neşeden oluşan duygu durum boyutuna 'Olumlu Duygulanım' denirken; en yüksek seviyede endişe, gerginlik ve stresten oluşan duygu durum boyutuna ne ad verilir?",
+      "options": [
+        "Nevrotik Zekâ",
+        "Olumluluk Dengesi",
+        "Olumsuz Duygulanım (Negative Affect)",
+        "Duygusal Uyumsuzluk",
+        "Duygulanım Yoğunluğu"
+      ],
+      "answer": 2,
+      "explanation": "Olumsuz duygulanım; yüksek ucunda endişe, stres ve sinirlilik; düşük ucunda ise sakinlik ve dinginlik bulunan duygu durum boyutudur.",
+      "source": "4. Bölüm – Temel Duygu Durumlar: Olumlu ve Olumsuz Duygulanım"
+    },
+    {
+      "id": "v6-q12",
+      "chapter": 4,
+      "topic": "Duyguların Zaman İçindeki Değişimi",
+      "difficulty": "orta",
+      "question": "Haftanın günleri ve günün saatleri ile olumlu duygu durumu arasındaki ilişki incelendiğinde çoğu kültürde saptanan genel model nasıldır?",
+      "options": [
+        "Haftanın günleri duygu durumu üzerinde hiçbir döngü yaratmaz.",
+        "Pazartesi sabahları olumlu duyguların zirve yaptığı andır.",
+        "Günün gece yarısı saatlerinde insanların motivasyonu her zaman en yüksektir.",
+        "Olumlu duygu durumları hafta sonuna doğru (Cuma/Cumartesi) ve günün öğle-akşamüstü saatlerinde en yüksek seviyeye ulaşma eğilimindedir.",
+        "Olumlu hisler sadece Çarşamba sabahı görülür."
+      ],
+      "answer": 3,
+      "explanation": "Araştırmalara göre pozitif duygulanım haftanın başından hafta sonuna doğru yükselir ve gün içinde de sabahın erken saatlerinden öğle/öğleden sonraya doğru artış gösterir.",
+      "source": "4. Bölüm – Haftanın Günleri ve Günün Saatleri"
+    },
+    {
+      "id": "v6-q13",
+      "chapter": 4,
+      "topic": "Duygusal Zekânın Boyutları",
+      "difficulty": "orta",
+      "question": "Daniel Goleman ve ilgili araştırmacıların duygusal zekâ (DZ) çatısı altında tanımladığı temel yetenek bileşenleri arasında aşağıdakilerden hangisi YER ALMAZ?",
+      "options": [
+        "Kişinin kendi duygularını fark edebilmesi (Öz-farkındalık)",
+        "Kişinin kendi duygularını yönetebilmesi ve denetleyebilmesi",
+        "Başkalarının duygularını anlayabilme ve empati kurabilme",
+        "Başkalarını manipüle ederek maddi çıkarları için yalan söyleme yeteneği",
+        "İlişkileri ve sosyal etkileşimleri yönetebilme"
+      ],
+      "answer": 3,
+      "explanation": "Duygusal zekânın bileşenleri: Öz-farkındalık, duyguları yönetme, motivasyon, empati ve sosyal becerilerdir. Yalan söyleme ve manipülasyon Makyavelizmdir, DZ değildir.",
+      "source": "4. Bölüm – Duygusal Zekâ Boyutları"
+    },
+    {
+      "id": "v6-q14",
+      "chapter": 4,
+      "topic": "Duygular ve İş Güvenliği / Yaralanmalar",
+      "difficulty": "orta",
+      "question": "İş güvenliği ve iş kazaları üzerine yapılan araştırmalar, çalışanların duygu durumları ile kazalar arasında nasıl bir bağ ortaya koymuştur?",
+      "options": [
+        "Öfke ve karamsarlık koruyucu refleksi daima iki katına çıkarır.",
+        "Kötü hisseden çalışanlar her zaman güvenlik kurallarına en kusursuz uyan gruptur.",
+        "İş kazalarının duygusal durumlarla hiçbir ilişkisi yoktur.",
+        "Aşırı mutlu çalışanlar her zaman en çok yaralanan kişilerdir.",
+        "Olumsuz duygu durumunda ve yoğun endişe içinde olan çalışanların dikkati dağılır, panik veya donma tepkisi vererek kazalara çok daha açık hâle gelirler."
+      ],
+      "answer": 4,
+      "explanation": "Kötü hissetmek ve endişe taşımak dikkat dağınıklığına yol açar, panik veya donmaya sebep olarak iş kazası riskini belirgin şekilde artırır.",
+      "source": "4. Bölüm – İş Güvenliği ve Yaralanmalar"
+    },
+    {
+      "id": "v6-q15",
+      "chapter": 5,
+      "topic": "Büyük Beşli: Uyumluluk (Agreeableness)",
+      "difficulty": "kolay",
+      "question": "Büyük Beş Kişilik Modelinde; iyi huylu, işbirlikçi, sıcakkanlı, bağışlayıcı ve insanlara güvenen bireyleri tanımlayan kişilik boyutu hangisidir?",
+      "options": [
+        "Sorumluluk",
+        "Dışadönüklük",
+        "Uyumluluk (Agreeableness / Geçimlilik)",
+        "Nevrotizm",
+        "Makyavelizm"
+      ],
+      "answer": 2,
+      "explanation": "Uyumluluk (Agreeableness), bireyin işbirlikçi, nazik, sıcakkanlı ve güvenilir olma eğilimini ölçen boyuttur.",
+      "source": "5. Bölüm – Büyük Beş Kişilik Modeli (Uyumluluk)"
+    },
+    {
+      "id": "v6-q16",
+      "chapter": 5,
+      "topic": "Holland: Kişilik-İş Uyumu Teorisi",
+      "difficulty": "orta",
+      "question": "John Holland'ın Kişilik-İş Uyumu Teorisine göre iş tatmini ve iş gücü devrini belirleyen temel unsur nedir?",
+      "options": [
+        "Personelin fiziksel boy ve ağırlığı",
+        "Yalnızca verilen aylık maaş miktarı",
+        "Şirketin genel müdürünün MBTI tipi",
+        "İş yerinin şehir merkezine olan coğrafi uzaklığı",
+        "Bireyin kişilik tipi ile çalıştığı iş ortamının karakteristikleri arasındaki uyum derecesi"
+      ],
+      "answer": 4,
+      "explanation": "Holland'ın Kişilik-İş Uyumu teorisi, 6 kişilik tipi tanımlar ve tatmin ile personelin işten ayrılma oranını kişilik ile iş ortamı arasındaki uyumun belirlediğini savunur.",
+      "source": "5. Bölüm – Kişilik-İş Uyumu Teorisi (John Holland)"
+    },
+    {
+      "id": "v6-q17",
+      "chapter": 5,
+      "topic": "Hofstede: Bireycilik vs. Toplulukçuluk",
+      "difficulty": "orta",
+      "question": "Hofstede'nin kültür boyutlarında; insanların grupların üyeleri olmaktan çok bağımsız hareket etmeyi ve kendi kişisel haklarını korumayı tercih ettiği 'Bireyci' kültürler ile insanların sıkı bir grup koruması altında bulunduğu ve gruba mutlak sadakat beklenen 'Toplulukçu' kültürler kıyaslandığında Çin hangi gruptadır?",
+      "options": [
+        "Bireycilikte çok düşük, toplulukçulukta çok yüksek",
+        "Dünyanın en aşırı bireyci kültürü",
+        "Bireycilik ve toplulukçuluğu tamamen reddeden kültür",
+        "Yalnızca bireysel yarışa izin veren sistem",
+        "Topluluk sadakatini tamamen cezalandıran kültür"
+      ],
+      "answer": 0,
+      "explanation": "Çin, Hofstede çerçevesinde bireycilikte düşük (yani toplulukçu), güç mesafesinde yüksek ve uzun vadeye dönüklükte yüksek bir kültür profilidir.",
+      "source": "5. Bölüm – Hofstede: Bireycilik ve Toplulukçuluk (Çin örneği)"
+    },
+    {
+      "id": "v6-q18",
+      "chapter": 5,
+      "topic": "Kuşaklara ait iş değerleri",
+      "difficulty": "orta",
+      "question": "Ders notlarındaki Patagonia Inc. örneğinde vurgulandığı üzere, esnekliğe, iş-yaşam dengesine ve insani ilişkilere büyük önem veren genç kuşak çalışanların iş yeri tercihleri hangi değer değişimini gösterir?",
+      "options": [
+        "Kuşaklar değiştikçe iş değerlerinin değiştiğini; esnek çalışma saatleri ve sosyal hakların günümüz yeteneklerini çekmede kritik olduğunu",
+        "Yeni neslin hiçbir koşulda çalışmak istemediğini",
+        "İş-yaşam dengesinin şirket kârlılığını mutlaka sıfıra indirdiğini",
+        "Gençlerin yalnızca Teori X tarzı baskıyla motive edilebileceğini",
+        "Kuşaklar arasında hiçbir değer farkı olmadığını"
+      ],
+      "answer": 0,
+      "explanation": "Patagonia örneği, genç kuşakların esneklik ve iş-yaşam dengesi gibi farklı iş değerlerine sahip olduğunu ve kurumların bu değerlere göre esneklik sunması gerektiğini örnekler.",
+      "source": "5. Bölüm – Kuşaklara Ait Değerler (Patagonia örneği)"
+    },
+    {
+      "id": "v6-q19",
+      "chapter": 6,
+      "topic": "Sezgisel Karar Alma (Intuitive decision making)",
+      "difficulty": "orta",
+      "question": "Yöneticilerin geçmiş deneyimlerinin, uzmanlıklarının, his ve örtük bilgilerinin bilinçdışı bir sentezi sonucunda hızla ulaştıkları karar alma sürecine ne ad verilir?",
+      "options": [
+        "Sezgisel Karar Alma (Intuitive decision making)",
+        "Klasik Rasyonel Karar",
+        "Algoritmik Karar",
+        "Grup Düşüncesi",
+        "Riskten Kaçınma"
+      ],
+      "answer": 0,
+      "explanation": "Sezgisel karar alma; geçmiş bilgi, tecrübe ve deneyimlerin bilinçdışı şekilde işlenmesiyle yaratılan hızlı ve sezgiye dayalı süreçtir.",
+      "source": "6. Bölüm – Sezgisel Karar Alma"
+    },
+    {
+      "id": "v6-q20",
+      "chapter": 6,
+      "topic": "Karar yanılgıları: Mevcudiyet (Availability) Uçak Kazası Örneği",
+      "difficulty": "orta",
+      "question": "İstatistiksel olarak araba kazasında ölme olasılığı uçak kazasında ölme olasılığından kat kat yüksek olmasına rağmen, insanların medyada geniş yer bulan bir uçak kazası sonrasında uçmaktan aşırı korkmaya başlamaları hangi yanılgıdır?",
+      "options": [
+        "Mevcudiyet (Ulaşılabilirlik) Yanılgısı (Availability bias)",
+        "Doğrulama Yanılgısı",
+        "Aşırı Güven Yanılgısı",
+        "Kumarbaz Yanılgısı",
+        "Çıpalama"
+      ],
+      "answer": 0,
+      "explanation": "Mevcudiyet yanılgısı, zihinde çarpıcı ve kolay hatırlanabilir olan (akla çabuk gelen) uçak kazası gibi olayların sıklığının gerçekte olduğundan çok daha yüksek sanılmasıdır.",
+      "source": "6. Bölüm – Mevcudiyet-Ulaşılabilirlik Yanlılığı"
+    },
+    {
+      "id": "v6-q21",
+      "chapter": 6,
+      "topic": "Karar vermede yaratıcılık: Üç Bileşenli Model",
+      "difficulty": "zor",
+      "question": "Karar almada yaratıcılığı açıklayan 'Üç Bileşenli Yaratıcılık Modeli'nde yer alan temel unsurlar hangileridir?",
+      "options": [
+        "Maaş, Ceza ve Sıkı Denetim",
+        "Uzmanlık, Yaratıcı Düşünme Becerileri ve İçsel Görev Motivasyonu",
+        "Planlama, Örgütleme ve Kontrol",
+        "Yaş, Cinsiyet ve Kıdem",
+        "A Tipi Kişilik, Narsisizm ve Makyavelizm"
+      ],
+      "answer": 1,
+      "explanation": "Üç bileşenli yaratıcılık modeli; alan uzmanlığı, yaratıcı düşünme becerileri ve içsel görev motivasyonunun kesişiminde yaratıcılığın ortaya çıktığını savunur.",
+      "source": "6. Bölüm – Üç Bileşenli Yaratıcılık Modeli"
+    },
+    {
+      "id": "v6-q22",
+      "chapter": 6,
+      "topic": "Bağlılık Gösterme Nedenleri: Escalation of commitment",
+      "difficulty": "orta",
+      "question": "Zarar ettiği açıkça ortada olan başarısız bir yatırımı inatla devam ettiren yöneticilerin bu 'bağlılığı artırma' (escalation of commitment) davranışının ardında yatan temel psikolojik gerekçeler nelerdir?",
+      "options": [
+        "Faydacı etik ilkesine kusursuz uyum sağlama isteği",
+        "Şirket hissedarlarının zorunlu yazılı talimatı",
+        "Rasyonel kâr maksimizasyonu hesaplamaları",
+        "Kendini haklı çıkarma arzusu, başarısızlığı kabullenememe ve ilk kararın doğruluğunu kanıtlama çabası",
+        "Mevcudiyet heuristiğinin matematiksel doğrulaması"
+      ],
+      "answer": 3,
+      "explanation": "Hatalı kararlara bağlanıp kalınmasının temel nedenleri; yöneticinin kendini haklı çıkarma ihtiyacı, başarısızlığı kabul edememe ve ilk kararını kanıtlama hırsıdır.",
+      "source": "6. Bölüm – Bağlılık Gösterme (Escalation of Commitment)"
+    },
+    {
+      "id": "v6-q23",
+      "chapter": 7,
+      "topic": "Personel Katılım Uygulamaları: Katılımcı Yönetim",
+      "difficulty": "kolay",
+      "question": "Astların karar verme süreçlerinde kendi yöneticileri kadar yetki ve güce doğrudan sahip oldukları personel katılım programı aşağıdakilerden hangisidir?",
+      "options": [
+        "Otokratik Yönetim",
+        "Temsilci Katılımı",
+        "Katılımcı Yönetim (Participative management)",
+        "İş Rotasyonu",
+        "Görev Kimliği"
+      ],
+      "answer": 2,
+      "explanation": "Katılımcı yönetim, astların karar verme konusunda kendi üstleri ve yöneticileri kadar önemli derecede karar gücünü paylaştıkları süreçtir.",
+      "source": "7. Bölüm – Personel Katılım Programları (Katılımcı Yönetim)"
+    },
+    {
+      "id": "v6-q24",
+      "chapter": 7,
+      "topic": "İş Karakteristikleri: Yetenek Çeşitliliği (Skill Variety)",
+      "difficulty": "orta",
+      "question": "İş Karakteristikleri Modelinde (JCM), bir işin çalışanın farklı yetenek, uzmanlık ve becerilerini kullanmasını gerektiren birden çok çeşitli faaliyetten oluşması durumuna ne ad verilir?",
+      "options": [
+        "Geribildirim",
+        "Görevin Kimliği",
+        "Görevin Önemi",
+        "Özerklik",
+        "Yetenek Çeşitliliği (Skill Variety)"
+      ],
+      "answer": 4,
+      "explanation": "Yetenek çeşitliliği (Skill Variety), bir görevin personelin farklı beceri ve yeteneklerini devreye sokmasını gerektiren farklı faaliyetleri içermesi durumudur.",
+      "source": "7. Bölüm – İş Karakteristikleri Modeli (Yetenek Çeşitliliği)"
+    },
+    {
+      "id": "v6-q25",
+      "chapter": 7,
+      "topic": "Potansiyel Motivasyon Değeri Endeksi (MPS / PMD)",
+      "difficulty": "zor",
+      "question": "İş Karakteristikleri Modelinde bir işin personeli motive etme potansiyelini hesaplayan formüle göre (PMD = [(Yetenek Çeşitliliği + Görevin Kimliği + Görevin Önemi) / 3] x Özerklik x Geribildirim), bir işte özerklik veya geribildirim sıfır ise sonuç ne olur?",
+      "options": [
+        "Özerklik olmadan motivasyon iki katına çıkar.",
+        "PMD maksimum seviyeye çıkar.",
+        "İşin toplam Potansiyel Motivasyon Değeri (PMD) sıfıra iner; çünkü özerklik ve geribildirim çarpım faktörüdür.",
+        "Diğer üç değişken yüksekse sonuç hiç etkilenmez.",
+        "Yalnızca geribildirim sıfır olduğunda formül hesaplanabilir."
+      ],
+      "answer": 2,
+      "explanation": "Formülde Özerklik ve Geribildirim çarpan durumundadır; dolayısıyla bir işte çalışana hiç özerklik tanınmazsa veya hiç geribildirim verilmezse işin genel motivasyon potansiyeli çöker.",
+      "source": "7. Bölüm – Potansiyel Motivasyon Değeri (PMD)"
+    }
+  ]
+}
