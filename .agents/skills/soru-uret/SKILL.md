@@ -2,7 +2,7 @@
 name: soru-uret
 description: >-
   Örgütsel Davranış ders notlarından yeni bir vize deneme seti (25 farklı çoktan seçmeli soru)
-  üretir, quiz/data/vN.json olarak kaydeder ve manifest'e ekler. Kullanıcı "soruları üret",
+  üretir, docs/data/vN.json olarak kaydeder ve manifest'e ekler. Kullanıcı "soruları üret",
   "yeni soru seti", "25 soru daha" gibi bir şey istediğinde kullan.
 ---
 
@@ -17,7 +17,7 @@ Her "soruları üret" isteğinde **önceki setlerde olmayan 25 yeni soru** içer
      `python3 tools/extract_text.py`
    - Yalnızca notlarda geçen bilgilerden soru üret; notlarda olmayan "dış bilgi" ile doğru cevap kurma.
 
-2. **Mevcut setleri incele** – `quiz/data/manifest.json` ve tüm `quiz/data/v*.json` dosyalarını oku.
+2. **Mevcut setleri incele** – `docs/data/manifest.json` ve tüm `docs/data/v*.json` dosyalarını oku.
    - Önceki setlerde sorulmuş kavramları/senaryoları **tekrarlama**. Aynı kavram tekrar sorulacaksa
      farklı bir açıdan (ör. tanım yerine senaryo, "hangisi değildir" vb.) ve farklı kökle sor.
    - Henüz sorulmamış konulara öncelik ver (her setin `topic` alanlarına bak).
@@ -34,7 +34,7 @@ Her "soruları üret" isteğinde **önceki setlerde olmayan 25 yeni soru** içer
    - "Hepsi / hiçbiri" şıklarından kaçın. Olumsuz köklerde "DEĞİLDİR / YER ALMAZ" büyük harfle yazılsın.
    - Her soruya notlara dayanan kısa bir `explanation` ve slayt/başlık bilgisi içeren `source` ekle.
 
-5. **Dosyayı yaz** – `quiz/data/vN.json`, şema:
+5. **Dosyayı yaz** – `docs/data/vN.json`, şema:
 
    ```json
    {
@@ -53,13 +53,13 @@ Her "soruları üret" isteğinde **önceki setlerde olmayan 25 yeni soru** içer
    ```
    `answer` = doğru şıkkın 0 tabanlı indeksi (0=A … 4=E). Bölüm numaraları manifest'teki `chapters` ile eşleşmeli.
 
-6. **Manifest'e ekle** – `quiz/data/manifest.json` → `versions` dizisinin sonuna:
+6. **Manifest'e ekle** – `docs/data/manifest.json` → `versions` dizisinin sonuna:
    `{ "id": "vN", "file": "vN.json", "title": "Vize Deneme Seti N", "createdAt": "YYYY-MM-DD", "questionCount": 25 }`
 
 7. **Doğrula** – `python3 tools/validate_questions.py` çalıştır; HATA YOK ve dengeli dağılım görene kadar düzelt.
    Benzerlik uyarısı (⚠) çıkarsa ilgili soruyu yeniden yaz.
 
-8. **JS Paketini Güncelle** – `python3 tools/build_js_bundle.py` çalıştır; böylece yeni eklenen set `quiz/questions-data.js` içine gömülür ve çift tıklayarak (file://) doğrudan çalışmaya devam eder.
+8. **JS Paketini Güncelle** – `python3 tools/build_js_bundle.py` çalıştır; böylece yeni eklenen set `docs/questions-data.js` içine gömülür ve çift tıklayarak (file://) doğrudan çalışmaya devam eder.
 
 9. Kullanıcıya kısaca hangi sürümün eklendiğini, bölüm dağılımını ve platformun nasıl açılacağını bildir:
-   `quiz/index.html` dosyasını doğrudan tarayıcıda açabilir veya `python3 -m http.server 8000 --directory quiz` ile çalıştırabilir.
+   `docs/index.html` dosyasını doğrudan tarayıcıda açabilir veya `python3 -m http.server 8000 --directory docs` ile çalıştırabilir.

@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
-"""quiz/data/manifest.json ve quiz/data/v*.json dosyalarını okur,
-quiz/questions-data.js dosyasına window.QUIZ_DATA olarak yazar.
+"""docs/data/manifest.json ve docs/data/v*.json dosyalarını okur,
+docs/questions-data.js dosyasına window.QUIZ_DATA olarak yazar.
 Böylece platform `file://` protokolüyle (çift tıklayarak) de doğrudan çalışabilir.
 """
 import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = ROOT / "quiz" / "data"
-OUT_FILE = ROOT / "quiz" / "questions-data.js"
+DATA_DIR = ROOT / "docs" / "data"
+OUT_FILE = ROOT / "docs" / "questions-data.js"
 
 
 def build():

@@ -497,7 +497,7 @@
         box.innerHTML = "";
         box.appendChild(el("div", null, "Soru verileri yüklenemedi: " + err.message));
         box.appendChild(el("div", "small",
-          "Dosyayı doğrudan açmak yerine bir yerel sunucu üzerinden aç: python3 -m http.server 8000 --directory quiz"));
+          "Dosyayı doğrudan açmak yerine bir yerel sunucu üzerinden aç: python3 -m http.server 8000 --directory docs"));
       });
   }
 })();

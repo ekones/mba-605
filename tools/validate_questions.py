@@ -18,7 +18,7 @@ import unicodedata
 from collections import Counter
 from pathlib import Path
 
-DATA = Path(__file__).resolve().parent.parent / "quiz" / "data"
+DATA = Path(__file__).resolve().parent.parent / "docs" / "data"
 QUESTIONS_PER_SET = 25
 OPTIONS_PER_QUESTION = 5
 SIMILARITY_LIMIT = 0.80
