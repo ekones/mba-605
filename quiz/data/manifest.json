@@ -1,0 +1,21 @@
+{
+  "course": "Örgütsel Davranış",
+  "chapters": {
+    "1": "Örgütsel Davranışa Giriş",
+    "2": "Çeşitlilik, Biyografik Özellikler ve Yetenek",
+    "3": "Tutumlar ve İş Tatmini",
+    "4": "Duygular ve Duygu Durumları",
+    "5": "Kişilik ve Değerler",
+    "6": "Bireysel Karar Verme",
+    "7": "Motivasyon ve Uygulamaları"
+  },
+  "versions": [
+    {
+      "id": "v1",
+      "file": "v1.json",
+      "title": "Vize Deneme Seti 1",
+      "createdAt": "2026-11-22",
+      "questionCount": 25
+    }
+  ]
+}

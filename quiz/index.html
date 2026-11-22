@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Örgütsel Davranış · Vize Soru Çözme</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" id="homeLink">
+      <span class="brand-mark">ÖD</span>
+      <span class="brand-text">Örgütsel Davranış <small>Vize Soru Çözme</small></span>
+    </a>
+    <div class="topbar-right">
+      <span id="timer" class="timer hidden" aria-live="polite"></span>
+      <button id="themeToggle" class="icon-btn" title="Tema değiştir" aria-label="Tema değiştir">◐</button>
+    </div>
+  </header>
+
+  <main id="app">
+    <!-- ANA SAYFA -->
+    <section id="homeView" class="view">
+      <div class="hero">
+        <h1>Vize deneme setleri</h1>
+        <p>Her sette ders notlarından üretilmiş <strong>25 çoktan seçmeli soru</strong> var. Bir set seç, ayarlarını yap ve başla.</p>
+      </div>
+
+      <div class="settings card">
+        <h2>Ayarlar</h2>
+        <div class="settings-grid">
+          <label class="field">
+            <span>Mod</span>
+            <select id="modeSelect">
+              <option value="practice">Pratik (anında geri bildirim)</option>
+              <option value="exam">Sınav (sonuç en sonda)</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Süre</span>
+            <select id="timeSelect">
+              <option value="0">Süresiz</option>
+              <option value="20">20 dakika</option>
+              <option value="30">30 dakika</option>
+              <option value="45">45 dakika</option>
+            </select>
+          </label>
+          <label class="check"><input type="checkbox" id="shuffleQ" /> Soruları karıştır</label>
+          <label class="check"><input type="checkbox" id="shuffleO" /> Şıkları karıştır</label>
+        </div>
+      </div>
+
+      <div id="versionList" class="version-list"></div>
+      <p id="loadError" class="error hidden"></p>
+    </section>
+
+    <!-- SORU EKRANI -->
+    <section id="quizView" class="view hidden">
+      <div class="quiz-head">
+        <div>
+          <div id="quizTitle" class="quiz-title"></div>
+          <div id="quizMeta" class="muted small"></div>
+        </div>
+        <button id="finishBtn" class="btn btn-ghost">Sınavı bitir</button>
+      </div>
+      <div class="progress"><div id="progressBar" class="progress-bar"></div></div>
+
+      <div class="quiz-layout">
+        <article class="card question-card">
+          <div class="q-top">
+            <span id="qNumber" class="q-number"></span>
+            <span id="qChapter" class="badge"></span>
+            <span id="qDifficulty" class="badge badge-soft"></span>
+            <button id="flagBtn" class="icon-btn flag" title="İşaretle (F)" aria-label="Soruyu işaretle">⚑</button>
+          </div>
+          <p id="qText" class="q-text"></p>
+          <ol id="qOptions" class="options"></ol>
+          <div id="qFeedback" class="feedback hidden"></div>
+          <div class="q-nav">
+            <button id="prevBtn" class="btn btn-ghost">← Önceki</button>
+            <span class="muted small kbd-hint">Kısayollar: A–E / 1–5 · ← → · F</span>
+            <button id="nextBtn" class="btn btn-primary">Sonraki →</button>
+          </div>
+        </article>
+
+        <aside class="card palette-card">
+          <h3>Sorular</h3>
+          <div id="palette" class="palette"></div>
+          <div class="legend small muted">
+            <span><i class="dot dot-answered"></i>Cevaplandı</span>
+            <span><i class="dot dot-flag"></i>İşaretli</span>
+            <span><i class="dot dot-empty"></i>Boş</span>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- SONUÇ EKRANI -->
+    <section id="resultView" class="view hidden">
+      <div class="card result-summary">
+        <div class="score-ring" id="scoreRing"><span id="scorePct"></span></div>
+        <div class="score-info">
+          <h2 id="resultTitle"></h2>
+          <div class="stats">
+            <div class="stat ok"><b id="statCorrect"></b><span>Doğru</span></div>
+            <div class="stat bad"><b id="statWrong"></b><span>Yanlış</span></div>
+            <div class="stat"><b id="statBlank"></b><span>Boş</span></div>
+            <div class="stat"><b id="statTime"></b><span>Süre</span></div>
+          </div>
+          <div class="result-actions">
+            <button id="retryWrongBtn" class="btn btn-primary">Yanlış & boşları tekrar çöz</button>
+            <button id="retryAllBtn" class="btn btn-ghost">Seti baştan çöz</button>
+            <button id="backHomeBtn" class="btn btn-ghost">Ana sayfa</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>Bölümlere göre başarı</h3>
+        <div id="chapterBreakdown" class="chapter-breakdown"></div>
+      </div>
+
+      <div class="card">
+        <div class="review-head">
+          <h3>Cevap anahtarı & açıklamalar</h3>
+          <div class="segmented" id="reviewFilter">
+            <button data-filter="all" class="active">Tümü</button>
+            <button data-filter="wrong">Yanlışlar</button>
+            <button data-filter="blank">Boşlar</button>
+            <button data-filter="correct">Doğrular</button>
+          </div>
+        </div>
+        <div id="reviewList" class="review-list"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer muted small">Sorular <code>data/</code> klasöründeki JSON dosyalarından yüklenir.</footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

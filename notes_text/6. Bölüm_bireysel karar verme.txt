@@ -1,0 +1,297 @@
+--- Slayt 1 ---
+[Notlar] 1–9 The decision-making process begins when a problem is identified (step 1). Problem identification can be challenging. Most problems do not come with neon identification signs. Furthermore, the manager who identifies and solves the wrong problem is no better than the manager who identifies a problem and does nothing. Making a comparison between their current state of affairs and some standard, such as past performance or previously set goals, helps managers identify problems in the workplace.
+--- Slayt 2 ---
+[Notlar] 1–10 After identifying a problem, the manager should select appropriate decision criteria (step 2). These criteria reflect the factors which the manager thinks are relevant in a decision. Because all criteria are not equally important, the manager must prioritize each one by allocating weights to the decision criteria (step 3): that is, indicating the relative importance of the relevant criteria by assigning a weight to each.
+--- Slayt 3 ---
+[Notlar] 1–11 Next, the manager must list, but not evaluate, feasible problem-solving alternatives (step 4). Then, he or she must analyze each one (step 5). As each alternative is evaluated against the criteria, the strengths and weakness of each alternative will become evident.
+--- Slayt 4 ---
+KARAR VERME
+Alternatifler arasında seçim yapma
+Karar Türleri
+1.	Programlanmış
+Rutin kararlar
+Standard çözümler
+2.	Programlanmamış
+Yeni sorunlar/fırsatlar
+Belirsizlik
+Bilgi arayışı
+[Notlar] 1–12 Obviously, most decisions contain judgments which are reflected in the criteria chosen, the weights assigned to them, and the evaluation of the alternatives. Then, the manager should select the alternative that scored the highest in the fifth step (step 6).
+--- Slayt 5 ---
+Karar Verme
+1)Rasyonel Model
+2)Sınırlı Rasyonellik (yönetsel model)
+3)Sezgisel
+[Notlar] Ethics should play a role in decision-making.  There are three ethical criteria that influence decisions.  The first is utilitarianism where the decisions are based on the outcome of the solution.  The outcome is analyzed based on seeking the greatest good for the greatest number of people and is the dominant method for businesspeople.  The second criterion is rights where decisions are based on fundamental liberties and privileges in an attempt to protect the basic rights of individuals.  The final criterion is justice where the decision imposes rules in a fair and impartial manner and equitably distributes benefits and costs.
+--- Slayt 6 ---
+Karar Alma
+1)Rasyonel Karar Alma Modeli: Çıktıyı maksimize etmek için bireylerin nasıl davranması gerektiğini anlatan bir karar alma modeli.
+[Notlar] Better decisions are those that incorporate novel and useful ideas or better known as creativity.  An organization will tend to make better decisions when creative people are involved in the process.  So it is important to identify people who have that creative potential.  Some of the methods and theories identified in earlier chapters can help in this process.  For example, those who score high in openness to experience tend to be more creative.
+--- Slayt 7 ---
+BİREYSEL KARAR VERME
+1.	Klasik (Rasyonel) Model
+1.	Problemi belirle
+2.	Tüm alternatif çözümleri listele
+3.	Her alternatifin sonuçlarını listele
+4.	Alternatifleri değerlendir
+5.	En çok tercih edilen sonucu olan alternatifi seç
+Sonuç:    Optimal karar
+Kritere göre en uygun (iyi) çözüm
+[Notlar] Better decisions are those that incorporate novel and useful ideas or better known as creativity.  An organization will tend to make better decisions when creative people are involved in the process.  So it is important to identify people who have that creative potential.  Some of the methods and theories identified in earlier chapters can help in this process.  For example, those who score high in openness to experience tend to be more creative.
+--- Slayt 8 ---
+Modelin Sorunu: 	Gerçekçi olmaması
+Açıkça belirlenmiş problem
+Gerekli tüm bilgiye ulaşma
+Tüm olası alternatifleri göz önünde bulundurma
+Tüm olası sonuçlar hakkında bilgi sahibi olma
+Bilginin doğru işlenmesi
+Belirli ve sabit kriterler
+	Model nasıl karar verilmesi gerektiğini açıklar
+--- Slayt 9 ---
+Copyright © 2005 Prentice Hall, Inc. All rights reserved.
+4–9
+The Decision-Making Process
+Exhibit 4.2
+--- Slayt 10 ---
+Copyright © 2005 Prentice Hall, Inc. All rights reserved.
+4–10
+Criteria and Weight in Car-Buying Decision(Scale of 1 to 10)
+CRITERION	WEIGHT
+Price	10
+Interior comfort	8
+Durability	5
+Repair record	5
+Performance	3
+Handling	1
+Exhibit 4.3
+--- Slayt 11 ---
+Copyright © 2005 Prentice Hall, Inc. All rights reserved.
+4–11
+Assessment of Car Alternatives
+Exhibit 4.4
+--- Slayt 12 ---
+Copyright © 2005 Prentice Hall, Inc. All rights reserved.
+4–12
+Weighting of Vehicles(Assessment Criteria X Criteria Weight)
+Exhibit 4.5
+--- Slayt 13 ---
+Modelin Sorunu: 	Gerçekçi olmaması
+Açıkça belirlenmiş problem
+Gerekli tüm bilgiye ulaşma
+Tüm olası alternatifleri göz önünde bulundurma
+Tüm olası sonuçlar hakkında bilgi sahibi olma
+Bilginin doğru işlenmesi
+Belirli ve sabit kriterler
+	Model nasıl karar verilmesi gerektiğini açıklar
+--- Slayt 14 ---
+Sezgise (Yönetsel) Rasyonel Karar Alma Modeli:
+Yöneticilerin gerçekte nasıl karar verdiklerini açıklar
+Rasyonel karar vermeyi engelleyen faktörler:
+	Sınırlı rasyonellik
+Bilişsel yeteneklerin sınırlı olması
+Tüm alternatifleri göz önünde bulundurmak ve
+değerlendirmek çok zor
+Sınırlı bakış açısı
+(algılar, sosyal etki vs.)
+	Zaman ve maliyet kısıtları
+--- Slayt 15 ---
+Sınırlı Rasyonellik (Herbert Simon)
+Sınırlı Rasyonellik: Problemlerin bütün karmaşasını kapsamayan önemli özelliklerini dikkate alan basitleştirilmiş modeller oluşturarak karar verme süreci.
+--- Slayt 16 ---
+Sonuç:	Tatmin edici karar
+Kabul edilebilir
+“Yeteri kadar iyi”
+Karar vermeyi kolaylaştırmak için höristik
+(zihinsel kısayollar) kullanma
+Sezgilere dayanma
+--- Slayt 17 ---
+Nike Inc.’in tepe yöneticileri, Çin’deki
+operasyonları konusunda aldıkları kararlar, sınırlı
+rasyonelliğin limitleri içindedir. Çin’deki
+hızlı büyümeyi ve
+gelecekteki gelişimi
+güçlendirmek için
+Nike, Jiangsu
+kentinde, ayakkabı,
+giysi ve ekipmanları
+depolayacak yeni bir
+dağıtımı merkezi kurma kararı almıştır.
+--- Slayt 18 ---
+Sezgi
+Sezgisel Karar Alma: Deneyimlerimizin dağıtılmasıyla yaratılan bilinçdışı bir süreç.
+Bilgi, tecrübe, geçmiş yaşantı, his, duygu
+--- Slayt 19 ---
+5–19
+Are You More Rational or More Intuitive?
+FIGURE 5.7
+Source: Adapted and reproduced by permission of the Publisher, Psychological Assessment Resources. Inc., Odessa FL 33556, from the Personal Style Inventory by William Taggart, Ph.D., and Barbara Hausladen. Copyright 1991, 1993 by PAR, Inc.
+--- Slayt 20 ---
+Ne Zaman Heuristik?
+Aşırı Bilgi Yükü Olduğunda
+Karar verilmesi gereken bir problemde dikkatli düşünme fırsatı bulunamadığında
+Şans olasılığı olan, çok önemli olmayan ve çok fazla düşünmek istenmediğinde
+Karara ilişkin yeterli bilgiye sahip olunmadığında
+--- Slayt 21 ---
+Karar Almada Sıkça Rastlanan Önyargılar ve Yanılgılar
+Aşırı Güven Yanılgısı
+Bireyin performans ve yeteneklerinin sahip olduklarından daha yüksek düzeyde olduğunu düşünme eğilimidir.
+Düşünsel ve kişiler arası yetenekleri en zayıf olan bireyler, performans ve yeteneklerinin sahip olduklarından daha yüksek düzeyde olduğuna inanmaya en eğilimli gruptur.
+Aşırı güven olgusunun ortaya çıkma ihtimali, şirket elemanlarının kendi uzmanlık alanlarının dışında çalıştıkları zaman daha yüksektir.
+“Yargı ve karar verme konusundaki problemlerin hiçbiri aşırı güven kadar yaygın değildir ve onun kadar felaket sonuçlara yol açma olasılığı taşımaz” denilmektedir.
+--- Slayt 22 ---
+Bir Soru
+Otomobil Kullanıyor musunuz?
+Sürücülük yeteneğinizi diğer otomobil kullananlara oranla nasıl görüyorsunuz?
+A.Ortalama altı
+B.Ortalama
+C.Ortalama üstü
+--- Slayt 23 ---
+Aşırı Güven
+Yapılan bir çalışmada “Ne kadar iyi şoförsünüz?” sorusuna, çoğu insan “çok iyi” cevabı vermiştir (Svenson, 1981).
+Aşırı özgüven eğilimi gösteren yatırımcılar kendilerini ortalamanın üstünde yetenek ve bilgiye sahip olarak görür ve kararlarını bilgiden çok somut ve rasyonel olmayan sezgilerine göre verir.
+--- Slayt 24 ---
+1998’de yeni iş kuran 2994 işletme sahibi girişimciye başarılı olma olasılıkları sorulmuştur. Katılanların
+%81’i başarılı olma şanslarını %70 ve üzeri
+Gerçekte:
+Katılımcıların %75’i işletmelerde başarılı olmamaış ve iflas etmiştir.
+--- Slayt 25 ---
+Temsiliyet Yanılgısı (Representativeness heuristics)
+Temsil sorunu, bireylerin ellerinde olan bilgiden ya da gözlemledikleri örneklere bakarak bütüne mal ettikleri yargılarla ilgilidir.
+Bireyler çeşitli sonuçlara olasılık tayin ederken, kendi tecrübelerinden veya gözlemlerinden yola çıkarlar.
+--- Slayt 26 ---
+Hangi Meslek?
+AVUKAT
+ÖĞRETMEN
+FOTOMODEL
+--- Slayt 27 ---
+Hangi Meslek?
+BEYİN CERRAHI
+FOTOMODEL
+MOTOSİKLET YARIŞÇISI
+--- Slayt 28 ---
+Temsil Edilebilirlik (Representativeness) Heuristiki
+Bir şeyin olasılığı belirgin bir stereotipi ne kadar karşıladığı ya da temsil ettiğine göre yargılama stratejisi.
+Bireyler olasılık tayinlerinde, temsililiği aşırı kullanarak temel oranları reddetme eğilimindedir.
+Suçluya benzeyen biri görüldüğünde, onun suçlu olma olasılığını belirlerken, suçlu insanların yüzdesi bilgisi kullanılmamakta (çok az dikkate alınmakta)
+Uzaktan sarışın bir kimsenin geldiğini gördüğünüzde gözlerini görünceye kadar sarışın mavi gözlü stereotipinden hareketle, onun da mavi gözlü olduğunu düşünmek
+--- Slayt 29 ---
+Temsiliyet Heuristiki
+Mary is quiet, studious, and concerned with social issues. While an undergraduate at Berkeley, she majored in English literature and environmental studies. Given this information, indicate which of the following three cases is most probable.
+A. Mary is a librarian.B. Mary is a librarian and a member of the Sierra Club.C. Mary works in the banking industry.
+--- Slayt 30 ---
+Mevcudiyet-ulaşılabilirlik Yanlılğı (Availability bias)
+Which is more likely cause of death in US?
+killed by traffic accidents
+Stomach cancer
+--- Slayt 31 ---
+Mevcudiyet-ulaşılabilirlik Yanlılğı
+Bir olayın sıklığını zihinde kolay ulaşılabilir bilgiye dayanarak belirleme eğilimi
+Yargılarımızı bulunabilen bilgiyle temellendirme eğilimi.
+Değerlendirmede akla çabuk gelen bilgi (örnekler) kullanılır
+  Yakında olmuş veya aşırı olayların olduğundan daha 	sık meydana geldiğini düşünmeye sebep olabilir
+--- Slayt 32 ---
+Mevcudiyet Yanlılğı (Availability bias)
+Yeni yaşanan deprem olayında deprem sigortası yaptıranların sayısında artış;
+Yakın zamanda trafik kazasına şahit olmuş iseniz, ilk haftalarda o yoldan daha yavaş ve dikkatli geçmek
+--- Slayt 33 ---
+Çıpalama ve Düzeltme Zihinsel Kısayolu (Anchoring and Adjustment Heuristic)
+Telefon numaralarınızın son üç rakamı ?
+Cengiz Han’ın ölüm yılının tahmin ediniz.
+--- Slayt 34 ---
+Çıpalama Yanılgısı (Anchoring Effect)
+Çıpalama yanılgısı, ilk gelen bilgiye takılı kalarak, sonrasında gelen bilgilere yeterli derecede uyum sağlayamama eğilimidir. Bu durum, beynimizin ilk aldığı bilgiye orantısız derecede fazla önem vermesinden kaynaklanır.
+Çıpalar reklamcılar, yöneticiler, politikacılar, emlakçılar ve avukatlar gibi, ikna yeteneklerinin önemli olduğu meslekleri icra eden insanlar tarafından yaygın olarak kullanılır.
+--- Slayt 35 ---
+Bir deneyde insanlara telefon numaralarının son üç rakamını yazmaları istendi.
+Daha sonra da Cengiz Han’ın ölüm yılının tahmin edilmesi istendi.
+Defalarca yapılan bu testte telefon numaraları ölüm yılı arasında yüksek korelasyon tespit edildi.
+Aslında Cengiz han 1162-1227 yılları arasında yaşamış olmasına rağmen, ölüm yılı olarak üç rakamlı 1000 yılından önceki rakamlar verildi
+--- Slayt 36 ---
+Çıpalama Yanılgısı
+Kahneman yaptığı saha deneyinde katılımcılara, “Afrikadaki milletlerin yüzde kaçı Birleşmiş Milletler üyesidir?” sorusunu iki farklı şekilde yöneltmiştir.
+İlk gruba bu soruya ek olarak, “bu oran %10’un altında mıdır, yoksa üstünde midir?” sorusunu sormuş, alınan cevapların ortalamasının %25 olduğu görülmüştür.
+Bir başka deney grubuna, bu oran %65’in altında mı yoksa üstünde mi şeklinde sorulduğunda ise, verilen cevapların ortalamasının %45 olduğu görülmüştür.
+Sorunun içinde belirtilen oranlar (%10 ve %65), katılımcıların çıpası haline gelmiş ve verdikleri cevabı etkilemiştir. Yani konuyla ilgili olmasa bile, sorunun içinde böyle bir oran belirtilmesi bile onların tarafsız bir cevap vermelerini engellemiştir
+--- Slayt 37 ---
+Doğrulama Yanılgısı
+Geçmiş seçimlerimizi doğrulayan bilgiyi arama ve seçimimizle çelişen bilgiyi görmezden gelme eğilimi.
+--- Slayt 38 ---
+Bağlılık Gösterme (Escalation of Commitment)
+Hatalı kararlara zaman, para ve çaba cinsinden daha çok yatırım yapmak
+Neden hatalı kararlara takılıp kalınır?
+Kendini haklı çıkarmak
+Başarısızlığı kabul edememe
+Kararın doğruluğunu kanıtlamaya çalışma
+--- Slayt 39 ---
+Tesadüf Yanılgısı
+İnsanların tesadüfi olarak gerçekleşen olayların sonuçlarını tahmin edebileceklerini düşünme eğilimleri.
+Bu duruma aynı zamanda “kumarbazın yanılgısı” da denmektedir. Bir başka deyişle, bu para on kere atılmış ve onunda da yazı gelmişse, on birinci atılışta tura gelme ihtimalinin daha yüksek olduğu yanılgısı içine düşülür.
+--- Slayt 40 ---
+Riskten Kaçınma
+Kesin olanı riskli olana tercih etme eğilimi.
+Ben Demiştim Yanılgısı
+Olayın sonucu belli olduktan sonra bu sonucu önceden bildiğimize dair yanlış inanç.
+--- Slayt 41 ---
+Karar Almayı Etkileyen Faktörler:Bireysel Farklılıklar ve Örgütsel Kısıtlar
+Bireysel Farklılıklar
+Kişilik ve karar alma üzerinde yapılan az sayıdaki araştırma, kişiliğimizin kararlarımızı etkilediğini göstermiştir.
+Başarı hırsına sahip insanlar bağlılık göstermeye meyilliyken, görev bilinci yüksek insanlar için bu olasılık daha düşüktür.
+Kişilikle ilgili olarak son bir söz de, özgüveni yüksek olan insanların bu güveni yüksek tutmak için yüksek motivasyona sahip olmalarıdır.
+--- Slayt 42 ---
+Cinsiyet: Derin düşünme üzerine yapılan araştırmalar, karar vermede cinsiyet farklılıklarının içyüzünü kavramamıza yardımcı olmuşlardır. Derin düşünme süreye işaret eden bir terimdir.
+Kadınlar karar vermeden önce problemleri aşırı derecede analiz etmeye ve verilmiş bir karar üzerinde tekrar düşünmeye daha meyillidir. Bu eğilim, problemleri daha dikkatlice değerlendirmeyi sağlayabilir.
+--- Slayt 43 ---
+Örgütsel Kısıtlar
+Performans Değerlendirme
+Ödüllendirme Sistemleri
+Resmî Kurallar
+Sistemin Getirdiği Zaman Kısıtları
+Geçmiş Olaylar
+--- Slayt 44 ---
+Karar Alma Sürecinde Etik
+5-44
+Faydacı (Utilitaryan)
+En çok kişiye fayda getirme
+Haklar
+Temel hak ve özgürlüklere göre karar verme. Haklara atfedilen önem, mahremiyet hakkı, ifade özgürlüğü ve kanuni haklar gibi temel insan haklarına saygı duymak ve bunları korumak anlamına gelir.
+Adalet
+Kuralları adil ve eşit bir şekilde gerçekleştirerek gelirin eşit paylaşılması
+--- Slayt 45 ---
+Karar Almada Yaratıcılığı Geliştirmek
+Yaratıcılık: Yeni ve işe yarar fikirler üretebilme yetisi.
+Açıklık testinde yüksek derece alan zeki insanların yaratıcı olma ihtimalleri daha yüksektir. Yaratıcı insanların diğer kişilik özellikleriyse bağımsızlık, kendine güven, risk alma, içsel kontrol, belirsizliği kaldırabilme, yapıya çok fazla gerek duymama ve azimdir.
+--- Slayt 46 ---
+Creativity in Decision Making
+5-46
+--- Slayt 47 ---
+Karar Vermede Yaratıcılık
+5-47
+Yeni ve Faydalı fikirleri üretme yeteneği
+İnsanlara:
+Problemi daha iyi anlamaya
+Başkaların göremediği problemleri görebilme
+Tüm seçenekleri belirlemeye yardım eder
+--- Slayt 48 ---
+Üç Bileşenli Yaratıcılık Modeli
+--- Slayt 49 ---
+--- Slayt 50 ---
+.
+YARATICI PARLAK FİKİRLERE SAHİPTİR!
+--- Slayt 51 ---
+YARATICI İHTİYAÇLARI FARK EDENDİR!
+--- Slayt 52 ---
+Küresel Etkiler
+Araştırmalar, insanların atfetme
+eğilimlerinin kültürlerine göre
+farklılık gösterdiğini söylemektedir. ABD bazlı bir finansal
+hizmet firması olan Lehman Brothers çöktüğünde
+çoğu insan, şirketin
+yönetim kurulu başkanı
+Richard Fuld’u suçlamıştır.
+Fuld’ın aşırı güvenli
+olduğunu, çıpalama
+yanılgısına düştüğünü
+ve karmaşık finansal
+yatırım enstrümanları
+hakkında eksik bilgiye
+sahip olduğunu
+söylemişlerdir.
