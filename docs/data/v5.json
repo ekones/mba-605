@@ -4,7 +4,7 @@
   "title": "Vize Deneme Seti 5",
   "course": "Örgütsel Davranış",
   "createdAt": "2026-11-22",
-  "description": "Bölüm 1–7 ders notlarından üretilmiş 25 çoktan seçmeli soru (her şık harfinde 5 doğru cevap).",
+  "description": "Bölüm 1–5 ders notlarından üretilmiş 25 çoktan seçmeli vize sorusu (her şık harfinde 5 doğru cevap).",
   "questions": [
     {
       "id": "v5-q01",
@@ -13,13 +13,13 @@
       "difficulty": "kolay",
       "question": "Bir çalışanın herhangi bir nedenle işe gelmemesi durumuna 'İş Devamsızlığı' (Absenteeism) denirken; bir çalışanın kuruluştan gönüllü veya gönülsüz olarak kalıcı biçimde ayrılmasına ne ad verilir?",
       "options": [
-        "Olağandışı İş Yeri Davranışı",
         "Personel Devir Oranı (Turnover)",
+        "Olağandışı İş Yeri Davranışı",
         "İş Tatminsizliği",
         "Duygusal Geri Çekilme",
         "Rol Çatışması"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "Devir oranı (Turnover), personelin kuruluştan kalıcı olarak (gönüllü istifa veya çıkarılma) ayrılması durumunu tanımlar.",
       "source": "OB_hafta01 – İş Devamsızlığı ve Devir Oranı"
     },
@@ -31,12 +31,12 @@
       "question": "Günümüzün çağdaş yönetim anlayışında 'İş Yeri Çeşitliliği Yönetimi' konusunda yöneticilerin benimsemesi gereken temel felsefe nedir?",
       "options": [
         "Farklılıkları yok sayıp herkese tamamen tek tip davranmaya çalışmak",
-        "Herkese yüzeysel olarak eşit davranma yaklaşımından ziyade, bu farklılıkları koruyarak kuruma zenginlik ve rekabetçi fayda sağlama anlayışına geçmek",
         "Sadece aynı demografik kökenden gelen çalışanları istihdam etmek",
+        "Herkese yüzeysel olarak eşit davranma yaklaşımından ziyade, bu farklılıkları koruyarak kuruma zenginlik ve rekabetçi fayda sağlama anlayışına geçmek",
         "Azınlık gruplarını yönetim pozisyonlarından uzak tutmak",
         "Kültürel farklılıkları yalnızca yasal bir zorunluluk ve maliyet olarak görmek"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "Yöneticiler herkese tamamen eşit davranma yaklaşımından kayarak, iş gücü çeşitliliğini koruyarak kurumun performansına nasıl fayda getireceklerine odaklanmalıdır.",
       "source": "OB_hafta01 – Çeşitlilik Uygulamaları"
     },
@@ -50,10 +50,10 @@
         "Sezgiler yöneticiler için tamamen faydasızdır ve asla kullanılmamalıdır.",
         "Sistematik çalışma insan davranışının rassal olduğunu varsayar.",
         "Sistematik inceleme sadece muhasebe ve finans alanında kullanılır, insan davranışında uygulanamaz.",
-        "Sezgi ve sistematik çalışma birbirini dışlamaz; aksine sistematik inceleme ve kanıta dayalı yönetim sezgiyi tamamlayarak davranış tahminlerinin kesinliğini artırır.",
-        "Sezgisel kararlar her zaman bilimsel kanıtlardan daha doğru sonuç verir."
+        "Sezgisel kararlar her zaman bilimsel kanıtlardan daha doğru sonuç verir.",
+        "Sezgi ve sistematik çalışma birbirini dışlamaz; aksine sistematik inceleme ve kanıta dayalı yönetim sezgiyi tamamlayarak davranış tahminlerinin kesinliğini artırır."
       ],
-      "answer": 3,
+      "answer": 4,
       "explanation": "ÖD sezgiyi tamamen reddetmez; ancak sistematik çalışma sebep-sonuç ilişkilerini ve bilimsel delilleri kullanarak sezgiyi tamamlar ve öngörü gücünü artırır.",
       "source": "OB_hafta01 – Sistematik İnceleme Sezgiden Farklıdır"
     },
@@ -66,11 +66,11 @@
       "options": [
         "Rasyonel Eleme Modeli",
         "Derin Çeşitlilik Yönetimi",
-        "Adil Olmayan Ayrımcılık ve Kalıp Yargı (Stereotipleme)",
         "Genel Düşünsel Değerlendirme",
+        "Adil Olmayan Ayrımcılık ve Kalıp Yargı (Stereotipleme)",
         "İş-Yaşam Dengesi"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "İnsanlar hakkında bağlı oldukları demografik gruba (yaş, ırk vb.) dayanarak kalıp yargılar üretip buna göre haksız karara varmak 'adil olmayan ayrımcılık'tır.",
       "source": "2. Bölüm – Ayrımcılık"
     },
@@ -81,13 +81,13 @@
       "difficulty": "orta",
       "question": "Ders notlarında yer alan ırk ve etnik köken araştırmalarına göre, işe alımlarda ve terfilerde görülen genel eğilim aşağıdakilerden hangisidir?",
       "options": [
-        "İnsanlar işe alım ve terfilerde kendi ırklarından olanları hafif bir eğilimle de olsa tercih etme eğilimindedirler.",
+        "Kültürel çeşitlilik arttıkça ırk faktörü ilk günden itibaren tamamen önemsizleşir.",
         "Farklı ırklar arasında fırsat eşitliği konusunda hiçbir görüş ayrılığı yoktur.",
         "Afrika kökenli Amerikalılar işle ilgili değerlendirmelerde her zaman beyazlardan daha yüksek puan almaktadır.",
-        "Kültürel çeşitlilik arttıkça ırk faktörü ilk günden itibaren tamamen önemsizleşir.",
+        "İnsanlar işe alım ve terfilerde kendi ırklarından olanları hafif bir eğilimle de olsa tercih etme eğilimindedirler.",
         "İşe alımlarda demografik benzerliğin terfi şansına hiçbir etkisi olmadığı kanıtlanmıştır."
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Notlara göre: 1) İnsanlar kendi ırklarından olanları hafif bir tercihle önceler, 2) Fırsat eşitliğine karşı tutum ırklar arasında farklılaşır, 3) Afrikalı Amerikalılar genelde daha düşük değerlendirilir.",
       "source": "2. Bölüm – Irk ve Etnik Köken"
     },
@@ -118,10 +118,10 @@
         "Bilişsel Unsur",
         "Normatif Unsur",
         "Davranışsal Unsur",
-        "Özgecilik Unsuru",
-        "Duygusal Unsur"
+        "Duygusal Unsur",
+        "Özgecilik Unsuru"
       ],
-      "answer": 4,
+      "answer": 3,
       "explanation": "Duygusal unsur, bir tutumun duygusal hislerle ilgili ('gergin ve mutsuz hissettiriyor') olan parçasıdır.",
       "source": "3. Bölüm – Tutumların Ana Unsurları"
     },
@@ -132,13 +132,13 @@
       "difficulty": "orta",
       "question": "Çalıştığı firmada yönetim krizleri yaşanmasına rağmen hiçbir eleştiride bulunmayan, istifa etmeyi de aklından geçirmeyen ve 'Zamanla her şey yoluna girer, yöneticilerimiz en iyisini bilir' diyerek pasifçe bekleyen bir çalışanın tepkisi nedir?",
       "options": [
-        "Çıkış (Exit)",
-        "Söz Hakkı (Voice)",
         "Sadakat (Loyalty)",
+        "Söz Hakkı (Voice)",
+        "Çıkış (Exit)",
         "İhmal (Neglect)",
         "Örgütsel Sapkınlık"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "Sadakat (Loyalty), koşulların kendiliğinden düzelmesini pasif ve iyimser bir şekilde bekleme yoluyla tatminsizliği ifade etmektir.",
       "source": "3. Bölüm – How Employees Can Express Dissatisfaction"
     },
@@ -166,13 +166,13 @@
       "difficulty": "orta",
       "question": "Örgütsel Vatandaşlık Davranışının alt boyutlarından biri olan ve 'iş yerindeki küçük aksaklıkları, kaçınılmaz sıkıntıları ve rahatsızlıkları sürekli şikayet etmeden ve büyütmeden olgunlukla göğüsleyebilme' tutumuna ne ad verilir?",
       "options": [
-        "Sportmenlik (Sportsmanship)",
         "Özgecilik (Altruism)",
+        "Sportmenlik (Sportsmanship)",
         "Vicdanlılık (Conscientiousness)",
         "Nezaket (Courtesy)",
         "Sivil Erdem (Civic Virtue)"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Sportmenlik (Sportsmanship), iş ortamındaki kaçınılmaz zorluk ve aksilikleri sızlanmadan, şikâyet üretmeden olumlu bir havayla kabul edebilme olgunluğudur.",
       "source": "3. Bölüm – Örgütsel Vatandaşlık Davranışı Boyutları"
     },
@@ -183,13 +183,13 @@
       "difficulty": "orta",
       "question": "Aynı olay karşısında bazı insanların çok sakin kalırken, bazılarının hem sevinci hem de hüznü son derece derin ve çarpıcı şekilde yaşaması hangi bireysel özellikle açıklanır?",
       "options": [
-        "Duygulanım Yoğunluğu (Affect intensity)",
         "Makyavelist Mesafe",
+        "Duygulanım Yoğunluğu (Affect intensity)",
         "Duygusal Uyumsuzluk",
         "Olumluluk Dengesi",
         "Bilişsel Uyum"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Duygulanım yoğunluğu yüksek olan bireyler, aynı duygusal uyaranlar karşısında hem olumlu hem de olumsuz hisleri diğer insanlara göre çok daha yoğun ve güçlü yaşarlar.",
       "source": "4. Bölüm – Duyguların ve Duygu Durumların Kaynakları: Kişilik"
     },
@@ -202,11 +202,11 @@
       "options": [
         "Kadınlar duyguları erkeklerden çok daha yüzeysel ve zayıf yaşarlar.",
         "Erkekler üzüntü ve korkuyu kadınlardan çok daha fazla yüz mimikleriyle dışa vururlar.",
-        "Kadınlar öfke hariç diğer duyguları göstermek adına erkeklerden daha fazla mimik kullanır ve duyguları daha uzun süre tutarlar.",
         "Erkeklerin empati yeteneği kadınlardan biyolojik olarak üstündür.",
+        "Kadınlar öfke hariç diğer duyguları göstermek adına erkeklerden daha fazla mimik kullanır ve duyguları daha uzun süre tutarlar.",
         "Cinsiyetler arasında duygusal tepkilerde hiçbir bilimsel fark bulunmamıştır."
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "Kanıtlar kadınların öfke hariç duygularını açığa vurmada daha başarılı olduğunu, daha fazla mimik kullandığını ve duyguları daha uzun süre muhafaza ettiğini göstermektedir.",
       "source": "4. Bölüm – Duyguların Kaynakları: Cinsiyet"
     },
@@ -217,13 +217,13 @@
       "difficulty": "orta",
       "question": "Duygusal zekânın (DZ) standart IQ zekâsından bağımsız, nörolojik ve biyolojik temelli olduğunu savunan araştırmacıların dayandığı en güçlü kanıt nedir?",
       "options": [
-        "Kaza sonucu beynin duygusal işlem merkezi hasar gören insanların standart zekâ testlerinde normallerle aynı puanı almasına rağmen karar mekanizmalarının çökmesi",
-        "DZ puanlarının her yıl düzenli olarak %10 artması",
         "Sadece matematik eğitimi alanlarda DZ'nin yüksek çıkması",
+        "DZ puanlarının her yıl düzenli olarak %10 artması",
+        "Kaza sonucu beynin duygusal işlem merkezi hasar gören insanların standart zekâ testlerinde normallerle aynı puanı almasına rağmen karar mekanizmalarının çökmesi",
         "DZ'nin yalnızca anketlerle ölçülebilir olması",
         "Duygusal zekânın hiçbir genetik faktör taşımaması"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Beyin hasarı çalışmalarında, duygusal işlem merkezi hasar görenlerin standart IQ testlerinde normallerle aynı skoru alması DZ'nin farklı nörolojik mekanizmalara dayandığını kanıtlar.",
       "source": "4. Bölüm – Duygusal Zekâ Biyolojik Kaynaklıdır"
     },
@@ -236,11 +236,11 @@
       "options": [
         "İhmal Davranışı",
         "Bilişsel Uyumsuzluk",
-        "Yüzeysel Rol",
         "Duygusal Bulaşma (Emotional contagion)",
+        "Yüzeysel Rol",
         "Çıpalama Etkisi"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Duygusal bulaşma, başkalarının duygularını kapma olgusudur; liderin pozitif duyguları doğrudan ekibine bulaşır.",
       "source": "4. Bölüm – Müşteri Hizmetleri & Liderlikte Duygusal Bulaşma"
     },
@@ -252,12 +252,12 @@
       "question": "Myers-Briggs Tipi Gösterge (MBTG) envanterinde bireyleri sınıflandırmak için kullanılan 4 temel boyut çifti aşağıdakilerin hangisinde doğru verilmiştir?",
       "options": [
         "A Tipi / B Tipi, Narsist / Makyavelist, İyimser / Kötümser, Zeki / Duygusal",
-        "Dışadönük/İçedönük, Algısal/Sezgisel, Düşünen/Hisseden, Yargılayan/Kabul eden",
+        "Eril / Dişil, Bireyci / Toplumcu, Güçlü / Zayıf, Cesur / Korkak",
         "Girdi / Çıktı, Süreç / Sonuç, Verimli / Etkin, Lider / Yönetici",
         "Nevrotik / Sakin, Uyulur / Geçimsiz, Sorumlu / Tembel, Açık / Kapalı",
-        "Eril / Dişil, Bireyci / Toplumcu, Güçlü / Zayıf, Cesur / Korkak"
+        "Dışadönük/İçedönük, Algısal/Sezgisel, Düşünen/Hisseden, Yargılayan/Kabul eden"
       ],
-      "answer": 1,
+      "answer": 4,
       "explanation": "MBTI 4 temel boyutta sınıflandırır: D-İ (Dışa/İçedönük), A-S (Algısal/Sezgisel), D-H (Düşünen/Hisseden), Y-K (Yargılayan/Kabul eden).",
       "source": "5. Bölüm – Myers-Briggs Tipi Gösterge"
     },
@@ -287,11 +287,11 @@
       "options": [
         "Yöneticileriyle eşit haklara sahip olduklarını savunur ve kararlara doğrudan ortak olmak isterler.",
         "Otoriter kararlara karşı sürekli grev ve protesto örgütlerler.",
-        "Tüm yöneticilere isimleriyle hitap eder ve resmi unvanları reddederler.",
         "Kurum ve kuruluşlardaki gücün eşit olmayan şekilde dağılmasını doğal kabul eder, otoriteye ve hiyerarşik unvanlara büyük saygı gösterirler.",
+        "Tüm yöneticilere isimleriyle hitap eder ve resmi unvanları reddederler.",
         "Güç hiyerarşisini tamamen ortadan kaldırmaya çalışırlar."
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Yüksek güç mesafesi, toplumun güç ve otoritenin eşitsiz dağılmasını normal kabul etmesi ve hiyerarşiye koşulsuz saygı duymasıdır.",
       "source": "5. Bölüm – Hofstede: Güç Mesafesi"
     },
@@ -314,122 +314,122 @@
     },
     {
       "id": "v5-q19",
-      "chapter": 6,
-      "topic": "Sınırlı Rasyonellik: Herbert Simon",
-      "difficulty": "kolay",
-      "question": "Herbert Simon'a göre sınırlı rasyonellik içinde hareket eden bir yöneticinin temel amacı nedir?",
+      "chapter": 1,
+      "topic": "Kanıta Dayalı Yönetimin Amacı",
+      "difficulty": "orta",
+      "question": "Kanıta Dayalı Yönetim (Evidence-Based Management) yöneticilere temel olarak hangi katkıyı sağlar?",
       "options": [
-        "Mümkün olan mutlak optimal kararı bulmak",
-        "Hiçbir karar vermeden olayların akışını beklemek",
-        "Tüm alternatifleri aylarca bilgisayarla analiz etmek",
-        "Karmaşık problemi basitleştirerek 'tatmin edici' (yeteri kadar iyi / kabul edilebilir) bir çözüme ulaşmak",
-        "Yalnızca diğer rakipleri iflas ettirecek kararlar almak"
+        "Yalnızca muhasebe verilerini ezberletmek",
+        "Tüm personeli işten çıkarıp robotlara geçmek",
+        "Bilimsel araştırmaları tamamen terk edip sadece rüyalara göre karar vermek",
+        "Şirketi iflas ettirmek",
+        "Fikir ve yönetsel kararlarında daha bilimsel ve veriye dayalı olmalarını sağlamak"
       ],
-      "answer": 3,
-      "explanation": "Herbert Simon'a göre sınırlı rasyonellik, karmaşık problemleri basitleştirilmiş modellerle ele alıp optimal yerine 'tatmin edici' (yeteri kadar iyi) karara ulaşmaktır.",
-      "source": "6. Bölüm – Sınırlı Rasyonellik (Herbert Simon)"
+      "answer": 4,
+      "explanation": "Kanıta dayalı yönetim, yöneticilerin fikir ve kararlarında daha bilimsel olmalarını ve kararlarını en iyi bilimsel delillere dayandırmalarını sağlar.",
+      "source": "OB_hafta01 – Kanıta Dayalı Yönetim"
     },
     {
       "id": "v5-q20",
-      "chapter": 6,
-      "topic": "Karar yanılgıları: Çıpalama ve Düzeltme Deneyi",
+      "chapter": 1,
+      "topic": "İş-Yaşam Çatışmaları",
       "difficulty": "orta",
-      "question": "Kahneman'ın Birleşmiş Milletler üyesi Afrika ülkeleri oranını sorduğu deneyde, ilk gruba çarktan %10, ikinci gruba %65 sayısı gösterilmiş; birinci grup ortalama %25, ikinci grup ise %45 tahmininde bulunmuştur. Bu deney neyi kanıtlar?",
+      "question": "Modern iletişim teknolojilerinin (akıllı telefonlar, 7/24 e-posta) yaygınlaşması sonucu iş ile özel yaşam arasındaki sınırların bulanıklaşması örgütlerde neye yol açmıştır?",
       "options": [
-        "Herkesin BM verilerini ezbere bildiğini",
-        "İnsanların konuyla ilgisiz başlangıç sayılarına takılı kalarak kararlarını buna göre ayarladıklarını (Çıpalama Etkisi)",
-        "Deney gruplarının hiçbirinin yanılgıya düşmediğini",
-        "Aşırı güvenin sayısal tahminleri her zaman düzelttiğini",
-        "Temsiliyet heuristiğinin matematiksel oranları sildiğini"
+        "İş-yaşam çatışmalarının ve çalışan stresinin belirgin biçimde artmasına",
+        "Tüm çatışmaların tamamen sona ermesine",
+        "Çalışanların hiç dinlenmeye ihtiyaç duymamasına",
+        "İş devamsızlığının dünya genelinde sıfıra inmesine",
+        "Mesai saatlerinin tamamen kaldırılmasına"
       ],
-      "answer": 1,
-      "explanation": "Deneyde ilgisiz %10 ve %65 sayıları katılımcıların çıpası haline gelmiş ve tarafsız tahmin yapmalarını engelleyerek cevapları o sayıya doğru çekmiştir.",
-      "source": "6. Bölüm – Çıpalama Yanılgısı (Kahneman Deneyi)"
+      "answer": 0,
+      "explanation": "İş ve iş dışı yaşam sınırlarının bulanıklaşması çalışanlarda iş-yaşam çatışmalarına ve yüksek strese neden olmaktadır.",
+      "source": "OB_hafta01 – İşçilere İş-Yaşam Çatışmalarında Yardımcı Olma"
     },
     {
       "id": "v5-q21",
-      "chapter": 6,
-      "topic": "Karar yanılgıları: Riskten Kaçınma (Risk aversion)",
-      "difficulty": "kolay",
-      "question": "Bir yatırımcının kesin olan küçük bir getiriyi, aynı beklenen değere sahip ancak belirsizlik içeren yüksek getirili riskli bir seçeneğe tercih etme eğilimine ne ad verilir?",
+      "chapter": 2,
+      "topic": "Biyografik özellikler: Yaş ve Verimlilik",
+      "difficulty": "orta",
+      "question": "İş yerinde yaşça büyük personelin çalışma performansına ilişkin bilimsel bulgular hakkında hangisi DOĞRUDUR?",
       "options": [
-        "Öz-Denetim",
-        "Kumarbaz Yanılgısı",
-        "Bağlılık Gösterme",
-        "Çıpalama",
-        "Riskten Kaçınma (Risk aversion)"
+        "Yaş arttıkça işe devamsızlık oranı 10 katına çıkar.",
+        "Yaşlanan her çalışan mutlaka ertesi ay tüm yeteneklerini kaybeder.",
+        "Yaşlı personelin eğitim maliyeti her zaman sıfırdır.",
+        "Yaşlı çalışanların personel devir hızları ve devamsızlıkları genellikle daha düşüktür; iş ahlakları ve verimlilikleri yüksektir.",
+        "İş gücünde deneyimin hiçbir artı değeri yoktur."
       ],
-      "answer": 4,
-      "explanation": "Riskten kaçınma (Risk aversion), kesin olan bir sonucu riskli veya belirsiz olana tercih etme eğilimidir.",
-      "source": "6. Bölüm – Riskten Kaçınma"
+      "answer": 3,
+      "explanation": "Home Depot örneğinde de vurgulandığı gibi yaşlı çalışanların devamsızlığı ve devir hızı düşük, iş etiği ve verimliliği yüksektir.",
+      "source": "2. Bölüm – Biyografik Özellikler: Yaş"
     },
     {
       "id": "v5-q22",
-      "chapter": 6,
-      "topic": "Karar sürecinde etik: Adalet kriteri",
-      "difficulty": "orta",
-      "question": "Örgütsel kararlarda kuralların herkese tarafsız, eşit uygulanmasını, menfaatlerin ve maliyetlerin çalışanlar arasında adil ve dengeli biçimde paylaştırılmasını savunan etik kriter hangisidir?",
+      "chapter": 2,
+      "topic": "Engelli Çalışanlar ve Kurumsal Katkı: Microsoft örneği",
+      "difficulty": "kolay",
+      "question": "Ders notlarındaki Microsoft örneğinde, görme engelli Kelly Ford gibi çalışanların istihdam edilmesinin şirkete sağladığı stratejik avantaj nedir?",
       "options": [
-        "Faydacılık",
-        "Haklar Kriteri",
-        "Adalet (Justice) Kriteri",
-        "Sezgisel Kriter",
-        "Bürokratik Kriter"
+        "Ürünlerin ve yazılımların tüm müşterilerin ve engellilerin erişilebilirlik ihtiyaçlarını karşıladığının bizzat test edilip geliştirilmesi",
+        "Yalnızca reklam amacıyla göstermelik istihdam sağlanması",
+        "Teknoloji geliştirmeyi tamamen durdurmak",
+        "Masaüstü bilgisayar üretimini engellemek",
+        "Yazılım geliştirme maliyetlerini sıfırlamak"
       ],
-      "answer": 2,
-      "explanation": "Adalet kriteri, kuralları adil ve eşit bir şekilde işleterek fayda ve külfetin (gelir/maliyet) adilane paylaştırılmasını hedefler.",
-      "source": "6. Bölüm – Karar Alma Sürecinde Etik: Adalet"
+      "answer": 0,
+      "explanation": "Microsoft, engelli çalışanları yazılımların tüm toplum kesimlerine erişilebilir olduğunu test eden değerli bir kıymet olarak görür.",
+      "source": "2. Bölüm – Sakatlık (Microsoft örneği)"
     },
     {
       "id": "v5-q23",
-      "chapter": 7,
-      "topic": "Öz-Yetkinlik Teorisi (Self-Efficacy)",
-      "difficulty": "kolay",
-      "question": "Bir çalışanın belirli bir görevi başarıyla yerine getirebilme yeteneğine ve gücüne olan kişisel inancına ne ad verilir?",
+      "chapter": 3,
+      "topic": "İş Tatmini Bir Kültürel Kavram mı?",
+      "difficulty": "orta",
+      "question": "İş tatmini konusundaki araştırmaların büyük kısmının ABD'de yapılmış olmasına dayanarak 'İş tatmini yalnızca Batı toplumlarına özgü bir kavram mıdır?' sorusuna araştırmalar nasıl yanıt vermiştir?",
       "options": [
-        "Grup Normu",
-        "Makyavelist İnanç",
-        "Dışsal Denetim",
-        "Görev Kimliği",
-        "Öz-Yetkinlik / Öz-Etkililik (Self-Efficacy)"
+        "Evet; Batı dışındaki toplumlarda çalışanların hiçbir iş tatmini hissi yoktur.",
+        "Hayır; diğer kültürlerdeki çalışanlar da iş tatminine ilişkin net yargılar oluşturmakta ve önemsemektedir.",
+        "İş tatmini sadece Japonya'da ölçülebilir.",
+        "Kültürel farklar iş doyumunu tamamen gereksiz kılar.",
+        "İş tatmini sadece zengin ülkelerde ortaya çıkan bir hastalıktır."
       ],
-      "answer": 4,
-      "explanation": "Öz-yetkinlik (Self-efficacy), Albert Bandura'ya göre kişinin bir görevi başarıyla yapabilme kapasitesine ilişkin kendi inancıdır.",
-      "source": "7. Bölüm – Öz Yetkinlik Teorisi"
+      "answer": 1,
+      "explanation": "Kanıtlar güçlü şekilde göstermektedir ki iş tatmini sadece Amerikan kavramı değildir; tüm kültürlerde çalışanlar iş tatmini yargıları oluşturur.",
+      "source": "3. Bölüm – Küresel Etkiler: İş Tatmini Bir ABD Kavramı mı?"
     },
     {
       "id": "v5-q24",
-      "chapter": 7,
-      "topic": "İş Karakteristikleri: Görevin Kimliği (Task Identity)",
+      "chapter": 4,
+      "topic": "Duygusal Zekâya Karşıt Görüşler: Ölçüm Sorunu",
       "difficulty": "orta",
-      "question": "İş Karakteristikleri Modelinde (JCM), bir işin başından sonuna kadar görünür ve tanımlanabilir bir parçasının ya da bütününün tek bir çalışan tarafından tamamlanmasına imkân tanıması hangi boyuttur?",
+      "question": "Duygusal zekâ (DZ) kavramını eleştiren akademisyenlerin öne sürdüğü en temel argüman aşağıdakilerden hangisidir?",
       "options": [
-        "Yetenek Çeşitliliği",
-        "Özerklik",
-        "Görevin Önemi",
-        "Görevin Kimliği (Task Identity)",
-        "Geribildirim"
+        "Duygusal zekâlı insanların iş hayatında her zaman başarısız olması",
+        "Kavramın çok geniş ve belirsiz olması, nesnel olarak ölçülmesinin zorluğu ve kişilik özellikleri kontrol edildiğinde ayırt edici gücünün zayıflaması",
+        "DZ'nin sadece tıp doktorlarında bulunması",
+        "Duyguların beyinle hiçbir ilgisinin olmaması",
+        "Duygusal zekânın sadece hayvanlarda ölçülebilmesi"
       ],
-      "answer": 3,
-      "explanation": "Görevin kimliği (Task Identity), işin belirli bir parçasını ya da tamamını baştan sona tamamlayarak somut bir çıktı üretmeye imkân sağlama derecesidir.",
-      "source": "7. Bölüm – İş Karakteristikleri Modeli (Görevin Kimliği)"
+      "answer": 1,
+      "explanation": "Eleştirmenler DZ'nin çok belirsiz bir şemsiye kavram olduğunu, güvenilir ölçümünün zor olduğunu ve kişilik kontrol edildiğinde fazladan açıklayıcılığının sorgulandığını belirtir.",
+      "source": "4. Bölüm – Duygusal Zekâya Karşıt Görüşler"
     },
     {
       "id": "v5-q25",
-      "chapter": 7,
-      "topic": "Alternatif Çalışma Düzenleri: Esnek Zaman ve Görev Paylaşımı",
+      "chapter": 5,
+      "topic": "Kişilik: Kalıtım ve Biyolojik Yaratılış",
       "difficulty": "orta",
-      "question": "Haftada 40 saatlik geleneksel tek bir tam zamanlı işin, iki veya daha fazla çalışan tarafından bölünerek paylaşılması uygulamasına ne ad verilir?",
+      "question": "Bir bireyin ana rahmine düşüş sırasında genetik olarak belirlenen biyolojik, fizyolojik ve doğuştan gelen psikolojik yaratılışına ne ad verilir?",
       "options": [
-        "İş Rotasyonu",
-        "Görev Paylaşımı (Job Sharing)",
-        "Esnek Zaman (Flextime)",
-        "Evden Çalışma (Telecommuting)",
-        "İş Zenginleştirme"
+        "Sosyal Rol",
+        "Kalıtım (Heredity)",
+        "Örgütsel Destek",
+        "Normatif Bağ",
+        "Yüzeysel Çeşitlilik"
       ],
       "answer": 1,
-      "explanation": "Görev paylaşımı (Job Sharing), iki ya da daha fazla bireyin geleneksel 40 saatlik tek bir işi ve sorumluluklarını aralarında bölüşmeleridir.",
-      "source": "7. Bölüm – Alternatif Çalışma Düzenleri (Görev Paylaşımı)"
+      "explanation": "Kalıtım, ana rahmine düşüş anında belirlenen genetik, biyolojik ve fizyolojik yaratılış faktörleridir.",
+      "source": "5. Bölüm – Kalıtım"
     }
   ]
 }

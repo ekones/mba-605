@@ -29,7 +29,7 @@ Her "soruları üret" isteğinde **önceki setlerde olmayan 25 yeni soru** içer
      (yaklaşık en az %40 senaryo).
    - Her soruda **tam 5 şık** (A–E), tek doğru cevap; çeldiriciler aynı bölümden makul kavramlar olsun.
    - **Cevap dağılımı dengeli:** her harf (A, B, C, D, E) tam 5 kez doğru cevap olsun.
-   - Bölüm dağılımı: 7 bölümün hepsinden soru (bölüm başına 3–4).
+   - Bölüm dağılımı: Vize kapsamındaki 5 bölümün hepsinden eşit soru (Bölüm 1'den 5'e kadar her birinden 5'er soru).
    - Zorluk karışımı: yaklaşık 6 kolay, 15 orta, 4 zor.
    - "Hepsi / hiçbiri" şıklarından kaçın. Olumsuz köklerde "DEĞİLDİR / YER ALMAZ" büyük harfle yazılsın.
    - Her soruya notlara dayanan kısa bir `explanation` ve slayt/başlık bilgisi içeren `source` ekle.
