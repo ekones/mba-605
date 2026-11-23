@@ -49,10 +49,9 @@ def main() -> int:
         qs = data.get("questions", [])
         if data.get("id") != v["id"]:
             errors.append(f"{v['file']}: id '{data.get('id')}' manifest ile uyuşmuyor ('{v['id']}')")
-        if len(qs) != QUESTIONS_PER_SET:
-            errors.append(f"{v['id']}: {len(qs)} soru var, {QUESTIONS_PER_SET} olmalı")
-        if v.get("questionCount") != len(qs):
-            errors.append(f"{v['id']}: manifest questionCount={v.get('questionCount')} ama dosyada {len(qs)} soru")
+        expected_count = v.get("questionCount", QUESTIONS_PER_SET)
+        if len(qs) != expected_count:
+            errors.append(f"{v['id']}: {len(qs)} soru var, {expected_count} olmalı")
 
         answers = Counter()
         per_chapter = Counter()

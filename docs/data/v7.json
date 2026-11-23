@@ -1,0 +1,316 @@
+{
+  "id": "v7",
+  "version": 7,
+  "title": "Vize Deneme Seti 7",
+  "course": "Örgütsel Davranış",
+  "createdAt": "2026-11-23",
+  "description": "Örgütsel Davranış vize deneme soruları ve detaylı çözümleri (18 soru).",
+  "questions": [
+    {
+      "id": "v7-q01",
+      "chapter": 1,
+      "topic": "Örgütsel Davranışın Tanımı",
+      "difficulty": "kolay",
+      "question": "Aşağıdakilerden hangisi örgütsel davranışı en iyi şekilde tanımlar?",
+      "options": [
+        "Toplu pazarlık için bir araya gelen insan gruplarının çalışmasını içerir.",
+        "Birey ve grupların örgüt içindeki davranışlarını ve bu davranışların işletmeyi nasıl etkilediğini incelemeyi içerir.",
+        "Bir sektördeki farklı bireyleri analiz etmeyi içerir.",
+        "Örgüt içerisinde konusunda yetkin üst düzey çalışanlar oluşturmayı hedefler.",
+        "Çevresel faktörlerden etkilenmeyen bir çalışma alanıdır."
+      ],
+      "answer": 1,
+      "explanation": "Örgütsel Davranış (Organizational Behavior); örgüt içindeki birey ve grup davranışlarını ve bu davranışların işletme/örgüt performansı üzerindeki etkilerini inceleyen bir disiplindir.",
+      "source": "Soru 1 · OB_hafta01"
+    },
+    {
+      "id": "v7-q02",
+      "chapter": 2,
+      "topic": "Yüzeysel Çeşitlilik",
+      "difficulty": "orta",
+      "question": "ABC şirketi geçtiğimiz günlerde şirketin Denizli'deki yeni inşaat fabrikası için çok sayıda işçiyi işe almıştır. İşe alım sürecinde yönetim, fiziksel olarak güçlü kişileri işe almak için çaba sarf etmiştir; çünkü fabrikadaki işler el emeği içermektedir. İşlerin uzun saatler boyunca ve kaliteli yapılabilmesi için, enerjiye ve fiziksel dayanıma sahip kişiler tarafından yapılması gerekmektedir. Bu durumda bu işletmenin, çalışanların seçiminde aşağıdaki yüzeysel çeşitliliklerden hangisine yoğunlaştığını söyleyebiliriz?",
+      "options": [
+        "Yaş",
+        "Değerler",
+        "Din",
+        "İnançlar",
+        "Kişilik"
+      ],
+      "answer": 0,
+      "explanation": "Yüzeysel çeşitlilik (surface-level diversity); yaş, cinsiyet, ırk ve fiziksel yetenekler gibi doğrudan ve kolayca gözlemlenebilen demografik özelliklerdir. Değerler, din, inançlar ve kişilik ise derinlemesine çeşitlilik (deep-level diversity) kapsamındadır. Seçeneklerde yüzeysel çeşitlilik niteliği taşıyan tek unsur Yaş'tır.",
+      "source": "Soru 2 · 2. Bölüm Slayt 5"
+    },
+    {
+      "id": "v7-q03",
+      "chapter": 3,
+      "topic": "İş Tatmini ve İşe Katılım Tutumları",
+      "difficulty": "zor",
+      "question": "Zeynep, yayıncılık sektöründe çalışan ve umut vadeden yazarlar arayan bir editördür. Son yıllarda yalnızca işlerini çok beğendiği yazarlarla çalışmaya başlamıştır. Metin düzenlemelerine büyük katkılar sağladığı yazarları, çalıştığı yayınevine önermiştir. Ancak, yayınevi önerilen hiçbir yazarın eserini basmayı kabul etmemiştir. Zeynep, bu durumun yazarların ve eserlerinin kalitesinden değil, yönetim içindeki rekabetten kaynaklandığına inanmaktadır. Bu nedenle hayal kırıklığı yaşayan Zeynep, sabahları işe gelmekte zorlanmakta ve ciddi ciddi istifa etmeyi düşünmektedir. Zeynep'in işle ilgili tutumları en doğru hangi şekilde ifade edilebilir?",
+      "options": [
+        "yüksek iş tatmini – düşük işe katılım",
+        "yüksek iş tatmini – yüksek işe katılım",
+        "düşük iş tatmini – düşük işe katılım",
+        "düşük örgütsel bağlılık",
+        "düşük iş tatmini – yüksek işe katılım"
+      ],
+      "answer": 4,
+      "explanation": "Zeynep işini büyük bir özenle yapmakta, yazarlarla derinlemesine ilgilenip metinleri geliştirmekte ve işiyle psikolojik olarak özdeşleşmektedir (yüksek işe katılım). Ancak yayınevi yönetiminin tutumu sebebiyle hayal kırıklığına uğramış, sabahları işe gelmekte zorlanmakta ve istifayı düşünmektedir (düşük iş tatmini). Dolayısıyla tutumu 'düşük iş tatmini – yüksek işe katılım'dır.",
+      "source": "Soru 3 · 3. Bölüm"
+    },
+    {
+      "id": "v7-q04",
+      "chapter": 3,
+      "topic": "Örgütsel Vatandaşlık Davranışı",
+      "difficulty": "kolay",
+      "question": "Selin işe yeni giren Kerem'i hem işine hem de işyerine alıştırmak için görevi olmadığı halde büyük gayret göstermektedir. Selin'in bu davranışı aşağıdaki hangi kavramla açıklanabilir?",
+      "options": [
+        "Örgütsel vatandaşlık",
+        "Örgütsel bağlılık",
+        "Sosyal vatandaşlık",
+        "Duygusal emek",
+        "İşe bağlılık"
+      ],
+      "answer": 0,
+      "explanation": "Resmi görev tanımında yer almadığı halde, bir çalışanın yeni işe başlayan birine işi ve iş yerini öğretmek gibi gönüllü ve örgüte katkı sağlayan davranışlar sergilemesi 'Örgütsel Vatandaşlık Davranışı'dır (ÖVD).",
+      "source": "Soru 4 · 3. Bölüm"
+    },
+    {
+      "id": "v7-q05",
+      "chapter": 3,
+      "topic": "Tutum Tanımı",
+      "difficulty": "kolay",
+      "question": "Bireylerin belirli bir nesne, obje ya da olaylara karşı değerlendirici ifadelerine ......... denir.",
+      "options": [
+        "algı",
+        "tutum",
+        "kişilik",
+        "dikkat",
+        "mod"
+      ],
+      "answer": 1,
+      "explanation": "Tutumlar (Attitudes); nesneler, insanlar veya olaylar hakkında lehte ya da aleyhte verilen değerlendirici ifadeler veya yargılardır.",
+      "source": "Soru 5 · 3. Bölüm Slayt 4"
+    },
+    {
+      "id": "v7-q06",
+      "chapter": 3,
+      "topic": "Bilişsel Uyumsuzluk / Bilişsel Çelişki",
+      "difficulty": "zor",
+      "question": "Bilişsel uyumsuzluk konusunda aşağıdaki ifadelerden hangisi doğru değildir?",
+      "options": [
+        "Karar sonrası durumu açıklar.",
+        "Bireyler kendi kontrolleri altında çelişkiyi azaltmak için daha az çaba sarfeder.",
+        "Birey bilişsel uyumsuzluk sonrası davranışını değiştirebilir.",
+        "Birey bilişsel uyumsuzluk sonrası hissettiği tutarsızlığın önemini azaltabilir.",
+        "Birey bilişsel uyumsuzluk sonrası tutum ve davranışını destekleyecek yeni bilgiler elde edebilir."
+      ],
+      "answer": 1,
+      "explanation": "Festinger'ın Bilişsel Çelişki Teorisine göre, bireyler çelişkiyi yaratan durumun kendi kontrolleri altında olduğunu düşündüklerinde çelişkiyi azaltmak için DAHA ÇOK çaba sarfederler. Kontrolleri dışında olduğunda (dışsal baskı varsa) daha az çaba gösterirler. Bu yüzden 'daha az çaba sarfeder' ifadesi yanlıştır.",
+      "source": "Soru 6 · 3. Bölüm Slayt 15-16"
+    },
+    {
+      "id": "v7-q07",
+      "chapter": 3,
+      "topic": "Algılanan Örgütsel Destek",
+      "difficulty": "orta",
+      "question": "............................, çalışanların örgütlerinin onların katkılarına değer verdiğine ve onların iyiliğini düşündüğüne inanma dereceleri.",
+      "options": [
+        "psikolojik güçlendirme",
+        "Örgütsel güçlendirme",
+        "Örgütsel destek algısı",
+        "işe sarılma",
+        "Örgütsel bağlılık"
+      ],
+      "answer": 2,
+      "explanation": "Algılanan Örgütsel Destek (Örgütsel Destek Algısı / POS); çalışanların örgütün onların katkılarına değer verdiğine ve esenliklerini/iyiliklerini önemsediğine dair inanç düzeyidir.",
+      "source": "Soru 7 · 3. Bölüm"
+    },
+    {
+      "id": "v7-q08",
+      "chapter": 3,
+      "topic": "Örgütsel Bağlılık",
+      "difficulty": "orta",
+      "question": "Örgütsel bağlılık, ....................",
+      "options": [
+        "Bir çalışanın kendini belirli bir örgütle ve onun amaçlarıyla özdeşleştirme ve onun üyesi olarak kalma isteğinin derecesi",
+        "Çalışanların çalışmalarının kuruluşlarını önemli ölçüde etkilediğine inanma derecesi",
+        "Aktif olarak işine katılma ve kendilik değeri için performansın önemli olduğunu düşünme derecesi",
+        "Çalışanların kendi iş çevrelerini ne derece etkilediklerine dair inançları",
+        "İşine karşı olumlu hisleri"
+      ],
+      "answer": 0,
+      "explanation": "Örgütsel bağlılık; çalışanın kendisini belirli bir örgütle ve onun amaçlarıyla özdeşleştirmesi ve örgütteki üyeliğini sürdürme/kalma arzusudur.",
+      "source": "Soru 8 · 3. Bölüm"
+    },
+    {
+      "id": "v7-q09",
+      "chapter": 3,
+      "topic": "Ücret ve İş Tatmini İlişkisi",
+      "difficulty": "orta",
+      "question": "Ücret ve iş tatmini arasındaki ilişki düşünüldüğünde aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Gelişmemiş ülkeler için ücret iş tatmini ile ilişkili değildir.",
+        "Maaş ve ikramiyeler fakir ülkelerdeki çalışanların genel mutluluğunda herhangi bir rol oynamamaktadır.",
+        "Bireyler belirli bir yaşam standardına eriştikleri zaman, ücret iş tatmini için kritik değildir.",
+        "Yaşam standardından bağımsız olarak ücret her zaman iş tatminini arttırır.",
+        "Yüksek ücret yüksek örgütsel bağlılık yaratır."
+      ],
+      "answer": 2,
+      "explanation": "Araştırmalar, bireyler temel gereksinimlerini karşılayıp kabul edilebilir bir yaşam standardına ulaştıktan sonra, para ile iş tatmini arasındaki ilişkinin neredeyse tamamen ortadan kalktığını (kritik olmadığını) göstermektedir.",
+      "source": "Soru 9 · 3. Bölüm"
+    },
+    {
+      "id": "v7-q10",
+      "chapter": 5,
+      "topic": "Hofstede Erillik ve Dişillik Boyutu",
+      "difficulty": "orta",
+      "question": "Hofstede'nin erillik - dişillik boyutu göz önüne alındığında aşağıdakilerin hangisi eril (maskülen) boyut özellikleri arasında yer almamaktadır?",
+      "options": [
+        "Anne-baba sorunlarla eşit ilgilenmelidir",
+        "Toplumdaki hakim olan değer maddiyat, rekabet ve ilerlemedir.",
+        "Güçlüye sempati duyulur.",
+        "Bireyler çalışmak için yaşar.",
+        "Para ve nesneler önemlidir."
+      ],
+      "answer": 0,
+      "explanation": "'Anne-baba sorunlarla eşit ilgilenmelidir' ifadesi, cinsiyet rollerinin eşitlendiği ve insani ilişkilere odaklanılan Dişil (feminine) kültürlerin özelliğidir. Eril kültürlerde ise rekabet, maddiyat ve çalışmak için yaşama anlayışı hâkimdir.",
+      "source": "Soru 10 · 5. Bölüm Slayt 40"
+    },
+    {
+      "id": "v7-q11",
+      "chapter": 4,
+      "topic": "Cinsiyet ve Duygular",
+      "difficulty": "zor",
+      "question": "Aşağıdaki ifadelerden hangisi duygusal tepkilere ilişkin olarak kadınlarla erkekler arasındaki farklılıklar konusunda doğrudur?",
+      "options": [
+        "Erkekler duygularını daha fazla açığa vururlar.",
+        "Erkekler duygularını kadınlardan daha yoğun yaşarlar.",
+        "Kadınlar kızgınlıklarını daha sıklıkla belli eder.",
+        "Kadınlar duygularına daha uzun süre tutunurlar.",
+        "Erkekler olumsuz duygularını daha sıklıkla ifade ederler."
+      ],
+      "answer": 3,
+      "explanation": "4. Bölüm Slayt 22'deki notlara göre: 'Kanıtlar, kadınların duygularını açığa vurmada erkeklerden daha başarılı olduğunu; duyguları erkeklerden daha yoğun yaşadıklarını; duygulara erkeklerden daha uzun süre tutunduklarını göstermektedir.'",
+      "source": "Soru 11 · 4. Bölüm Slayt 22"
+    },
+    {
+      "id": "v7-q12",
+      "chapter": 4,
+      "topic": "Duygusal Emek",
+      "difficulty": "kolay",
+      "question": "Aslıhan, İstanbul'daki beş yıldızlı lüks bir otelde misafir ilişkileri yöneticisi olarak çalışmaktadır. Mesleği boyunca, durumuna bakılmaksızın konukları selamlaması ve gülümsemesi bekleniyor. Ayrıca, herhangi bir misafir sorunla karşılaştığında, Aslıhan'ın sakin olması ve sorunların halledilmesine yardımcı olması gerekiyor. Bu durum Aslıhan'ın işinin hangi özelliğine vurgu yapmaktadır?",
+      "options": [
+        "duygusal emek",
+        "bilişsel çelişki",
+        "sosyal kaytarma",
+        "işe sarılma",
+        "olumlu duygulanım"
+      ],
+      "answer": 0,
+      "explanation": "Çalışanın iş esnasında kurumun belirlediği kurallar ve beklentiler doğrultusunda belirli duyguları (güleryüz, sakinlik vb.) sergilemesi 'Duygusal Emek' (Emotional Labor) olarak adlandırılır.",
+      "source": "Soru 12 · 4. Bölüm Slayt 24"
+    },
+    {
+      "id": "v7-q13",
+      "chapter": 4,
+      "topic": "Duygusal Olaylar Teorisi",
+      "difficulty": "orta",
+      "question": "Aşağıdaki ifadelerden hangisi Duygusal Olaylar Teorisi ile ilişkilidir?",
+      "options": [
+        "Çalışanlar iş tatminlerini ve iş performanslarını etkileyen olaylara duygusal tepki verirler.",
+        "Duygusal denge puanları yüksek çalışanların olumsuz olaylara tepki verme eğilimleri daha yüksektir.",
+        "Bilişsel çelişki yaşayan çalışanlar sadece para ile motive olabilirler.",
+        "Bireylerin duyguları yaşları ve cinsiyetlerden bağımsızdır.",
+        "Dışa dönük çalışanların iş performansları daha yüksektir."
+      ],
+      "answer": 0,
+      "explanation": "Duygusal Olaylar Teorisi (Affective Events Theory - AET / DOT); çalışanların iş ortamında karşılaştıkları olaylara verdikleri duygusal tepkileri ve bu tepkilerin çalışanların iş tatmini ile iş performansını nasıl etkilediğini açıklayan modeldir.",
+      "source": "Soru 13 · 4. Bölüm Slayt 28"
+    },
+    {
+      "id": "v7-q14",
+      "chapter": 4,
+      "topic": "Duygusal Zekâ Karşıtı Argümanlar",
+      "difficulty": "zor",
+      "question": "Aşağıdakilerden hangisi duygusal zekaya karşı kullanılan bir argümandır?",
+      "options": [
+        "Duygusal Zeka, genetik faktörlerden etkilenmez ve bu nedenle altta yatan biyolojik faktörler geçersizdir.",
+        "Önemli kriterleri tahmin etme kapasitesine sahip değildir.",
+        "Deneyimle geliştirilebilinir.",
+        "Kolay ölçülemez ve ölçümleri çeşitlilik gösterir.",
+        "IQ ve kişilikle ilişkili değildir."
+      ],
+      "answer": 3,
+      "explanation": "Duygusal zekâ eleştirilerinde öne çıkan en güçlü argüman, kavramın net bir sınırının olmaması ve geçerli biçimde kolayca ölçülememesidir. Araştırmacılar ölçütlerin çok çeşitli ve tutarsız olduğunu savunmaktadır.",
+      "source": "Soru 14 · 4. Bölüm Slayt 38-40"
+    },
+    {
+      "id": "v7-q15",
+      "chapter": 5,
+      "topic": "Belirsizlikten Kaçınma / Belirsizlik Toleransı",
+      "difficulty": "orta",
+      "question": "Emel bir olayın en başından sonunu bilmek istiyor. Bir karar vermeden önce olabildiğince bilgi toplar. Emel muhtemelen ___________ bir kültürde yaşamaktadır.",
+      "options": [
+        "güç mesafesi yüksek",
+        "belirsizlik toleransı düşük",
+        "gelecek odaklı",
+        "yüksek performans odaklı",
+        "insani odaklı"
+      ],
+      "answer": 1,
+      "explanation": "Belirsizlik toleransı düşük olan kültürlerde (yüksek belirsizlikten kaçınma), bireyler öngörülemezlik ve belirsizlikten rahatsızlık duyarlar. Karar vermeden önce tüm olası detayları bilmek ve geniş kapsamlı bilgi toplayarak belirsizliği en aza indirmek isterler.",
+      "source": "Soru 15 · 5. Bölüm Slayt 41"
+    },
+    {
+      "id": "v7-q16",
+      "chapter": 3,
+      "topic": "Tutumun Bilişsel Bileşeni",
+      "difficulty": "orta",
+      "question": "\"Et yiyen ve hayvan hakları için savaşan kişi çifte standart sergiliyor\" ifadesi, bir tutumun _________ bileşenini oluşturur.",
+      "options": [
+        "bilişsel",
+        "duygusal",
+        "yansıtıcı",
+        "davranışsal",
+        "reaktif"
+      ],
+      "answer": 0,
+      "explanation": "Tutumun bilişsel bileşeni (cognitive component); bir konuya ilişkin inançları, düşünceleri, fikirleri ve değerlendirmeleri içerir. Bir kişinin tutumunda çifte standart olduğuna dair bir yargı ve kanaat belirtmek bilişsel bileşendir.",
+      "source": "Soru 18 · 3. Bölüm Slayt 6"
+    },
+    {
+      "id": "v7-q17",
+      "chapter": 3,
+      "topic": "Tutumun Davranışsal Bileşeni",
+      "difficulty": "orta",
+      "question": "Birim amiri Nermin Hanım, biriminde çalışan bir astının ilerleme raporunu değerlendirmiştir. Şimdi de astına, onun gerçekleştiremediği hedefleri ve bunları nasıl daha iyiye çıkarabileceğine ilişkin bilgi vermeyi planlamaktadır. Bunu yaparak, Nermin hanım, bir tutumun hangi bileşenini göstermek istemiştir?",
+      "options": [
+        "bilişsel",
+        "duygusal",
+        "yansıtıcı",
+        "davranışsal",
+        "reaktif"
+      ],
+      "answer": 3,
+      "explanation": "Tutumun davranışsal bileşeni (behavioral component); bir kimseye veya duruma karşı belirli bir şekilde davranma eğilimini, planını veya niyetini kapsar. Nermin Hanım'ın astına geribildirim ve bilgi vermeyi planlaması ve bu eyleme yönelmesi davranışsal bileşeni ifade eder.",
+      "source": "Soru 19 · 3. Bölüm Slayt 6"
+    },
+    {
+      "id": "v7-q18",
+      "chapter": 5,
+      "topic": "A Tipi Kişilik Özellikleri",
+      "difficulty": "orta",
+      "question": "Aşağıdakilerden hangisi A tipi kişilik özelliklerinden olmaz?",
+      "options": [
+        "Pek çok işi halletmeye dair güçlü bir ihtiyaç duymak",
+        "Diğerlerinin sözünü kesmek",
+        "Uyumlu bir takım elemanı olmak",
+        "Hiçbirşey yapmamaktan rahatsız olmak",
+        "Zaman baskısı altında stres hissetmek"
+      ],
+      "answer": 2,
+      "explanation": "A tipi kişilik özellikleri; aşırı rekabetçilik, sabırsızlık, sürekli zaman darlığı hissi, çoklu iş yapma arzusu ve diğerlerinin konuşmasını kesmedir. Uyumlu, sakin ve uzlaşmacı bir takım elemanı olmak A tipi değil, B tipi veya yüksek uyumluluk gösteren kişiliklerin özelliğidir.",
+      "source": "Soru 20 · 5. Bölüm"
+    }
+  ]
+}
