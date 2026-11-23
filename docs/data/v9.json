@@ -1,0 +1,435 @@
+{
+  "id": "v9",
+  "version": 9,
+  "title": "Vize Deneme Seti 9",
+  "course": "Örgütsel Davranış",
+  "createdAt": "2026-11-23",
+  "description": "Robbins ve Judge Örgütsel Davranış Pearson test bankası kaynaklı vize deneme seti (25 çoktan seçmeli soru).",
+  "questions": [
+    {
+      "id": "v9-q01",
+      "chapter": 1,
+      "topic": "Robert Katz Yönetim Becerileri: Kavramsal Beceriler",
+      "difficulty": "orta",
+      "question": "Bir holdingin tepe yöneticisi şirketin karmaşık pazar koşullarındaki risk ve fırsatlarını bütüncül olarak analiz etmekte, departmanlar arası karşılıklı bağımlılıkları kavramakta ve şirketin geleceğini şekillendirecek stratejik vizyon kararları almaktadır. Robert Katz'ın yönetim becerileri kuramına göre bu yöneticinin sergilediği temel beceri türü hangisidir?",
+      "options": [
+        "Teknik beceri",
+        "Beşeri beceri",
+        "Kavramsal beceri",
+        "Politik beceri",
+        "Operasyonel beceri"
+      ],
+      "answer": 2,
+      "explanation": "Kavramsal beceriler; yöneticinin organizasyonu bir bütün olarak görebilme, karmaşık ve soyut durumları analiz edebilme ve stratejik kararlar üretebilme zihinsel kapasitesidir.",
+      "source": "Robbins & Judge Bölüm 1 · Katz Yönetim Becerileri"
+    },
+    {
+      "id": "v9-q02",
+      "chapter": 1,
+      "topic": "Kanıta Dayalı Yönetim",
+      "difficulty": "kolay",
+      "question": "Yöneticilerin kurumsal kararlarını alırken sübjektif kanaatler, kökleşmiş alışkanlıklar veya popüler yönetim modaları yerine bilimsel araştırmalara, toplanan sistematik verilere ve ampirik kanıtlara dayanmasını savunan çağdaş yönetim yaklaşımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Kanıta dayalı yönetim",
+        "Klasik yönetim yaklaşımı",
+        "Sezgisel karar verme",
+        "Bürokratik yönetim",
+        "Geleneksel yönetim"
+      ],
+      "answer": 0,
+      "explanation": "Kanıta dayalı yönetim (Evidence-Based Management - EBM); yönetsel kararların eldeki en sağlam ve geçerli bilimsel kanıtlarla desteklenerek alınması sürecidir.",
+      "source": "Robbins & Judge Bölüm 1 · Kanıta Dayalı Yönetim"
+    },
+    {
+      "id": "v9-q03",
+      "chapter": 1,
+      "topic": "Örgütsel Vatandaşlık Davranışı Özellikleri",
+      "difficulty": "zor",
+      "question": "Robbins ve Judge modelinde ele alınan Örgütsel Vatandaşlık Davranışları (ÖVD) ile ilgili aşağıdaki ifadelerden hangisi bilimsel açıdan YANLIŞTIR?",
+      "options": [
+        "Çalışanın resmi görev tanımının ötesine geçen gönüllü çabaları kapsar.",
+        "Örgütün sosyal ve psikolojik iklimini güçlendirerek verimliliği destekler.",
+        "İş arkadaşlarına yardım etme ve yapıcı öneriler geliştirme eylemlerini içerir.",
+        "Yüksek düzeyde sergilendiğinde genel örgüt performansını pozitif yönde etkiler.",
+        "Çalışanın iş sözleşmesinde açıkça yazılı olan ve yerine getirilmesi zorunlu resmi görev şartıdır."
+      ],
+      "answer": 4,
+      "explanation": "Örgütsel vatandaşlık davranışları resmi görev tanımında yazılı olmayan, yerine getirilmesi sözleşmeyle zorunlu tutulmayan ve cezalandırılmayan gönüllü ve isteğe bağlı eylemlerdir.",
+      "source": "Robbins & Judge Bölüm 1 · Örgütsel Vatandaşlık Davranışı"
+    },
+    {
+      "id": "v9-q04",
+      "chapter": 1,
+      "topic": "ÖD Katkı Veren Disiplinler: Antropoloji",
+      "difficulty": "orta",
+      "question": "İnsanların toplumları, gelenekleri ve kültürleri arasındaki farklılıkları inceleyerek; farklı ülkelerdeki çalışma değerlerini, kurum kültürünün oluşumunu ve ulusal kültürler arası etkileşimleri anlamada örgütsel davranışa temel teorik çerçeveyi sunan disiplin hangisidir?",
+      "options": [
+        "Psikoloji",
+        "Antropoloji",
+        "Sosyoloji",
+        "Ekonomi",
+        "Ergonomi"
+      ],
+      "answer": 1,
+      "explanation": "Antropoloji; toplumları ve kültürleri inceleyen bilim dalıdır. Örgütsel davranışa temel katkısı örgüt kültürü, örgütsel ortam ve farklı ülkeler arasındaki kültürel değer farklılıklarını açıklamaktır.",
+      "source": "Robbins & Judge Bölüm 1 · Katkıda Bulunan Disiplinler"
+    },
+    {
+      "id": "v9-q05",
+      "chapter": 1,
+      "topic": "Robbins ÖD Modelinde Girdiler",
+      "difficulty": "orta",
+      "question": "Robbins ve Judge'ın üç seviyeli örgütsel davranış modelinde (birey, grup ve örgüt sistemi); birey düzeyinde analiz edilen ve süreçlerin şekillenmesine zemin hazırlayan temel 'Girdi' değişkeni aşağıdakilerden hangisidir?",
+      "options": [
+        "Görev performansı",
+        "Grup iletişimi",
+        "Karar verme süreçleri",
+        "Kişilik ve değerler",
+        "Örgütsel vatandaşlık davranışı"
+      ],
+      "answer": 3,
+      "explanation": "Modelde birey düzeyindeki temel girdiler kişilik, değerler ve demografik özelliklerdir; duygular, algı ve karar verme süreçtir; görev performansı ve vatandaşlık ise çıktıdır.",
+      "source": "Robbins & Judge Bölüm 1 · Robbins ve Judge ÖD Modeli"
+    },
+    {
+      "id": "v9-q06",
+      "chapter": 2,
+      "topic": "Biyografik Özellikler: Yaş ve İş Gücü Verimliliği",
+      "difficulty": "orta",
+      "question": "Örgütsel araştırmalarda yaş ile çalışanların iş performansı ve örgütsel davranışları arasındaki ilişki incelendiğinde aşağıdaki bulgulardan hangisi bilimsel olarak doğrulanmıştır?",
+      "options": [
+        "Yaş arttıkça çalışanların kuruma bağlılığı artmakta ve kaçınılabilir devamsızlık oranları düşmektedir.",
+        "Yaşlı çalışanların iş performansı genç çalışanlara göre her sektörde belirgin şekilde daha düşüktür.",
+        "Yaş ile üretkenlik arasında güçlü bir negatif ilişki bulunmaktadır.",
+        "Yaşlı çalışanlar iş yerinde yaşanan teknolojik değişimlere hiçbir zaman uyum sağlayamazlar.",
+        "Yaş arttıkça çalışanların iş tatmini sıfıra yaklaşmaktadır."
+      ],
+      "answer": 0,
+      "explanation": "Araştırmalar yaşlı çalışanların kuruma daha sadık olduğunu, kaçınılabilir devamsızlıklarının gençlere kıyasla daha az olduğunu ve deneyim sayesinde iş performanslarının düşmediğini göstermektedir.",
+      "source": "Robbins & Judge Bölüm 2 · Biyografik Özellikler: Yaş"
+    },
+    {
+      "id": "v9-q07",
+      "chapter": 2,
+      "topic": "Engellilik ve Makul Uyum Sağlama",
+      "difficulty": "orta",
+      "question": "Görme engeli bulunan yetenekli bir veri analistine, çalıştığı teknoloji şirketi tarafından ekran okuyucu gelişmiş yazılımlar ve kabartmalı özel donanımlar tahsis edilmiş ve bu sayede analistin iş gereklerini eksiksiz yerine getirmesi sağlanmıştır. İşletmenin engelli bir çalışanın potansiyelini ortaya koyabilmesi için çalışma koşullarında yaptığı bu yasal ve etik iyileştirme hangi kavramla tanımlanır?",
+      "options": [
+        "Tersine ayrımcılık",
+        "Kayırma",
+        "Sosyal kaytarma",
+        "Makul uyum sağlama",
+        "Kalıpyargı tehdidi"
+      ],
+      "answer": 3,
+      "explanation": "Makul uyum sağlama (reasonable accommodation); nitelikli bir engelli çalışanın iş gereklerini yerine getirebilmesi için iş ortamında yapılan erişilebilir ve makul düzenlemelerdir.",
+      "source": "Robbins & Judge Bölüm 2 · Biyografik Özellikler: Engellilik"
+    },
+    {
+      "id": "v9-q08",
+      "chapter": 2,
+      "topic": "Genel Zihinsel Yetenek (GMA)",
+      "difficulty": "zor",
+      "question": "Özellikle bilgi yoğun, karmaşık analizler gerektiren ve belirsizliğin yüksek olduğu iş kollarında; çalışanların görev performansını tek başına en güçlü ve en tutarlı şekilde öngören zihinsel kapasite faktörü aşağıdakilerden hangisidir?",
+      "options": [
+        "Hafıza kapasitesi",
+        "Genel zihinsel yetenek",
+        "Algısal hız",
+        "Sayısal yetenek",
+        "Mekansal canlandırma"
+      ],
+      "answer": 1,
+      "explanation": "Genel zihinsel yetenek (General Mental Ability - GMA); tüm zihinsel yetenek boyutlarının temelindeki genel zekâ faktörüdür ve özellikle karmaşık işlerde performansı en iyi öngören değişkendir.",
+      "source": "Robbins & Judge Bölüm 2 · Zihinsel Yetenek: GMA"
+    },
+    {
+      "id": "v9-q09",
+      "chapter": 2,
+      "topic": "Fiziksel Yetenek: Dinamik Esneklik",
+      "difficulty": "orta",
+      "question": "Fiziksel yetenekler kapsamında; bir çalışanın gövde ve sırt kaslarını seri, hızlı ve tekrar eden hareketlerle esnetebilme ve vücudunu hızla eski pozisyonuna getirebilme kapasitesi hangi yetenek boyutudur?",
+      "options": [
+        "Geniş esneklik",
+        "Statik güç",
+        "Denge yeteneği",
+        "Patlayıcı güç",
+        "Dinamik esneklik"
+      ],
+      "answer": 4,
+      "explanation": "Dinamik esneklik (dynamic flexibility); kasları hızlı ve tekrarlanan esneme hareketleri boyunca verimli biçimde kullanabilme kabiliyetidir.",
+      "source": "Robbins & Judge Bölüm 2 · Fiziksel Yetenek Boyutları"
+    },
+    {
+      "id": "v9-q10",
+      "chapter": 2,
+      "topic": "Çeşitlilik Engelleri: Cam Tavan",
+      "difficulty": "kolay",
+      "question": "Bir organizasyonda kadın çalışanların alt ve orta kademelerde çok yüksek başarı göstermelerine karşın, görünürde hiçbir yasal ya da resmi engel olmamasına rağmen tepe yöneticilik ve yönetim kurulu pozisyonlarına terfi edememelerini açıklayan sosyolojik kavram hangisidir?",
+      "options": [
+        "Tersine mentörlük",
+        "Kalıpyargı tehdidi",
+        "Cam tavan",
+        "Sosyal mesafe",
+        "Derin çeşitlilik"
+      ],
+      "answer": 2,
+      "explanation": "Cam tavan (glass ceiling); kadınların ve azınlıkların kariyerlerinde üst düzey yönetim basamaklarına ulaşmalarını engelleyen görünmez yapay bariyerlerdir.",
+      "source": "Robbins & Judge Bölüm 2 · Çeşitlilikte Cam Tavan"
+    },
+    {
+      "id": "v9-q11",
+      "chapter": 3,
+      "topic": "Bilişsel Uyumsuzluk ve Rasyonelleştirme",
+      "difficulty": "orta",
+      "question": "Bir satın alma müdürü, çevreye zararlı kimyasal atık üreten bir tedarikçiden ucuz hammadde satın almış; daha sonra vicdanen hissettiği rahatsızlığı hafifletmek için 'Şirketimin kârını ve çalışanların maaşlarını korumak için en ucuzunu almak zorundaydım, başka çarem yoktu' şeklinde düşünmeye başlamıştır. Bu müdürün bilişsel çelişkiyi azaltmak için kullandığı mekanizma hangisidir?",
+      "options": [
+        "Tutumunu tamamen değiştirme",
+        "Davranışını anında geri alma",
+        "Dışsal ödülleri reddetme",
+        "Çelişkiyi görmezden gelerek istifa etme",
+        "Rasyonelleştirme"
+      ],
+      "answer": 4,
+      "explanation": "Rasyonelleştirme (akla uydurma); bireyin tutumuyla çelişen eylemini haklı çıkarmak amacıyla gerekçeler üreterek hissettiği bilişsel uyumsuzluğu ve içsel huzursuzluğu azaltması sürecidir.",
+      "source": "Robbins & Judge Bölüm 3 · Bilişsel Çelişki ve Rasyonalizasyon"
+    },
+    {
+      "id": "v9-q12",
+      "chapter": 3,
+      "topic": "İşe Katılım (Job Involvement)",
+      "difficulty": "orta",
+      "question": "Bir cerrahın veya yazılım mimarının yaptığı işle zihinsel ve psikolojik olarak derin bir özdeşleşme yaşaması, mesleki başarısını kendi özsaygısının ve kimliğinin en temel ölçütü olarak kabul etmesi işle ilgili hangi tutum kavramıyla açıklanır?",
+      "options": [
+        "Normatif bağlılık",
+        "İşe katılım",
+        "Örgütsel destek algısı",
+        "Bilişsel uyumsuzluk",
+        "Devamlılık bağlılığı"
+      ],
+      "answer": 1,
+      "explanation": "İşe katılım (job involvement); kişinin yaptığı işle psikolojik olarak özdeşleşme derecesi ve algılanan performans düzeyini kendilik değeri için önemli görmesidir.",
+      "source": "Robbins & Judge Bölüm 3 · İşe Katılım"
+    },
+    {
+      "id": "v9-q13",
+      "chapter": 3,
+      "topic": "Algılanan Örgütsel Destek Öncülleri",
+      "difficulty": "orta",
+      "question": "Çalışanların 'Örgütsel Destek Algısını' (POS) en güçlü ve en anlamlı düzeyde artıran yönetsel ve kurumsal faktörler aşağıdakilerden hangisinde doğru verilmiştir?",
+      "options": [
+        "Yalnızca şirketin piyasa değeri ve borsa başarısı",
+        "Çalışanlar üzerinde kurulan katı denetim ve kamera izleme sistemleri",
+        "Rekabetçi prim yarışı ve çalışanların birbirleriyle kıyaslanması",
+        "Adil ödül dağıtımı, çalışanların kararlara katılımı ve yöneticilerin esenliğe desteği",
+        "Resmi hiyerarşik kademelerin ve bürokratik prosedürlerin artırılması"
+      ],
+      "answer": 3,
+      "explanation": "Algılanan örgütsel destek; kurumun adil ödüllendirme yapması, çalışanların görüşlerini kararlara dahil etmesi ve yöneticilerin çalışan esenliğini samimiyetle önemsemesi durumunda en yüksek seviyeye ulaşır.",
+      "source": "Robbins & Judge Bölüm 3 · Algılanan Örgütsel Destek"
+    },
+    {
+      "id": "v9-q14",
+      "chapter": 3,
+      "topic": "İş Tatminsizliğine Tepkiler: Ses (Voice)",
+      "difficulty": "kolay",
+      "question": "Çalıştığı fabrikadaki iş güvenliği standartlarının yetersizliğinden rahatsız olan bir mühendis; işi bırakmak ya da üretimi yavaşlatmak yerine birim amirine detaylı risk raporu sunmuş, iyileştirme komitesine katılmış ve sendikayla yapıcı diyalog kurmuştur. Bu mühendisin tutumu EVLN modelinde hangi tepki türüdür?",
+      "options": [
+        "Çıkış",
+        "Sadakat",
+        "Ses",
+        "İhmal",
+        "Kaçınma"
+      ],
+      "answer": 2,
+      "explanation": "Ses (voice) tepkisi; aktif ve yapıcı bir tepkidir. Çalışan koşulları iyileştirmek için yöneticilerle konuşur, öneriler geliştirir ve yapıcı girişimlerde bulunur.",
+      "source": "Robbins & Judge Bölüm 3 · Tatminsizliğe Verilen Tepkiler: Ses"
+    },
+    {
+      "id": "v9-q15",
+      "chapter": 3,
+      "topic": "Kurumsal Sosyal Sorumluluk ve Çalışan Tutumları",
+      "difficulty": "orta",
+      "question": "İşletmelerin çevre koruma, sosyal adalet ve etik ilkeler doğrultusunda yürüttükleri Kurumsal Sosyal Sorumluluk (KSS) faaliyetlerinin çalışanların iş tatmini ve motivasyonu üzerindeki etkisi hakkında hangisi doğrudur?",
+      "options": [
+        "Kişisel değerleri sosyal sorumlulukla örtüşen çalışanlarda iş tatminini ve örgütsel gururu belirgin biçimde artırır.",
+        "Çalışanların tamamında iş tatminini kesinlikle düşürür çünkü maliyetleri artırır.",
+        "Çalışanların tutumları üzerinde hiçbir pozitif veya negatif etkisi saptanamamıştır.",
+        "Yalnızca üst düzey yöneticilerde tatmini artırırken alt kademelerde ilgisizlik yaratır.",
+        "Kurumsal sosyal sorumluluk sadece şirket hisse değerini etkiler, çalışan psikolojisine yansımaz."
+      ],
+      "answer": 0,
+      "explanation": "Robbins ve Judge'a göre kurumsal sosyal sorumluluk projeleri, özellikle bireysel değerleri bu amaçlarla uyuşan çalışanlarda kuruma duyulan gururu, aidiyeti ve iş tatminini anlamlı ölçüde yükseltir.",
+      "source": "Robbins & Judge Bölüm 3 · Kurumsal Sosyal Sorumluluk ve Tatmin"
+    },
+    {
+      "id": "v9-q16",
+      "chapter": 4,
+      "topic": "Duygusal Olaylar Teorisi Temel Önermesi",
+      "difficulty": "orta",
+      "question": "Duygusal Olaylar Teorisinin (Affective Events Theory - AET) iş yerindeki insan davranışlarını açıklayan en temel kuramsal önermesi aşağıdakilerden hangisidir?",
+      "options": [
+        "Çalışanlar iş yerindeki olaylara hiçbir zaman duygusal tepki vermez, tamamen rasyoneldirler.",
+        "İş ortamında yaşanan günlük olaylar çalışanlarda duygusal tepkiler yaratır ve bu tepkiler birikerek iş tatmini ve performansı şekillendirir.",
+        "Duygusal tepkiler tamamen bireyin maaş seviyesine göre belirlenir.",
+        "Duygusal olaylar teorisi yalnızca tepe yöneticilerin kriz yönetimi tepkilerini inceler.",
+        "İş ortamı ile çalışan duygu durumu arasında hiçbir sebep-sonuç ilişkisi kurulamaz."
+      ],
+      "answer": 1,
+      "explanation": "Duygusal Olaylar Teorisi; iş yeri olaylarının çalışanlarda anlık olumlu veya olumsuz duygusal reaksiyonlar doğurduğunu ve bu duygusal durumların zamanla iş tatmini ve performans gibi çıktılara dönüştüğünü savunur.",
+      "source": "Robbins & Judge Bölüm 4 · Duygusal Olaylar Teorisi"
+    },
+    {
+      "id": "v9-q17",
+      "chapter": 4,
+      "topic": "Duygusal Zekâ Boyutları: Öz Farkındalık",
+      "difficulty": "orta",
+      "question": "Gergin bir toplantı sırasında öfkelendiğini, ses tonunun sertleştiğini ve kalp atışlarının hızlandığını anında fark eden ve hissettiği duygunun kaynağını teşhis edebilen bir yöneticinin sergilediği temel duygusal zekâ boyutu hangisidir?",
+      "options": [
+        "Sosyal beceri",
+        "Empati",
+        "Motivasyon",
+        "İlişki yönetimi",
+        "Öz farkındalık"
+      ],
+      "answer": 4,
+      "explanation": "Öz farkındalık (self-awareness); bireyin ne hissettiğini, hislerinin nedenlerini ve bu duyguların kendi davranışları üzerindeki etkilerini anında fark edebilme yetisidir.",
+      "source": "Robbins & Judge Bölüm 4 · Duygusal Zekâ Boyutları"
+    },
+    {
+      "id": "v9-q18",
+      "chapter": 4,
+      "topic": "Hissedilen ve Gösterilen Duygular Ayrımı",
+      "difficulty": "kolay",
+      "question": "Bir kabin memurunun uçuş sırasında iç dünyasında hissettiği gerçek korku ve yorgunluk hissi ile yolcuların güvenliğini sağlamak için kurumun kuralları gereği yüzünde sergilemek zorunda olduğu sakin ve tebessüm dolu ifade arasındaki ayrım hangi kavram çiftiyle ifade edilir?",
+      "options": [
+        "Pozitif duygulanım ve negatif duygulanım",
+        "Bilişsel çelişki ve duygusal çelişki",
+        "Hissedilen duygular ve gösterilen duygular",
+        "Yüzeysel rol ve derin rol",
+        "Duygusal zeka ve bilişsel zeka"
+      ],
+      "answer": 2,
+      "explanation": "Hissedilen duygular (felt emotions) bireyin gerçekte yaşadığı içsel hislerdir; gösterilen duygular (displayed emotions) ise örgütün belirli bir işte çalışanından sergilemesini beklediği kurumsal duygulardır.",
+      "source": "Robbins & Judge Bölüm 4 · Hissedilen ve Gösterilen Duygular"
+    },
+    {
+      "id": "v9-q19",
+      "chapter": 4,
+      "topic": "Duygu Bulaşması (Emotional Contagion)",
+      "difficulty": "orta",
+      "question": "Bir otel resepsiyonunda sabah vardiyasına çok neşeli, güler yüzlü ve enerjik başlayan bir çalışanın bu pozitif ruh halinin çok kısa sürede tüm çalışma arkadaşlarına ve otele giriş yapan misafirlere sirayet ederek ortamın havasını değiştirmesi süreci ne ad verilir?",
+      "options": [
+        "Duygu bulaşması",
+        "Duygusal emek",
+        "Duygusal uyumsuzluk",
+        "Bilişsel uyum",
+        "Sosyal kaytarma"
+      ],
+      "answer": 0,
+      "explanation": "Duygu bulaşması (emotional contagion); bir kişinin sergilediği duyguların ve beden dilinin diğer insanlar tarafından bilinçsizce ve hızla kopyalanarak ortama yayılması sürecidir.",
+      "source": "Robbins & Judge Bölüm 4 · Duygu Bulaşması"
+    },
+    {
+      "id": "v9-q20",
+      "chapter": 4,
+      "topic": "Duygu Kaynakları: Uyku ve Karar Verme",
+      "difficulty": "orta",
+      "question": "Robbins ve Judge'a göre uyku kalitesi ve süresinin çalışanların duygu durumları ve iş yerindeki karar verme süreçleri üzerindeki etkisi hakkında aşağıdaki bilimsel bulgulardan hangisi doğrudur?",
+      "options": [
+        "Uyku süresi duygu durumlarını etkilemez, yalnızca fiziksel gücü belirler.",
+        "Uykusuzluk çalışanlarda pozitif duygulanımı artırarak yaratıcılığı tetikler.",
+        "Günde üç saat uyuyan çalışanlar riskli kararları daha rasyonel alırlar.",
+        "Yetersiz uyku çalışanlarda öfke ve kaygı gibi olumsuz duygu durumlarını artırırken karar alma kalitesini düşürür.",
+        "Uyku eksikliği yalnızca gece vardiyasında çalışan işçileri etkiler."
+      ],
+      "answer": 3,
+      "explanation": "Yetersiz ve kalitesiz uyku; yorgunluk ve öfke gibi olumsuz duygu durumlarını tetikler, pozitif duygulanımı azaltır ve risk değerlendirme ile karar verme kalitesini bozar.",
+      "source": "Robbins & Judge Bölüm 4 · Duygu ve Duygu Durumlarının Kaynakları"
+    },
+    {
+      "id": "v9-q21",
+      "chapter": 5,
+      "topic": "Büyük Beşli: Duygusal Denge",
+      "difficulty": "orta",
+      "question": "En küçük bir kriz durumunda aşırı paniğe kapılan, yoğun endişe ve kaygı yaşayan, kendini sürekli güvensiz hisseden ve eleştirilere karşı aşırı alıngan tepkiler veren bir çalışan Büyük Beşli kişilik modelinin hangi boyutunda düşük puana sahiptir?",
+      "options": [
+        "Dışa dönüklük",
+        "Uyumluluk",
+        "Deneyime açıklık",
+        "Duygusal denge",
+        "Sorumluluk"
+      ],
+      "answer": 3,
+      "explanation": "Duygusal denge (emotional stability / tersi nörotizm); bireyin stresle başa çıkabilme, sakin ve kendinden emin kalabilme yetisidir. Düşük puana sahip kişiler kaygılı, gergin ve güvensizdir.",
+      "source": "Robbins & Judge Bölüm 5 · Büyük Beşli Kişilik Modeli"
+    },
+    {
+      "id": "v9-q22",
+      "chapter": 5,
+      "topic": "Durum Gücü Teorisi (Situation Strength Theory)",
+      "difficulty": "zor",
+      "question": "Durum Gücü Teorisine göre; iş yerinde kuralların, standart operasyon prosedürlerinin, cezai yaptırımların ve amir denetiminin son derece katı ve net olduğu 'güçlü durumlarda' (strong situations) çalışanların kişilik özelliklerinin davranışları üzerindeki etkisi nasıl şekillenir?",
+      "options": [
+        "Bireysel kişilik özellikleri performansı iki kat daha fazla belirler.",
+        "Çalışanlar kuralları yok sayarak sadece kişiliklerine göre hareket ederler.",
+        "Bireysel kişilik farklılıklarının davranış üzerindeki etkisi belirgin şekilde azalır.",
+        "Güçlü durumlarda yalnızca dışa dönük çalışanlar başarılı olabilir.",
+        "Durum gücü kişilik ile davranış arasındaki bağı hiçbir zaman etkilemez."
+      ],
+      "answer": 2,
+      "explanation": "Durum Gücü Teorisine göre kuralların çok net olduğu 'güçlü durumlarda' herkes benzer davranmak zorunda kalır ve kişiliğin davranış üzerindeki açıklayıcı etkisi azalır; kuralların belirsiz olduğu 'zayıf durumlarda' ise kişilik belirleyicidir.",
+      "source": "Robbins & Judge Bölüm 5 · Durum Gücü Teorisi"
+    },
+    {
+      "id": "v9-q23",
+      "chapter": 5,
+      "topic": "Karanlık Üçlü: Narsisizm",
+      "difficulty": "orta",
+      "question": "Bir organizasyonda sürekli olarak başkalarından aşırı hayranlık ve övgü bekleyen, kendisini diğer tüm meslektaşlarından üstün gören, ekibinin ortak başarılarını sadece kendi dehasına bağlayan ve yüksek bir hak iddia etme duygusuna sahip olan yöneticinin baskın kişilik özelliği Karanlık Üçlü boyutlarından hangisidir?",
+      "options": [
+        "Narsisizm",
+        "Makyavelizm",
+        "Psikopati",
+        "Düşük öz denetim",
+        "Dışsal kontrol odağı"
+      ],
+      "answer": 0,
+      "explanation": "Narsisizm; kişinin kendini aşırı derecede önemli görmesi, kibir, sürekli hayranlık ve ilgi beklemesi ve diğerlerini küçümsemesiyle karakterize olan kişilik özelliğidir.",
+      "source": "Robbins & Judge Bölüm 5 · Karanlık Üçlü: Narsisizm"
+    },
+    {
+      "id": "v9-q24",
+      "chapter": 5,
+      "topic": "Kişilik Özellikleri: Yüksek Öz Denetim",
+      "difficulty": "orta",
+      "question": "Farklı sosyal ortamlarda ve farklı hiyerarşik kademelerdeki insanlarla iletişim kurarken davranışlarını o ortamın beklentilerine göre kusursuz bir esneklikle ayarlayabilen, adeta sosyal bir bukalemun gibi çevreye uyum sağlayan bir yöneticinin temel kişilik özelliği hangisidir?",
+      "options": [
+        "İçsel denetim odağı",
+        "A tipi kişilik",
+        "Düşük öz saygı",
+        "Makyavelizm",
+        "Yüksek öz denetim"
+      ],
+      "answer": 4,
+      "explanation": "Yüksek öz denetim (self-monitoring); bireyin dışsal ve durumsal faktörlere göre kendi davranışlarını ayarlayabilme ve farklı beklentilere uyum sağlayabilme kapasitesidir.",
+      "source": "Robbins & Judge Bölüm 5 · Öz Denetim"
+    },
+    {
+      "id": "v9-q25",
+      "chapter": 5,
+      "topic": "Hofstede Kültür Boyutu: Yüksek Güç Mesafesi",
+      "difficulty": "orta",
+      "question": "Bir ülkedeki işletmelerde çalışanlar tepe yöneticilerinin emirlerini hiçbir şekilde sorgulamamakta, yöneticilerin sahip olduğu geniş ayrıcalıkları ve karar alma tekellerini doğal, meşru ve gerekli bir hiyerarşik düzen olarak kabul etmektedir. Bu durum Hofstede'nin hangi ulusal kültür boyutuyla açıklanır?",
+      "options": [
+        "Düşük güç mesafesi",
+        "Yüksek güç mesafesi",
+        "Belirsizlikten kaçınma",
+        "Bireycilik",
+        "Dişillik"
+      ],
+      "answer": 1,
+      "explanation": "Yüksek güç mesafesi; toplumdaki kurum ve örgütlerde gücün eşitsiz olarak dağıtılmasının üyeler tarafından kabul edilme ve doğal karşılanma derecesini tanımlar.",
+      "source": "Robbins & Judge Bölüm 5 · Hofstede: Güç Mesafesi"
+    }
+  ]
+}

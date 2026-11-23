@@ -1,0 +1,451 @@
+#!/usr/bin/env python3
+import json
+from pathlib import Path
+
+v11_data = {
+    "id": "v11",
+    "version": 11,
+    "title": "Vize Deneme Seti 11",
+    "course": "Örgütsel Davranış",
+    "createdAt": "2026-11-23",
+    "description": "Robbins ve Judge Örgütsel Davranış Pearson test bankası kaynaklı vize deneme seti (25 çoktan seçmeli soru).",
+    "questions": [
+        # Bölüm 1: Örgütsel Davranışa Giriş (D, B, E, A, C)
+        {
+            "id": "v11-q01",
+            "chapter": 1,
+            "topic": "Mintzberg Bilgi Sağlama Rolleri: Sözcü Rolü",
+            "difficulty": "orta",
+            "question": "Bir havayolu şirketinin genel müdürü yaşanan teknik kriz sonrasında ulusal televizyon kanallarında basın toplantısı düzenlemiş, şirketin aldığı güvenlik tedbirlerini, soruşturma sürecini ve hissedarlara yönelik eylem planını kamuoyuna bizzat açıklamıştır. Henry Mintzberg'in yönetsel rolleri modelinde örgüt adına dış paydaşlara ve kamuoyuna resmi bilgi aktarma işlevini gören rol hangisidir?",
+            "options": [
+                "Lider",
+                "Monitör",
+                "Dağıtıcı",
+                "Sözcü",
+                "Müzakereci"
+            ],
+            "answer": 3,
+            "explanation": "Sözcü rolü; yöneticinin örgüt planları, politikaları, eylemleri ve sonuçları hakkında örgüt dışındaki paydaşlara ve kamuoyuna resmi bilgi aktarma rolüdür.",
+            "source": "Robbins & Judge Bölüm 1 · Mintzberg Bilgi Sağlama Rolleri"
+        },
+        {
+            "id": "v11-q02",
+            "chapter": 1,
+            "topic": "ÖD Katkı Veren Disiplinler: Psikoloji",
+            "difficulty": "kolay",
+            "question": "Birey düzeyinde öğrenme süreçleri, motivasyon kuramları, kişilik dinamikleri, algı mekanizmaları, çalışan eğitimi, iş tatmini ve liderlik etkinliğini inceleyerek örgütsel davranışa mikro analiz düzeyinde en büyük kuramsal katkıyı sağlayan davranış bilimi hangisidir?",
+            "options": [
+                "Sosyoloji",
+                "Psikoloji",
+                "Antropoloji",
+                "Siyaset Bilimi",
+                "Hukuk"
+            ],
+            "answer": 1,
+            "explanation": "Psikoloji; birey düzeyinde insan davranışlarını ölçen, açıklayan ve değiştirmeye çalışan temel bilim dalıdır ve ÖD'ye mikro düzeyde katkı sunar.",
+            "source": "Robbins & Judge Bölüm 1 · Katkıda Bulunan Disiplinler"
+        },
+        {
+            "id": "v11-q03",
+            "chapter": 1,
+            "topic": "Çalışma Yaşamında İş-Özel Yaşam Dengesi",
+            "difficulty": "orta",
+            "question": "Küreselleşme, uzaktan çalışma teknolojileri ve dijital mobil cihazların yaygınlaşmasıyla birlikte mesai saatlerinin sınırlarının belirsizleşmesi, günümüz yöneticilerinin ve çalışanlarının karşılaştığı hangi temel örgütsel davranış sorununu ortaya çıkarmıştır?",
+            "options": [
+                "Teknik beceri eksikliği",
+                "Yüzeysel çeşitliliğin azalması",
+                "Örgütsel vatandaşlığın zorunlu hale gelmesi",
+                "EBM yaklaşımının terk edilmesi",
+                "İş yaşamı ile özel yaşam arasındaki sınırların bulanıklaşması ve denge kurma zorluğu"
+            ],
+            "answer": 4,
+            "explanation": "Teknolojinin sunduğu sürekli erişilebilirlik, çalışanların iş ile kişisel yaşamları arasındaki sınırları eritmiş ve iş-özel yaşam çatışmasını kritik bir yönetim sorunu haline getirmiştir.",
+            "source": "Robbins & Judge Bölüm 1 · ÖD İçin Fırsatlar ve Meydan Okumalar"
+        },
+        {
+            "id": "v11-q04",
+            "chapter": 1,
+            "topic": "ÖD Modelinde Çıktı: Görev Performansı",
+            "difficulty": "orta",
+            "question": "Bir çalışanın resmi iş tanımında tanımlanmış olan temel görev ve sorumlulukları etkin biçimde yerine getirmesi, işin gerektirdiği teknik mal veya hizmet üretim faaliyetlerini doğrudan gerçekleştirmesi Robbins ve Judge modelinde hangi çıktı boyutuyla adlandırılır?",
+            "options": [
+                "Görev performansı",
+                "Örgütsel vatandaşlık",
+                "Grup uyumu",
+                "Geri çekilme davranışı",
+                "Örgütsel hayatta kalma"
+            ],
+            "answer": 0,
+            "explanation": "Görev performansı; çalışanın iş tanımında yer alan ve temel ürün veya hizmetin üretilmesine doğrudan katkıda bulunan resmi faaliyetlerin başarıyla icra edilmesidir.",
+            "source": "Robbins & Judge Bölüm 1 · ÖD Modeli Çıktıları"
+        },
+        {
+            "id": "v11-q05",
+            "chapter": 1,
+            "topic": "Pozitif Örgütsel Burs (Positive Organizational Scholarship)",
+            "difficulty": "zor",
+            "question": "Organizasyonlarda sürekli olarak eksikliklere, krizlere, devamsızlığa ve çatışmalara odaklanmak yerine; çalışanların güçlü yönlerine, dayanıklılığına, erdemlerine, potansiyellerine ve onları neyin en iyi yaptığını anlamaya odaklanan çağdaş örgütsel davranış alanı hangisidir?",
+            "options": [
+                "Klasik yönetim kuramı",
+                "Sosyal kaytarma yaklaşımı",
+                "Pozitif örgütsel burs",
+                "Bilimsel yönetim yaklaşımı",
+                "Durumsallık teorisi"
+            ],
+            "answer": 2,
+            "explanation": "Pozitif örgütsel burs (Positive Organizational Scholarship); örgütlerin ve çalışanların güçlü yönlerini nasıl geliştirdiğini, dayanıklılık kazandığını ve olağanüstü performans sergilediğini inceleyen yaklaşımdır.",
+            "source": "Robbins & Judge Bölüm 1 · Pozitif Örgütsel Davranış"
+        },
+
+        # Bölüm 2: Çeşitlilik, Biyografik Özellikler ve Yetenek (C, E, B, D, A)
+        {
+            "id": "v11-q06",
+            "chapter": 2,
+            "topic": "Ayrımcılık Uygulamaları: Cinsel Taciz",
+            "difficulty": "orta",
+            "question": "İş yerinde bir çalışana yönelik rızası dışında yapılan fiziksel temaslar, cinsel içerikli uygunsuz şakalar, imalı sözler veya iş güvencesini cinsel taleplere bağlayan tehditkar davranışlar Robbins ve Judge'ın ayrımcılık sınıflandırmasında hangi başlıkta yer alır?",
+            "options": [
+                "Nezaketsizlik",
+                "Yıldırma",
+                "Cinsel taciz",
+                "Dışlama",
+                "Ayrımcı politikalar"
+            ],
+            "answer": 2,
+            "explanation": "Cinsel taciz; çalışanın rızası olmaksızın yapılan cinsel içerikli her türlü fiziksel, sözlü veya psikolojik istenmeyen eylemleri tanımlar.",
+            "source": "Robbins & Judge Bölüm 2 · İş Yerinde Ayrımcılık Türleri"
+        },
+        {
+            "id": "v11-q07",
+            "chapter": 2,
+            "topic": "Biyografik Özellikler: Cinsel Yönelim ve Cinsiyet Kimliği",
+            "difficulty": "orta",
+            "question": "Günümüzde küresel rekabette yer alan kurumsal şirketlerin insan kaynakları politikalarında cinsel yönelim ve cinsiyet kimliğine dayalı ayrımcılığı engellemek adına attıkları en etkili kurumsal adım hangisidir?",
+            "options": [
+                "Farklı grupları diğer çalışanlardan tamamen izole etmek",
+                "İşe alımlarda bu konuları konuşmayı kanunen yasaklamak",
+                "Yalnızca kadın yöneticilerin sayısını artırmakla yetinmek",
+                "Kalıpyargıları görmezden gelerek hiçbir kural koymamak",
+                "Ayrımcılık karşıtı kapsayıcı şirket politikaları oluşturarak tüm çalışanlara eşit haklar ve güvenli bir iklim sağlamak"
+            ],
+            "answer": 4,
+            "explanation": "Kapsayıcı şirketler, cinsel yönelim ve cinsiyet kimliği temelinde ayrımcılığı açıkça yasaklayan politikalar geliştirerek adil, güvenli ve saygılı bir çalışma iklimi inşa ederler.",
+            "source": "Robbins & Judge Bölüm 2 · Cinsel Yönelim ve Cinsiyet Kimliği"
+        },
+        {
+            "id": "v11-q08",
+            "chapter": 2,
+            "topic": "Zihinsel Yetenek: Algısal Hız",
+            "difficulty": "zor",
+            "question": "Hava trafik kontrolörleri, gümrük denetçileri ve kalite kontrol müfettişleri için kritik olan; görsel nesneler arasındaki benzerlikleri, farklılıkları veya hataları çok kısa sürede ve yüksek doğrulukla tespit edebilme kapasitesi hangi zihinsel yetenek boyutudur?",
+            "options": [
+                "Hafıza",
+                "Algısal hız",
+                "Mekânsal görselleştirme",
+                "Sözel kavrayış",
+                "Tümevarımsal akıl yürütme"
+            ],
+            "answer": 1,
+            "explanation": "Algısal hız (perceptual speed); görsel benzerlik ve farklılıkları hızla ve hatasız şekilde tespit edebilme yetisidir.",
+            "source": "Robbins & Judge Bölüm 2 · Zihinsel Yetenek Boyutları"
+        },
+        {
+            "id": "v11-q09",
+            "chapter": 2,
+            "topic": "Biyografik Özellikler: Dini İnançlar ve İş Yeri Uyumu",
+            "difficulty": "orta",
+            "question": "Farklı dini inançlara sahip çalışanların ibadet vakitleri, dini bayram tatilleri veya kılık-kıyafet tercihleri konusunda işletme yönetiminin işleyişi aksatmayacak şekilde esnek vardiya ve düzenlemeler getirmesi çeşitlilik yönetiminde hangi kapsamda değerlendirilir?",
+            "options": [
+                "Tersine ayrımcılık",
+                "Kayırmacılık",
+                "Sosyal mesafe",
+                "Dini inanç ve uygulamalara makul esneklik sağlama",
+                "Bilişsel çelişki yaratma"
+            ],
+            "answer": 3,
+            "explanation": "İşletmelerin inanç özgürlüğüne saygı çerçevesinde iş akışını bozmadan dini pratiklere (ibadet saatleri, dini bayramlar vb.) gösterdiği makul esneklik çeşitlilik yönetiminin temel bir boyutudur.",
+            "source": "Robbins & Judge Bölüm 2 · Biyografik Özellikler: Din"
+        },
+        {
+            "id": "v11-q10",
+            "chapter": 2,
+            "topic": "Yetenek-İş Uyumu (Ability-Job Fit)",
+            "difficulty": "kolay",
+            "question": "Bir çalışanın sahip olduğu entelektüel (zihinsel) ve fiziksel yetenek profilinin, üstlendiği işin gerektirdiği beceri, bilgi ve performans talepleriyle kusursuz biçimde örtüşmesini ve bu sayede yüksek verimliliğe ulaşılmasını tanımlayan kavram hangisidir?",
+            "options": [
+                "Yetenek-iş uyumu",
+                "Kalıpyargı tehdidi",
+                "Derinlemesine çeşitlilik",
+                "Duygusal uyumsuzluk",
+                "Grup kutuplaşması"
+            ],
+            "answer": 0,
+            "explanation": "Yetenek-iş uyumu (ability-job fit); çalışanın kişisel yeteneklerinin işin gereksinimleriyle uyuşmasıdır. Uyum sağlandığında çalışan performansı ve tatmini en üst düzeye çıkar.",
+            "source": "Robbins & Judge Bölüm 2 · Yetenek-İş Uyumu"
+        },
+
+        # Bölüm 3: Tutumlar ve İş Tatmini (B, A, D, C, E)
+        {
+            "id": "v11-q11",
+            "chapter": 3,
+            "topic": "Meyer ve Allen: Normatif Bağlılık",
+            "difficulty": "orta",
+            "question": "Kendisini genç yaşta işe alıp yetiştiren ve yüksek lisans eğitimini finanse eden şirketine karşı ahlaki bir minnet ve vicdani sorumluluk hisseden, piyasadan gelen çok daha yüksek maaşlı teklifleri 'şirketime vefasızlık edemem' diyerek reddeden bir yöneticinin bağlılığı Meyer ve Allen modeline göre hangisidir?",
+            "options": [
+                "Devamlılık bağlılığı",
+                "Normatif bağlılık",
+                "Duygusal bağlılık",
+                "Ekonomik bağlılık",
+                "Sosyal bağlılık"
+            ],
+            "answer": 1,
+            "explanation": "Normatif bağlılık (normative commitment); çalışanın kurumuna karşı ahlaki bir görev, minnet ve vefa duygusu hissederek kurumda kalması gerektiğine inanmasıdır.",
+            "source": "Robbins & Judge Bölüm 3 · Örgütsel Bağlılık Boyutları"
+        },
+        {
+            "id": "v11-q12",
+            "chapter": 3,
+            "topic": "Bilişsel Çelişkide Algılanan Ödüllerin Rolü",
+            "difficulty": "zor",
+            "question": "Leon Festinger'ın Bilişsel Çelişki Teorisine göre, bireyin kişisel değer ve tutumlarıyla çelişen bir davranışı sergilemesi karşılığında elde ettiği harici ödüller (örneğin astronomik bir prim veya hızlı terfi) çok yüksek olduğunda hissettiği çelişki gerilimi nasıl etkilenir?",
+            "options": [
+                "Algılanan yüksek ödüller bireyin çelişkiyi haklı görmesini kolaylaştırarak çelişki gerilimini azaltır.",
+                "Ödüller yükseldikçe çelişki gerilimi katlanarak artar.",
+                "Ödüllerin bilişsel çelişki üzerinde hiçbir yatıştırıcı etkisi yoktur.",
+                "Birey ödülü reddederek derhal istifa etme eğilimi gösterir.",
+                "Yüksek ödüller bireyin tutumunu anında kalıcı olarak yok eder."
+            ],
+            "answer": 0,
+            "explanation": "Festinger'a göre birey çelişkili eylemi karşılığında yüksek bir ödül aldığında, eylemini bu ödülle rasyonalize eder ('bu kadar büyük paraya değer') ve böylece hissettiği çelişki gerilimi azalır.",
+            "source": "Robbins & Judge Bölüm 3 · Bilişsel Çelişkide Ödüllerin Rolü"
+        },
+        {
+            "id": "v11-q13",
+            "chapter": 3,
+            "topic": "İşe Sarılma (Employee Engagement)",
+            "difficulty": "orta",
+            "question": "Çalışanın işini yaparken fiziksel enerjisini, zihinsel dikkatini ve duygusal bağını tam bir bütünlük içinde işine adaması; görevini büyük bir heves, tutku ve coşkuyla icra etmesi durumunu tanımlayan çağdaş iş tutumu hangisidir?",
+            "options": [
+                "Duygusal uyumsuzluk",
+                "Örgütsel vatandaşlık",
+                "Devamlılık bağlılığı",
+                "İşe sarılma",
+                "Bilişsel rasyonalizasyon"
+            ],
+            "answer": 3,
+            "explanation": "İşe sarılma (employee engagement); bireyin işiyle olan ilişkisinde gösterdiği coşku, bağlılık ve fiziksel-zihinsel-duygusal enerjisini bütünüyle işine vakfetmesidir.",
+            "source": "Robbins & Judge Bölüm 3 · İşe Sarılma"
+        },
+        {
+            "id": "v11-q14",
+            "chapter": 3,
+            "topic": "İş Tatminsizliğine Tepkiler: Sadakat (Loyalty)",
+            "difficulty": "orta",
+            "question": "Şirketteki çalışma koşullarından ve yönetim kararlarından rahatsızlık duyan kıdemli bir departman şefi; yöneticilerle münakaşaya girmemekte, dış çevreye karşı kurumunu sadakatle savunmakta ve 'yönetimin doğru olanı yapacağına güvenerek koşulların kendiliğinden düzelmesini pasifçe beklemektedir'. Bu tutum EVLN modelinde hangi tepki türüdür?",
+            "options": [
+                "Çıkış",
+                "Ses",
+                "Sadakat",
+                "İhmal",
+                "Sessiz istifa"
+            ],
+            "answer": 2,
+            "explanation": "Sadakat (loyalty) tepkisi; pasif ve yapıcı bir tepkidir. Birey koşulların düzelmesini sessizce bekler, kuruma güvenir ve örgütü dışarıdan gelen eleştirilere karşı savunur.",
+            "source": "Robbins & Judge Bölüm 3 · Tatminsizliğe Verilen Tepkiler: Sadakat"
+        },
+        {
+            "id": "v11-q15",
+            "chapter": 3,
+            "topic": "İş Tatmini ve İşten Ayrılma Niyeti (Turnover)",
+            "difficulty": "kolay",
+            "question": "İş tatmini ile çalışanların işten ayrılma niyeti ve fiili iş gücü devri (turnover) arasındaki ilişki hakkında yapılan binlerce ampirik çalışmanın ortaya koyduğu ortak sonuç aşağıdakilerden hangisidir?",
+            "options": [
+                "İş tatmini arttıkça çalışanların işten ayrılma oranları artar.",
+                "İki değişken arasında hiçbir ilişki saptanamamıştır.",
+                "İş tatmini yalnızca kamuda çalışanların ayrılmasını engeller.",
+                "İşten ayrılma sadece piyasadaki genel işsizlik oranına bağlıdır.",
+                "İş tatmini ile işten ayrılma niyeti ve fiili ayrılma oranları arasında güçlü bir negatif korelasyon vardır."
+            ],
+            "answer": 4,
+            "explanation": "İş tatmini ile iş gücü devri arasında güçlü ve tutarlı bir negatif ilişki mevcuttur; işinden tatmin olan personelin ayrılma niyeti ve eylemi belirgin ölçüde düşüktür.",
+            "source": "Robbins & Judge Bölüm 3 · İş Tatmini Çıktıları: İş Gücü Devri"
+        },
+
+        # Bölüm 4: Duygular ve Duygu Durumları (A, D, C, E, B)
+        {
+            "id": "v11-q16",
+            "chapter": 4,
+            "topic": "Duygusal Zekâya Karşıt Görüş: Bağımsız Geçerlilik",
+            "difficulty": "zor",
+            "question": "Duygusal zekâ (DZ) kavramını eleştiren akademisyenlerin (örneğin Edwin Locke) bilimsel yayınlarında öne sürdüğü en güçlü eleştirel argüman aşağıdakilerden hangisidir?",
+            "options": [
+                "Standart zekâ (IQ) ve kişilik boyutları istatistiksel olarak kontrol edildiğinde, duygusal zekânın performansı tek başına açıklama gücünün neredeyse yok denecek kadar azalması.",
+                "Duygusal zekânın kadınlarda hiçbir zaman ölçülememesi.",
+                "Duygusal zekâ eğitimlerinin çalışanlarda stresi tamamen yok etmesi.",
+                "Duygusal zekânın yalnızca sağlık sektöründe geçerli olması.",
+                "Duyguların insan beyninde hiçbir biyolojik karşılığının bulunmaması."
+            ],
+            "answer": 0,
+            "explanation": "Duygusal zekâ eleştirmenleri, DZ'nin Büyük Beşli kişilik özellikleri ve genel bilişsel zekâ ile aşırı örtüştüğünü; bu faktörler kontrol edildiğinde DZ'nin iş performansına özgün katkısının çok azaldığını savunurlar.",
+            "source": "Robbins & Judge Bölüm 4 · Duygusal Zekâya Karşıt Görüşler"
+        },
+        {
+            "id": "v11-q17",
+            "chapter": 4,
+            "topic": "Duygu Düzenleme: Durum Seçimi",
+            "difficulty": "orta",
+            "question": "Sürekli olarak agresif tartışmalar çıkaran ve negatif enerji yayan bir ekip lideriyle aynı projede görev almamak adına, proje seçim döneminde bilinçli olarak başka bir ekibin görevini tercih eden bir personelin uyguladığı duygu düzenleme stratejisi hangisidir?",
+            "options": [
+                "Bilişsel yeniden değerlendirme",
+                "Duygusal bastırma",
+                "Sosyal paylaşım",
+                "Durum seçimi",
+                "Duygusal tükenme"
+            ],
+            "answer": 3,
+            "explanation": "Durum seçimi (situation selection); bireyin olumsuz duygu durumlarını tetikleyeceğini bildiği belirli kişi, görev veya ortamlardan önceden bilinçli olarak kaçınmasıdır.",
+            "source": "Robbins & Judge Bölüm 4 · Duygu Düzenleme Stratejileri"
+        },
+        {
+            "id": "v11-q18",
+            "chapter": 4,
+            "topic": "Duygular ve Müzakere Başarısı",
+            "difficulty": "orta",
+            "question": "İş dünyasındaki kritik müzakere ve pazarlıklarda yöneticilerin stratejik olarak kontrollü biçimde öfke sergilemelerinin etkileri hakkında araştırmaların ortaya koyduğu temel dinamik hangisidir?",
+            "options": [
+                "Öfke sergilemek her zaman karşı tarafın müzakereden anında çekilmesine neden olur.",
+                "Öfke gösterisi müzakerelerde karşı tarafa sınırsız güven verir.",
+                "Öfke gösterisi karşı taraf üzerinde güç hissi yaratarak kısa vadede taviz koparabilse de uzun vadeli güveni ve işbirliğini zedeler.",
+                "Müzakerelerde duyguların hiçbir rolü veya etkisi bulunmamaktadır.",
+                "Öfke sergileyen müzakereciler karşı taraftan her zaman daha düşük teklif alırlar."
+            ],
+            "answer": 2,
+            "explanation": "Müzakerede öfke gösterisi kısa vadeli bir güç gösterisi olarak taviz koparabilir; ancak taraflar arasında uzun vadeli güveni ve ilişkisel işbirliğini zayıflatır.",
+            "source": "Robbins & Judge Bölüm 4 · Duyguların ÖD Uygulamaları: Müzakere"
+        },
+        {
+            "id": "v11-q19",
+            "chapter": 4,
+            "topic": "Yaş ve Duygu Durumları İlişkisi",
+            "difficulty": "orta",
+            "question": "Yaşları 18 ile 94 arasında değişen geniş kitleler üzerinde yürütülen psikolojik araştırmalara göre, bireylerin yaşlanma süreci ile duygu durumları deneyimi arasındaki ilişki hakkında hangisi doğrudur?",
+            "options": [
+                "Yaşlı bireyler gençlere kıyasla sürekli daha öfkeli ve gergindir.",
+                "Yaş ilerledikçe insanların duygu durumları tamamen nötr hale gelir.",
+                "Yaşlı bireylerde olumlu hisler gençlerden çok daha kısa sürer.",
+                "Yaşlı insanların olumsuz olaylara tepki verme şiddeti her yıl ikiye katlanır.",
+                "Bireyler yaşlandıkça olumsuz duygu durumlarının ortaya çıkma olasılığı azalmakta, olumlu duygu durumları ise daha uzun sürmektedir."
+            ],
+            "answer": 4,
+            "explanation": "Araştırmalar yaşlı insanların duygusal dengeyi daha iyi kurduklarını, olumsuz olaylardan sonra daha çabuk toparlandıklarını ve olumlu duygu durumlarının daha uzun sürdüğünü göstermektedir.",
+            "source": "Robbins & Judge Bölüm 4 · Yaş ve Duygular"
+        },
+        {
+            "id": "v11-q20",
+            "chapter": 4,
+            "topic": "Duygusal Olaylar Teorisi ve Dalgalanmalar",
+            "difficulty": "zor",
+            "question": "Duygusal Olaylar Teorisinde (DOT); çalışanların bir iş günü boyunca karşılaştıkları irili ufaklı olayların yol açtığı anlık duygusal dalgalanmaların (emotional fluctuations) iş performansı üzerindeki etkisi hangisidir?",
+            "options": [
+                "Duygusal dalgalanmalar performansı hiçbir zaman etkilemez.",
+                "Duygusal iniş çıkışlar çalışanın zihinsel dikkatini ve enerjisini dağıtarak görev performansında geçici düşüşlere ve dalgalanmalara yol açabilir.",
+                "Duygusal dalgalanmalar her zaman görev performansını iki katına çıkarır.",
+                "Yalnızca amirleriyle kavga eden çalışanlarda duygusal dalgalanma görülür.",
+                "Duygusal dalgalanmalar tamamen çalışanın uyku süresine bağlıdır."
+            ],
+            "answer": 1,
+            "explanation": "Gün içindeki olaylara bağlı duygusal dalgalanmalar çalışanın zihinsel odaklanmasını ve konsantrasyonunu etkileyerek görev performansında anlık değişimler yaratır.",
+            "source": "Robbins & Judge Bölüm 4 · Duygusal Olaylar Teorisi"
+        },
+
+        # Bölüm 5: Kişilik ve Değerler (E, C, A, B, D)
+        {
+            "id": "v11-q21",
+            "chapter": 5,
+            "topic": "Büyük Beşli: Deneyime Açıklık",
+            "difficulty": "orta",
+            "question": "Bir reklam ajansında yenilikçi kampanyalar tasarlayan; soyut kavramlara ve sanata derin ilgi duyan, alışılagelmiş geleneksel kalıpları cesurca sorgulayan ve yeni fikirleri denemekten büyük heyecan duyan bir kreatif direktörün Büyük Beşli modelinde yüksek puana sahip olduğu kişilik boyutu hangisidir?",
+            "options": [
+                "Duygusal denge",
+                "Uyumluluk",
+                "Sorumluluk",
+                "Dışadönüklük",
+                "Deneyime açıklık"
+            ],
+            "answer": 4,
+            "explanation": "Deneyime açıklık (openness to experience); hayal gücü, sanatsal duyarlılık, entelektüel merak ve yeniliklere açık olma özelliklerini kapsar.",
+            "source": "Robbins & Judge Bölüm 5 · Büyük Beşli: Deneyime Açıklık"
+        },
+        {
+            "id": "v11-q22",
+            "chapter": 5,
+            "topic": "Karanlık Üçlü: Psikopati",
+            "difficulty": "orta",
+            "question": "Karanlık Üçlü kişilik yapısı içinde; başkalarının duygularına ve çektikleri acılara karşı tam bir empati yoksunluğu sergileyen, yaptıklarından hiçbir suçluluk veya vicdan azabı duymayan ve hedeflerine ulaşmak için pervasızca tehlikeli riskler alan boyut hangisidir?",
+            "options": [
+                "Narsisizm",
+                "Makyavelizm",
+                "Psikopati",
+                "Düşük özsaygı",
+                "A tipi kişilik"
+            ],
+            "answer": 2,
+            "explanation": "Psikopati; empati yoksunluğu, başkalarının haklarına ve duygularına aldırış etmeme, suçluluk hissetmeme ve pişmanlık duymama ile tanımlanan kişilik boyutudur.",
+            "source": "Robbins & Judge Bölüm 5 · Karanlık Üçlü: Psikopati"
+        },
+        {
+            "id": "v11-q23",
+            "chapter": 5,
+            "topic": "Rotter: Dışsal Denetim Odağı",
+            "difficulty": "kolay",
+            "question": "İş yerinde başarısız bir performans gösterdiğinde ya da terfi alamadığında sürekli olarak 'Şansım yaver gitmedi, yöneticiler bana haksızlık yaptı, zaten kaderimde yokmuş' diyerek sonuçları dış etkenlere bağlayan bir çalışanın kişilik yönelimi hangisidir?",
+            "options": [
+                "Dışsal denetim odağı",
+                "İçsel denetim odağı",
+                "Yüksek özsaygı",
+                "Proaktif kişilik",
+                "Yüksek sorumluluk"
+            ],
+            "answer": 0,
+            "explanation": "Dışsal denetim odağına (external locus of control) sahip bireyler, başlarına gelen olayların kendi çabalarından ziyade şans, kader veya dışsal otoriteler tarafından belirlendiğine inanırlar.",
+            "source": "Robbins & Judge Bölüm 5 · Denetim Odağı"
+        },
+        {
+            "id": "v11-q24",
+            "chapter": 5,
+            "topic": "Hofstede Kültür Boyutu: Belirsizlikten Kaçınma",
+            "difficulty": "orta",
+            "question": "Bir toplumda belirsizlik ve muğlak durumların derin bir kaygı ve tehdit unsuru olarak algılandığı; insanların belirsizlikten korunmak adına katı yasalara, ayrıntılı yazılı prosedürlere, kesin güvenlik kurallarına ve mutlak hakikatlere sıkı sıkıya bağlandığı ulusal kültür boyutu Hofstede'ye göre hangisidir?",
+            "options": [
+                "Düşük güç mesafesi",
+                "Yüksek belirsizlikten kaçınma",
+                "Bireycilik",
+                "Dişillik",
+                "Kısa vadeli yönelim"
+            ],
+            "answer": 1,
+            "explanation": "Belirsizlikten kaçınma (uncertainty avoidance); bir toplumun üyelerinin belirsiz ve muğlak durumlar karşısında kendilerini tehdit altında hissetme ve bunlardan kurallarla kaçınma derecesidir.",
+            "source": "Robbins & Judge Bölüm 5 · Hofstede: Belirsizlikten Kaçınma"
+        },
+        {
+            "id": "v11-q25",
+            "chapter": 5,
+            "topic": "Hofstede Kültür Boyutu: Uzun Vadeli Yönelim",
+            "difficulty": "orta",
+            "question": "Toplumsal değerlerinde geleceğe odaklanmayı, tasarrufu, tutumluluğu, sebatı ve değişen küresel pazar koşullarına pragmatik biçimde uyum sağlamayı temel bir erdem olarak benimseyen kültürler Hofstede'nin hangi boyutuyla tanımlanır?",
+            "options": [
+                "Kısa vadeli yönelim",
+                "Yüksek güç mesafesi",
+                "Bireycilik",
+                "Uzun vadeli yönelim",
+                "Erillik"
+            ],
+            "answer": 3,
+            "explanation": "Uzun vadeli yönelim (long-term orientation); gelecekteki ödüllere değer veren, tasarrufu, sabrı ve sebatı teşvik eden ulusal kültür boyutudur.",
+            "source": "Robbins & Judge Bölüm 5 · Hofstede: Uzun Vadeye Dönüklük"
+        }
+    ]
+}
+
+Path("docs/data/v11.json").write_text(json.dumps(v11_data, ensure_ascii=False, indent=2), encoding="utf-8")
+print("v11.json başarıyla oluşturuldu.")

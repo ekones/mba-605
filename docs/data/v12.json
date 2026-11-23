@@ -1,0 +1,435 @@
+{
+  "id": "v12",
+  "version": 12,
+  "title": "Vize Deneme Seti 12",
+  "course": "Örgütsel Davranış",
+  "createdAt": "2026-11-23",
+  "description": "Robbins ve Judge Örgütsel Davranış Pearson test bankası kaynaklı vize deneme seti (25 çoktan seçmeli soru).",
+  "questions": [
+    {
+      "id": "v12-q01",
+      "chapter": 1,
+      "topic": "Mintzberg Kişilerarası Rolleri: Temsilci Rolü",
+      "difficulty": "orta",
+      "question": "Bir otomotiv şirketinin genel müdürünün şirketin yeni AR-GE merkezinin resmi açılış kurdelesini kesmesi, kırkıncı hizmet yılını dolduran emektar bir ustaya teşekkür plaketi takdim etmesi veya yabancı heyetleri şirketi temsilen karşılaması Henry Mintzberg'in hangi kişilerarası yönetsel rolüne doğrudan örnektir?",
+      "options": [
+        "Lider",
+        "İrtibat sağlayıcı",
+        "Sözcü",
+        "Monitör",
+        "Temsilci"
+      ],
+      "answer": 4,
+      "explanation": "Temsilci (figurehead / sembolik lider) rolü; yöneticinin yasal, sosyal ve törensel nitelikteki sembolik görevleri örgüt adına icra etmesini içeren kişilerarası roldür.",
+      "source": "Robbins & Judge Bölüm 1 · Mintzberg Kişilerarası Roller"
+    },
+    {
+      "id": "v12-q02",
+      "chapter": 1,
+      "topic": "ÖD Katkı Veren Disiplinler: Sosyoloji",
+      "difficulty": "orta",
+      "question": "İnsanların diğer insanlarla ilişkilerini, grup dinamiklerini, resmi örgüt yapılarını, hiyerarşik bürokrasiyi, kurumsal iletişimi ve örgüt kültürünü makro düzeyde inceleyerek örgütsel davranışa temel teorik çerçeveyi sunan davranış bilimi dalı aşağıdakilerden hangisidir?",
+      "options": [
+        "Psikoloji",
+        "Antropoloji",
+        "Sosyoloji",
+        "Siyaset Bilimi",
+        "Klinik Psikoloji"
+      ],
+      "answer": 2,
+      "explanation": "Sosyoloji; bireylerin sosyal sistemler, gruplar ve örgüt yapıları içindeki ilişkilerini makro düzeyde inceleyerek ÖD'ye örgüt yapısı, bürokrasi ve örgüt kültürü konularında katkı sağlar.",
+      "source": "Robbins & Judge Bölüm 1 · Katkıda Bulunan Disiplinler"
+    },
+    {
+      "id": "v12-q03",
+      "chapter": 1,
+      "topic": "Küreselleşme ve Kültürlerarası Yönetim",
+      "difficulty": "orta",
+      "question": "Çokuluslu bir şirkette yabancı bir ülkedeki operasyonları yönetmek üzere görevlendirilen bir genel müdürün başarılı olabilmesi için benimsemesi gereken en temel yönetsel tutum hangisidir?",
+      "options": [
+        "Kendi ana vatanındaki yönetim tekniklerini hiçbir değişiklik yapmadan katı şekilde uygulamak",
+        "Kendi kültürel değer ve normlarını evrensel kabul etmeyip yerel kültürün değerlerini ve motivasyon dinamiklerini anlamak",
+        "Tüm yerel personeli işten çıkararak kendi ülkesinden çalışanlar getirmek",
+        "Yalnızca finansal tablolara odaklanarak çalışan ilişkilerini tamamen görmezden gelmek",
+        "Şirket içi iletişimi tamamen durdurarak özerklik vermek"
+      ],
+      "answer": 1,
+      "explanation": "Küresel yöneticiler kendi kültürlerini mutlak görmekten kaçınmalı; yerel çalışanların kültürel değerlerini, beklentilerini ve motivasyon dinamiklerini anlayarak yönetim tarzlarını uyarlamalıdır.",
+      "source": "Robbins & Judge Bölüm 1 · Küreselleşmenin Getirdiği Meydan Okumalar"
+    },
+    {
+      "id": "v12-q04",
+      "chapter": 1,
+      "topic": "ÖD Modelinde Grup Düzeyi Çıktılar",
+      "difficulty": "zor",
+      "question": "Stephen Robbins ve Timothy Judge'ın üç seviyeli örgütsel davranış modelinde; grup düzeyinde analiz edilen ve üyelerin birbirini destekleme derecesi ile grubun koordineli çalışmasını tanımlayan temel çıktı değişkenleri hangisidir?",
+      "options": [
+        "Kişilik ve değerler",
+        "Liderlik ve güç süreçleri",
+        "Görev performansı ve çekilme",
+        "Grup dayanışması ve grup işlevselliği",
+        "İş tatmini ve stres"
+      ],
+      "answer": 3,
+      "explanation": "Modelde grup düzeyindeki çıktılar; grup üyelerinin birbirini destekleme derecesi olan 'grup dayanışması' (group cohesion) ve grubun işbirliği kalitesi olan 'grup işlevselliği'dir (group functioning).",
+      "source": "Robbins & Judge Bölüm 1 · ÖD Analiz Düzeyleri ve Çıktıları"
+    },
+    {
+      "id": "v12-q05",
+      "chapter": 1,
+      "topic": "Yöneticinin İletişim Fonksiyonu ve Şeffaflık",
+      "difficulty": "kolay",
+      "question": "Örgütsel davranış araştırmalarına göre; yöneticilerin çalışanlarıyla kurduğu şeffaf, açık ve düzenli çift yönlü iletişimin örgüt içindeki en belirgin pozitif etkisi aşağıdakilerden hangisidir?",
+      "options": [
+        "Belirsizliği azaltarak çalışanların kurumsal güvenini ve iş tatminini artırması",
+        "Çalışanların tüm karar alma süreçlerini tekeline alması",
+        "Örgütteki resmi hiyerarşiyi tamamen ortadan kaldırması",
+        "Çalışanların daha az çalışmasına zemin hazırlaması",
+        "Yöneticinin otoritesini sıfıra indirmesi"
+      ],
+      "answer": 0,
+      "explanation": "Açık ve şeffaf iletişim; iş yerindeki belirsizlik ve dedikoduyu azaltır, güven iklimini güçlendirir ve çalışanların rol netliğini ile iş tatminini yükseltir.",
+      "source": "Robbins & Judge Bölüm 1 · İletişim ve Yönetsel Etkililik"
+    },
+    {
+      "id": "v12-q06",
+      "chapter": 2,
+      "topic": "Ayrımcılık Uygulamaları: Ayrımcı Politikalar",
+      "difficulty": "orta",
+      "question": "Bir finans şirketinde aynı departmanda, aynı kıdemde ve aynı performans başarısıyla çalışan kadın portföy yöneticilerine, şirket yönetiminin yazısız teamülleri gereği erkek meslektaşlarından yüzde yirmi daha düşük taban maaş ödenmesi hangi ayrımcılık türüdür?",
+      "options": [
+        "Nezaketsizlik",
+        "Ayrımcı politikalar ve uygulamalar",
+        "Dışlama",
+        "Yıldırma",
+        "Alay ve hakaret"
+      ],
+      "answer": 1,
+      "explanation": "Ayrımcı politikalar ve uygulamalar; kurumun çalışanların demografik özelliklerine dayalı olarak eşit işe eşit olmayan ücret, terfi engeli veya adaletsiz ödüllendirme uygulamasıdır.",
+      "source": "Robbins & Judge Bölüm 2 · Ayrımcılık Türleri"
+    },
+    {
+      "id": "v12-q07",
+      "chapter": 2,
+      "topic": "Zihinsel Yetenek: Tümevarımsal Akıl Yürütme",
+      "difficulty": "zor",
+      "question": "Bir strateji danışmanı sahadan gelen yüzlerce münferit müşteri şikayetini ve bireysel vaka gözlemlerini titizlikle inceleyerek, bu özel verilerden yola çıkıp sektör genelinde geçerli olan mantıksal bir tüketici davranış trendi ve genel bir kural ortaya koymuştur. Danışmanın kullandığı zihinsel yetenek boyutu hangisidir?",
+      "options": [
+        "Tümdengelimsel akıl yürütme",
+        "Algısal hız",
+        "Sözel kavrayış",
+        "Tümevarımsal akıl yürütme",
+        "Mekânsal görselleştirme"
+      ],
+      "answer": 3,
+      "explanation": "Tümevarımsal akıl yürütme (inductive reasoning); özel ve münferit olaylardan yola çıkarak mantıksal bir örüntüyü keşfetme ve genel bir ilke veya sonuca ulaşabilme yeteneğidir.",
+      "source": "Robbins & Judge Bölüm 2 · Zihinsel Yetenek Boyutları"
+    },
+    {
+      "id": "v12-q08",
+      "chapter": 2,
+      "topic": "Fiziksel Yetenek: Denge Yetisi",
+      "difficulty": "kolay",
+      "question": "Fiziksel yetenekler kapsamında; bir iskele işçisinin veya elektrik teknisyeninin yerçekimine ve sarsıntılara karşı vücudunun ağırlık merkezini doğru ayarlayarak düşmeden dengede kalabilme yetisi hangi kavramla tanımlanır?",
+      "options": [
+        "Denge",
+        "Gövde gücü",
+        "Statik güç",
+        "Dinamik esneklik",
+        "Patlayıcı güç"
+      ],
+      "answer": 0,
+      "explanation": "Denge (balance); vücudun dengesini bozan kuvvetler karşısında sabit kalabilme veya vücut dengesini koruyabilme fiziksel yeteneğidir.",
+      "source": "Robbins & Judge Bölüm 2 · Fiziksel Yetenek Boyutları"
+    },
+    {
+      "id": "v12-q09",
+      "chapter": 2,
+      "topic": "Çeşitlilik Programlarında Mentörlük",
+      "difficulty": "orta",
+      "question": "Organizasyonlarda yürütülen kurumsal çeşitlilik programlarında; azınlıkların, kadınların ve genç yeteneklerin tepe yönetici basamaklarına tırmanmalarını desteklemek adına uygulanan en yüksek etkili strateji hangisidir?",
+      "options": [
+        "Çalışanlara sadece yılda bir kez online broşür dağıtmak",
+        "Tüm performans değerlendirmelerini tamamen durdurmak",
+        "Yalnızca benzer demografik gruptakileri birbiriyle eşleştirmek",
+        "Üst yönetim pozisyonlarını rastgele kurayla dağıtmak",
+        "Kıdemli üst düzey yöneticilerle düzenli mentörlük ve sponsorluk eşleşmeleri sağlamak"
+      ],
+      "answer": 4,
+      "explanation": "Mentörlük ve sponsorluk programları; azınlık ve kadın çalışanların tepe yönetimdeki ağlara erişimini sağlar, görünürlüklerini artırır ve kariyer basamaklarındaki cam tavanı kırmada en etkili yöntemdir.",
+      "source": "Robbins & Judge Bölüm 2 · Çeşitlilik Yönetimi Uygulamaları"
+    },
+    {
+      "id": "v12-q10",
+      "chapter": 2,
+      "topic": "Biyografik Özellikler: Görev Süresi (Kıdem)",
+      "difficulty": "orta",
+      "question": "Bir organizasyonda uzun görev süresine (yüksek kıdeme) sahip olan deneyimli çalışanların işletmeye sağladığı en önemli stratejik kurumsal avantaj aşağıdakilerden hangisidir?",
+      "options": [
+        "Düşük maaşla çalışmaya her zaman razı olmaları",
+        "Hiçbir zaman terfi veya takdir beklememeleri",
+        "Kurumsal hafızayı korumaları, iş süreçlerine derinlemesine hakim olmaları ve yeni çalışanlara yol göstermeleri",
+        "Teknolojik yenilikleri asla talep etmemeleri",
+        "Yönetim kararlarını sorgusuz sualsiz kabul etmeleri"
+      ],
+      "answer": 2,
+      "explanation": "Kıdemli çalışanlar kurumsal hafızanın taşıyıcısıdır; kriz anlarında problem çözme yetkinlikleri yüksektir ve yeni başlayan çalışanlara mentorluk yaparak iş süreçlerini korurlar.",
+      "source": "Robbins & Judge Bölüm 2 · Biyografik Özellikler: Kıdem"
+    },
+    {
+      "id": "v12-q11",
+      "chapter": 3,
+      "topic": "Tutumun Davranışsal Bileşeni",
+      "difficulty": "orta",
+      "question": "'Yönetimin çalışanlara yaptığı haksız uygulamaları protesto etmek amacıyla önümüzdeki ay istifa dilekçemi sunup sendikal eylemlere katılmayı planlıyorum' diyen bir çalışanın bu sözleri tutumun hangi temel bileşenini doğrudan temsil eder?",
+      "options": [
+        "Bilişsel bileşen",
+        "Duygusal bileşen",
+        "Yansıtıcı bileşen",
+        "Davranışsal bileşen",
+        "Sezgisel bileşen"
+      ],
+      "answer": 3,
+      "explanation": "Tutumun davranışsal (behavioral) bileşeni; birine ya da bir duruma karşı belirli bir şekilde davranma eğilimini, planını veya niyetini kapsar.",
+      "source": "Robbins & Judge Bölüm 3 · Tutumun Üç Bileşeni"
+    },
+    {
+      "id": "v12-q12",
+      "chapter": 3,
+      "topic": "Psikolojik Güçlendirme (Psychological Empowerment)",
+      "difficulty": "zor",
+      "question": "Çalışanların işlerinin kişisel değerleriyle ne derece örtüştüğüne (anlam), işlerini yapabilecek bilgi ve beceriye sahip olduklarına (yetkinlik), iş süreçlerinde bağımsız karar alabilme özgürlüklerine (özerklik) ve kurumun çıktılarını etkileyebilme güçlerine (etki) dair inançlarını ifade eden iş tutumu hangisidir?",
+      "options": [
+        "Devamlılık bağlılığı",
+        "Örgütsel vatandaşlık",
+        "Bilişsel rasyonalizasyon",
+        "Duygusal emek",
+        "Psikolojik güçlendirme"
+      ],
+      "answer": 4,
+      "explanation": "Psikolojik güçlendirme; çalışanın iş ortamı üzerindeki kontrol duygusunu, işinin anlamını, kendi yetkinliğini, özerkliğini ve iş sonuçları üzerindeki etkisini algılama derecesidir.",
+      "source": "Robbins & Judge Bölüm 3 · Psikolojik Güçlendirme"
+    },
+    {
+      "id": "v12-q13",
+      "chapter": 3,
+      "topic": "Bilişsel Çelişkide Algılanan Kontrol Eksikliği",
+      "difficulty": "orta",
+      "question": "Leon Festinger'ın Bilişsel Çelişki Teorisine göre; çalışanlar kendi değerleriyle uyuşmayan bir eylemi özgür iradeleriyle değil de amirlerinin doğrudan emri veya kaçınılmaz bir şirket zorunluluğu altında yaptıklarında hissettikleri çelişki gerilimi nasıl şekillenir?",
+      "options": [
+        "Birey çelişkiyi çözmek için iki kat daha fazla çaba sarfeder.",
+        "Birey hemen ertesi gün şirkete dava açar.",
+        "Sonuçların kendi kontrolleri dışında olduğuna inandıkları için daha az bilişsel çelişki ve suçluluk hissederler.",
+        "Kontrol eksikliği çelişki gerilimini her zaman en üst noktaya çıkarır.",
+        "Birey kendi tutumunu anında tersine çevirir."
+      ],
+      "answer": 2,
+      "explanation": "Bireyler sonuçların kendi kontrolleri dışında geliştiğine (dışsal baskı, amir emri vb.) inandıklarında, eylemin sorumluluğunu üstlenmezler ve bu nedenle daha az çelişki gerilimi hissederler.",
+      "source": "Robbins & Judge Bölüm 3 · Bilişsel Çelişki ve Kontrol Derecesi"
+    },
+    {
+      "id": "v12-q14",
+      "chapter": 3,
+      "topic": "İş Tatmini ve Yaşam Tatmini: Yayılma Etkisi",
+      "difficulty": "orta",
+      "question": "Örgütsel davranış literatüründe iş tatmini ile bireylerin genel yaşam tatmini arasındaki karşılıklı pozitif ilişkiyi tanımlayan 'yayılma etkisi' (spillover effect) aşağıdakilerden hangisini savunur?",
+      "options": [
+        "İş yerindeki olumlu duygu ve tatminin bireyin ev ve sosyal yaşamındaki genel mutluluğuna pozitif olarak yansıması",
+        "İş tatmininin yalnızca maaş günlerinde hissedilmesi",
+        "İşinde mutlu olan kişilerin evinde kesinlikle mutsuz olması",
+        "Yaşam tatmininin iş performansı üzerinde hiçbir etkisinin olmaması",
+        "Yayılma etkisinin yalnızca üst düzey yöneticilerde görülmesi"
+      ],
+      "answer": 0,
+      "explanation": "Yayılma etkisi; iş tatmininin çalışanların genel yaşam tatminine, aile huzuruna ve psikolojik iyilik haline doğrudan pozitif şekilde yansıdığını ifade eder.",
+      "source": "Robbins & Judge Bölüm 3 · İş Tatmini ve Yaşam Tatmini"
+    },
+    {
+      "id": "v12-q15",
+      "chapter": 3,
+      "topic": "İş Tatmininde Ücretin Marjinal Rolü",
+      "difficulty": "orta",
+      "question": "Robbins ve Judge'ın aktardığı ampirik verilere göre; çalışanların kazancı kabul edilebilir bir yaşam standardına ve temel konfor düzeyine ulaştıktan sonra, ek maaş artışlarının iş tatmini üzerindeki belirleyiciliği nasıl değişir?",
+      "options": [
+        "Maaş artışı tatmini her seferinde ikiye katlar.",
+        "Maaş artışlarının iş tatminini artırıcı marjinal etkisi hızla azalmakta ve işin kendisi ücretten daha kritik hale gelmektedir.",
+        "Maaş arttıkça çalışanlar kesinlikle mutsuzlaşır.",
+        "Zengin ülkelerde ücret tatminin tek belirleyicisidir.",
+        "Ücret ile iş tatmini arasındaki bağ tamamen koparak düşmanlığa dönüşür."
+      ],
+      "answer": 1,
+      "explanation": "Bireyler belirli bir yaşam standardına eriştikten sonra paranın iş tatmini üzerindeki marjinal etkisi zayıflar; işin niteliği, özerklik ve çalışma arkadaşları tatminde çok daha belirleyici olur.",
+      "source": "Robbins & Judge Bölüm 3 · Ücret ve İş Tatmini İlişkisi"
+    },
+    {
+      "id": "v12-q16",
+      "chapter": 4,
+      "topic": "Duygusal Zekâ Boyutları: Empati",
+      "difficulty": "orta",
+      "question": "Bir proje yöneticisinin; toplantıda sessiz kalan bir ekip üyesinin yüz ifadesindeki hafif gerginlikten ve beden dilinden onun kişisel bir sıkıntı yaşadığını sezmesi, onun hislerini anlaması ve ona destekleyici bir üslupla yaklaşması hangi duygusal zekâ boyutudur?",
+      "options": [
+        "Öz denetim",
+        "Öz farkındalık",
+        "Empati",
+        "Motivasyon",
+        "Bilişsel çelişki"
+      ],
+      "answer": 2,
+      "explanation": "Empati (sosyal farkındalık); başkalarının duygusal ipuçlarını doğru okuma, onların ne hissettiğini sezme ve onların bakış açısıyla olaylara yaklaşabilme yetisidir.",
+      "source": "Robbins & Judge Bölüm 4 · Duygusal Zekâ Boyutları: Empati"
+    },
+    {
+      "id": "v12-q17",
+      "chapter": 4,
+      "topic": "Duygusal Uyumsuzluk (Emotional Dissonance)",
+      "difficulty": "zor",
+      "question": "Hizmet sektöründe çalışan bir personelin iç dünyasında bizzat deneyimlediği gerçek duygular ile iş tanımı gereği kurumun sergilemesini zorunlu kıldığı duygular arasındaki derin uyuşmazlığa ve bu durumun yarattığı psikolojik gerilime ne ad verilir?",
+      "options": [
+        "Duygusal uyumsuzluk",
+        "Bilişsel uyum",
+        "Sosyal kaytarma",
+        "Duygusal zeka",
+        "Pozitiflik yanlılığı"
+      ],
+      "answer": 0,
+      "explanation": "Duygusal uyumsuzluk (emotional dissonance); insanların gerçekte ne hissettikleri ile dışarıya göstermek zorunda oldukları duygular arasındaki çelişkidir ve iş tükenmişliğinin en büyük nedenidir.",
+      "source": "Robbins & Judge Bölüm 4 · Duygusal Emek ve Duygusal Uyumsuzluk"
+    },
+    {
+      "id": "v12-q18",
+      "chapter": 4,
+      "topic": "Duyguların Müşteri Hizmetlerindeki Rolü",
+      "difficulty": "kolay",
+      "question": "Müşteri ile yüz yüze gelen hizmet personellerinin sergilediği samimi, güler yüzlü ve pozitif duygusal ifadelerin müşteriler üzerindeki etkisi hakkında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "Müşterilerde şüphe uyandırarak güveni zedeler.",
+        "Müşteri memnuniyetini düşürür çünkü müşteriler resmiyet ister.",
+        "Yalnızca lüks otel müşterilerinde etkilidir, perakendede etkisizdir.",
+        "Müşterilerin harcama yapmasını engeller.",
+        "Müşteri memnuniyetini artırır, tekrar satın alma niyetini güçlendirir ve marka sadakatini yükseltir."
+      ],
+      "answer": 4,
+      "explanation": "Pozitif duyguların duygu bulaşması yoluyla müşteriye geçmesi; müşteri memnuniyetini yükseltir, hizmet kalitesi algısını güçlendirir ve müşteri sadakatini pekiştirir.",
+      "source": "Robbins & Judge Bölüm 4 · Duyguların ÖD Uygulamaları: Müşteri Hizmetleri"
+    },
+    {
+      "id": "v12-q19",
+      "chapter": 4,
+      "topic": "Cinsiyet ve Duyguların İfade Biçimleri",
+      "difficulty": "orta",
+      "question": "Toplumsal cinsiyet normları ve biyolojik faktörlerin kadın ve erkeklerin duygularını ifade etme biçimleri üzerindeki etkileri hakkında yapılan araştırmalar hangisini göstermektedir?",
+      "options": [
+        "Erkekler tüm duyguları kadınlardan daha sık açığa vururlar.",
+        "Kadınlar sevinç, sevgi ve üzüntü gibi duyguları daha rahat açığa vururken, öfke ifadesi erkeklerde toplumsal olarak daha sık kabul görmektedir.",
+        "Kadınlar duyguları erkeklerden daha kısa süre yaşarlar.",
+        "Erkeklerin iş yerinde mimik kullanması kesinlikle yasaktır.",
+        "Kadın ve erkekler arasında duygu ifadesi açısından hiçbir fark yoktur."
+      ],
+      "answer": 1,
+      "explanation": "Araştırmalara göre kadınlar genel duyguları daha yoğun yaşayıp açığa vururken, öfke/kızgınlık ifadesi erkeklerde toplumsal roller gereği daha kolay ve sık sergilenmektedir.",
+      "source": "Robbins & Judge Bölüm 4 · Cinsiyet ve Duygular"
+    },
+    {
+      "id": "v12-q20",
+      "chapter": 4,
+      "topic": "Duygu Düzenleme: Duyguyu Bastırma (Suppression)",
+      "difficulty": "orta",
+      "question": "Stresli ve krizli bir durum karşısında hissettiği olumsuz duyguları zihinsel olarak dönüştürmek veya paylaşmak yerine; tamamen içine atan, hiçbir şey hissetmiyormuş gibi davranarak duygularını bilinçli olarak bastıran (suppression) bir çalışanın karşılaşacağı en temel risk hangisidir?",
+      "options": [
+        "Hemen ertesi gün terfi ettirilmesi",
+        "İş tatmininin aniden zirve yapması",
+        "Kişiliğinin tamamen dışa dönük hale gelmesi",
+        "Bastırılan duyguların içsel fizyolojik stresi artırarak uzun vadede tükenmişliğe yol açması",
+        "Bilişsel zekâsının iki katına çıkması"
+      ],
+      "answer": 3,
+      "explanation": "Duyguları bastırma tekniği anlık bir rahatlama gibi görünse de içsel fizyolojik gerilimi artırır, zihinsel kaynakları tüketir ve uzun vadede tükenmişliğe yol açar.",
+      "source": "Robbins & Judge Bölüm 4 · Duygu Düzenleme Teknikleri: Bastırma"
+    },
+    {
+      "id": "v12-q21",
+      "chapter": 5,
+      "topic": "Büyük Beşli: Uyumluluk (Agreeableness)",
+      "difficulty": "kolay",
+      "question": "Çalışma arkadaşlarıyla ilişkilerinde son derece işbirlikçi, sıcakkanlı, güvenilir, yardımsever ve çatışmadan kaçınarak ortak uzlaşma arayan bir takım üyesi Büyük Beşli kişilik modelinde hangi boyutta yüksek puana sahiptir?",
+      "options": [
+        "Uyumluluk",
+        "Makyavelizm",
+        "Dışadönüklük",
+        "Deneyime açıklık",
+        "Duygusal denge"
+      ],
+      "answer": 0,
+      "explanation": "Uyumluluk (agreeableness) boyutu; güvenilir, işbirlikçi, nazik, sıcakkanlı ve uzlaşmacı olma eğilimini tanımlar; takım çalışmasında uyumu güçlendirir.",
+      "source": "Robbins & Judge Bölüm 5 · Büyük Beşli: Uyumluluk"
+    },
+    {
+      "id": "v12-q22",
+      "chapter": 5,
+      "topic": "Tip A ve Tip B Kişilik Karşılaştırması",
+      "difficulty": "orta",
+      "question": "A tipi ve B tipi kişilik yapıları karşılaştırıldığında, B tipi kişilik yapısına sahip çalışanların en belirgin ayırıcı özelliği aşağıdakilerden hangisidir?",
+      "options": [
+        "Aynı anda onlarca işi bitirmeye çalışıp sürekli zaman baskısı hissetmeleri",
+        "Zaman aciliyeti hissetmeden rahatlayabilmeleri, sabırlı olmaları ve gereksiz yere suçluluk duymadan dinlenebilmeleri",
+        "Konuşurken diğer insanların sözünü sabırsızca kesmeleri",
+        "Başarılarını her zaman rakamsal göstergelerle ölçme saplantıları",
+        "Boş zaman geçirmekten nefret edip sürekli stres yaşamaları"
+      ],
+      "answer": 1,
+      "explanation": "B tipi kişilikler; zaman aciliyeti hissetmezler, sabırlıdırlar, gevşeyip rahatlayabilirler ve dinlenirken suçluluk duymazlar.",
+      "source": "Robbins & Judge Bölüm 5 · Tip A ve Tip B Kişilik"
+    },
+    {
+      "id": "v12-q23",
+      "chapter": 5,
+      "topic": "GLOBE Kültür Çerçevesi: Gelecek Odaklılık",
+      "difficulty": "orta",
+      "question": "GLOBE kültür araştırması çerçevesinde; bir toplumun geleceğe yönelik planlama yapma, tasarruf etme, gelecekteki ödüller için bugünden fedakarlıkta bulunma ve vizyoner hedefler koyma derecesini tanımlayan boyut hangisidir?",
+      "options": [
+        "Performans odaklılık",
+        "İnsani odaklılık",
+        "Güç mesafesi",
+        "Gelecek odaklılık",
+        "Atılganlık"
+      ],
+      "answer": 3,
+      "explanation": "Gelecek odaklılık (future orientation); bireylerin planlama yapma, geleceğe yatırım yapma ve anlık doyumları erteleme gibi geleceğe dönük davranışları teşvik etme ve ödüllendirme derecesidir.",
+      "source": "Robbins & Judge Bölüm 5 · GLOBE Kültür Çerçevesi"
+    },
+    {
+      "id": "v12-q24",
+      "chapter": 5,
+      "topic": "Değer Sistemleri ve Kuşaklar Arası Farklılıklar",
+      "difficulty": "orta",
+      "question": "Günümüz iş gücünü oluşturan kuşaklar (X kuşağı, Y kuşağı / Milenyaller ve Z kuşağı) arasındaki çalışma değerleri farklılıkları hakkında yapılan araştırmaların ortaya koyduğu temel gerçek hangisidir?",
+      "options": [
+        "Kuşaklar arasında hiçbir değer farkı bulunmamaktadır.",
+        "Z kuşağı yalnızca geleneksel hiyerarşik kurallara bağlı çalışmak ister.",
+        "Y ve Z kuşakları iş-özel yaşam dengesine, esnekliğe ve işin toplumsal anlamına önceki kuşaklara göre daha yüksek değer vermektedir.",
+        "X kuşağı çalışanları işyerinde paraya hiçbir değer vermemektedir.",
+        "Genç kuşaklar kariyerlerinde hiçbir zaman teknoloji kullanmak istemezler."
+      ],
+      "answer": 2,
+      "explanation": "Robbins ve Judge'a göre genç kuşaklar (Y ve Z) iş-yaşam dengesine, esnek çalışma imkanlarına, şirketlerin sosyal amacına ve özerkliğe önceki kuşaklara kıyasla daha çok önem vermektedir.",
+      "source": "Robbins & Judge Bölüm 5 · Kuşaklar Arası Değerler"
+    },
+    {
+      "id": "v12-q25",
+      "chapter": 5,
+      "topic": "Durum Gücü Teorisi Boyutları",
+      "difficulty": "zor",
+      "question": "Durum Gücü Teorisinde (Situation Strength Theory); bir iş ortamının ne derece 'güçlü' (kuralların davranışları tamamen belirlediği) olduğunu belirleyen dört temel durum gücü boyutu aşağıdakilerden hangisinde eksiksiz verilmiştir?",
+      "options": [
+        "Maaş, prim, unvan ve kıdem",
+        "Zekâ, hafıza, hız ve dikkat",
+        "Yaş, cinsiyet, eğitim ve tecrübe",
+        "Liderlik, iletişim, çatışma ve müzakere",
+        "Netlik, tutarlılık, kısıtlamalar ve sonuçlar"
+      ],
+      "answer": 4,
+      "explanation": "Durum Gücü Teorisi durumun gücünü dört boyutta analiz eder: 1) Netlik (clarity), 2) Tutarlılık (consistency), 3) Kısıtlamalar (constraints), 4) Sonuçlar (consequences).",
+      "source": "Robbins & Judge Bölüm 5 · Durum Gücü Teorisi Boyutları"
+    }
+  ]
+}
