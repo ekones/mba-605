@@ -9,48 +9,6 @@
   },
   "versions": [
     {
-      "id": "v1",
-      "file": "v1.json",
-      "title": "Vize Deneme Seti 1",
-      "createdAt": "2026-11-22",
-      "questionCount": 25
-    },
-    {
-      "id": "v2",
-      "file": "v2.json",
-      "title": "Vize Deneme Seti 2",
-      "createdAt": "2026-11-22",
-      "questionCount": 25
-    },
-    {
-      "id": "v3",
-      "file": "v3.json",
-      "title": "Vize Deneme Seti 3",
-      "createdAt": "2026-11-22",
-      "questionCount": 25
-    },
-    {
-      "id": "v4",
-      "file": "v4.json",
-      "title": "Vize Deneme Seti 4",
-      "createdAt": "2026-11-22",
-      "questionCount": 25
-    },
-    {
-      "id": "v5",
-      "file": "v5.json",
-      "title": "Vize Deneme Seti 5",
-      "createdAt": "2026-11-22",
-      "questionCount": 25
-    },
-    {
-      "id": "v6",
-      "file": "v6.json",
-      "title": "Vize Deneme Seti 6",
-      "createdAt": "2026-11-22",
-      "questionCount": 25
-    },
-    {
       "id": "v7",
       "file": "v7.json",
       "title": "Vize Deneme Seti 7",
